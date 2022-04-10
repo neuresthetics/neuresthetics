@@ -5,6 +5,5 @@ with a focus on the behavioral applications of brain network theory for health a
 </br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=neuresthetics.neurethetics)
-</br></br>
 <!-- [<img src="https://www.codewars.com/users/neuresthetics/badges/large">](https://www.codewars.com/users/neuresthetics) -->
 [<img src="https://www.codewars.com/users/neuresthetics/badges/micro">](https://www.codewars.com/users/neuresthetics)
