@@ -1,4 +1,5 @@
-### Hi there 👋
+## Jason Burns
+---
 
 <!--
 **neuresthetics/neuresthetics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
