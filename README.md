@@ -4,6 +4,6 @@ I am an independent researcher between theology, graph theory, and neurology,</b
 with a focus on the behavioral applications of brain network theory for health and performance.</br>
 </br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=neuresthetics.neurethetics)
+---
 <!-- [<img src="https://www.codewars.com/users/neuresthetics/badges/large">](https://www.codewars.com/users/neuresthetics) -->
 [<img src="https://www.codewars.com/users/neuresthetics/badges/micro">](https://www.codewars.com/users/neuresthetics)
