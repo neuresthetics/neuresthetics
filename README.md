@@ -2,7 +2,7 @@
 ---
 I am an independent researcher between theology, graph theory, and neurology,</br>
 with a focus on the behavioral applications of brain network theory for health and performance.</br>
-</br>
+This is in a vain attempt not to be an idiot.</br>
 
 ---
 <!-- [<img src="https://www.codewars.com/users/neuresthetics/badges/large">](https://www.codewars.com/users/neuresthetics) -->
