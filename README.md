@@ -1,5 +1,6 @@
 <p>
-  [Cognitively liberal](https://plato.stanford.edu/entries/neuroethics/#CognLibe) and entrepreneurial independent researcher between theology, graph theory, and neurology with a focus on the behavioral applications of brain network theory for health and performance.</br>
+  
+  [Cognitively liberal](https://plato.stanford.edu/entries/neuroethics/#CognLibe) entrepreneur and independent researcher between theology, graph theory, and neurology with a focus on the behavioral applications of brain network theory for health and performance.</br>
 </p>
 
 ---
