@@ -21,8 +21,6 @@ Brain network theory design principles from aggregate brain data are a compresse
 thgifdogaottnemnrevogagnirbtnod
 ```
 
----
-
 I program sometimes.
 <!-- [<img src="https://www.codewars.com/users/neuresthetics/badges/large">](https://www.codewars.com/users/neuresthetics) -->
 [<img src="https://www.codewars.com/users/neuresthetics/badges/micro">](https://www.codewars.com/users/neuresthetics)
