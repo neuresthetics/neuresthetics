@@ -7,13 +7,14 @@ with a focus on the behavioral applications of brain network theory for health a
 #### Neuro - relating to nerves or nervous system
 #### Aesthetic - relating to perception by the sneses
 ### "Neuresthetic" - relating to learning of the nerves through perception of the senses.
-<p>
+
 Take 'kinesthetic' for example: in which a person observes the geometry and function of their body in terms of efficient motion. Neuresthetic is the same principle applied to neurology.</br>
 not to be confused with [neuroaethetics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075503/), which is the study of your brain on art.</br>
 Sensing of neurological operation takes two directions which meet on the self; brain network theory principles as a summation of accumulated external sense, and internal proprioceptive techniques as internal sense. As the mind and brain draw each other, new access to autological information opens new autological ability such as mass manufactured genii.</br>
 Understanding the definition does not make you neuresthetic.</br>
 Applying neuresthetic theory to your life does.</br>
-</p>
+
+
 ---
 I'm also a programmer sometimes.
 <!-- [<img src="https://www.codewars.com/users/neuresthetics/badges/large">](https://www.codewars.com/users/neuresthetics) -->
