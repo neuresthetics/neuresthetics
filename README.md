@@ -13,7 +13,7 @@ Take 'kinesthetic' for example: in which a person observes the geometry and func
 
 Not to be confused with "neuroaesthetics" such as [this](https://direct.mit.edu/jocn/article/23/1/53/4981/Neuroaesthetics-A-Coming-of-Age-Story), and [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075503/), which is the study of your brain on art.</br>
 
-"Sensing" of neurological operation is internal and external; brain network theory design principles serve as a compressed representation of accumulated external sense along with one to one scans, and internal proprioceptive techniques serve as internal sense to higher detail given new external sense. As the mind and brain draw each other, new access to autological information opens new autological ability such as mass manufactured genii.</br>
+"Sensing" of neurological operation is done externally and internally. One-to-one personal scans serve for personal applications such as treatment and diagnostics. Many-to-one scans take the form of brain network theory design principles as compressed representation of the many so that it may fit in one.  Internal sense is driven by proprioception tech. As the mind and brain draw each other, having new external autological data opens new autological abilities such as mass manufactured genii.</br>
 
 ---
 I program sometimes.
