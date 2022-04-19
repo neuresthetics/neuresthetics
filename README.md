@@ -11,9 +11,9 @@
 
 Take 'kinesthetic' for example: in which a person observes the geometry and function of their body in terms of efficient motion. Neuresthetic is the same principle applied to neurology.</br>
 
-Not to be confused with neuroaesthetics such as [this](https://direct.mit.edu/jocn/article/23/1/53/4981/Neuroaesthetics-A-Coming-of-Age-Story), and [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075503/), which is the study of your brain on art.</br>
+Not to be confused with "neuroaesthetics" such as [this](https://direct.mit.edu/jocn/article/23/1/53/4981/Neuroaesthetics-A-Coming-of-Age-Story), and [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075503/), which is the study of your brain on art.</br>
 
-Sensing of neurological operation takes two forms; brain network theory design principles as a compressed representative of accumulated external sense, and internal proprioceptive techniques as internal sense. As the mind and brain draw each other, new access to autological information opens new autological ability such as mass manufactured genii.</br>
+"Sensing" of neurological operation is internal and external; brain network theory design principles serve as a compressed representation of accumulated external sense along with one to one scans, and internal proprioceptive techniques serve as internal sense to higher detail given new external sense. As the mind and brain draw each other, new access to autological information opens new autological ability such as mass manufactured genii.</br>
 
 ---
 I program sometimes.
