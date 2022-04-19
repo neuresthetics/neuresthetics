@@ -6,7 +6,7 @@
 ---
 
 #### Neuro - relating to nerves or nervous system
-#### Aesthetic - relating to perception by the sneses
+#### Aesthetic - relating to perception by the senses
 ### "Neuresthetic" - relating to learning of the nerves through perception of the senses.
 
 Take 'kinesthetic' for example: in which a person observes the geometry and function of their body in terms of efficient motion. Neuresthetic is the same principle applied to neurology.</br>
