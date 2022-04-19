@@ -14,5 +14,7 @@ Understanding the definition does not make you neuresthetic.</br>
 Applying neuresthetic theory to your life does.</br>
 
 ---
+
+I'm also a programmer. I guess.
 <!-- [<img src="https://www.codewars.com/users/neuresthetics/badges/large">](https://www.codewars.com/users/neuresthetics) -->
 [<img src="https://www.codewars.com/users/neuresthetics/badges/micro">](https://www.codewars.com/users/neuresthetics)
