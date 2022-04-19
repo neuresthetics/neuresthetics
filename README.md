@@ -3,8 +3,6 @@
   [Cognitively liberal](https://plato.stanford.edu/entries/neuroethics/#CognLibe) entrepreneur and independent researcher between theology, graph theory, and neurology with a focus on the behavioral applications of brain network theory for health and performance.</br>
 </p>
 
----
-
 #### Neuro - relating to nerves or nervous system
 #### Aesthetic - relating to perception by the senses
 ### "Neuresthetic" - relating to learning of the nerves through perception of the senses.
