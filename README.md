@@ -1,6 +1,5 @@
 <p>
-  Independent entrepreneurial researcher between theology, graph theory, and neurology,</br>
-with a focus on the behavioral applications of brain network theory for health and performance.</br>
+  [Cognitively liberal](https://plato.stanford.edu/entries/neuroethics/#CognLibe) and entrepreneurial independent researcher between theology, graph theory, and neurology with a focus on the behavioral applications of brain network theory for health and performance.</br>
 </p>
 
 ---
@@ -14,8 +13,6 @@ Take 'kinesthetic' for example: in which a person observes the geometry and func
 Not to be confused with neuroaesthetics such as [this](https://direct.mit.edu/jocn/article/23/1/53/4981/Neuroaesthetics-A-Coming-of-Age-Story), and [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075503/), which is the study of your brain on art.</br>
 
 Sensing of neurological operation takes two forms; brain network theory design principles as a compressed representative of accumulated external sense, and internal proprioceptive techniques as internal sense. As the mind and brain draw each other, new access to autological information opens new autological ability such as mass manufactured genii.</br>
-
-This practice is [cognitively liberal](https://plato.stanford.edu/entries/neuroethics/#CognLibe).
 
 ---
 I program sometimes.
