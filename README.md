@@ -16,6 +16,13 @@ Not to be confused with "neuroaesthetics" such as [this](https://direct.mit.edu/
 Brain network theory design principles from aggregate brain data are a compressed representation of the many for the observation of a one. As the mind and brain draw each other, increasing autological sense and analysis increases autological abilities up to such things as mass manufactured genii.</br>
 
 ---
+
+```
+thgifdogaottnemnrevogagnirbtnod
+```
+
+---
+
 I program sometimes.
 <!-- [<img src="https://www.codewars.com/users/neuresthetics/badges/large">](https://www.codewars.com/users/neuresthetics) -->
 [<img src="https://www.codewars.com/users/neuresthetics/badges/micro">](https://www.codewars.com/users/neuresthetics)
