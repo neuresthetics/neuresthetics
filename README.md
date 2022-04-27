@@ -1,5 +1,6 @@
 <p>
-  Here's an idea. FROM genius minds SELECT behavioral overlap WHERE behavior positively impacts large scale brain network architecture.</br>
+  Here's an idea.</br>
+  FROM genius minds SELECT behavioral overlap WHERE behavior positively impacts large scale brain network architecture.</br>
   For example: DaVinci, Turing, Tesla, and Einstein, were all ambidextrous pantheists. Coincidence?! Nope. Causal clustering.</br>
   These behaviors are incredibly rare to appear in the same individual along with everything else necesary to produce genius.</br>
   Being statistically rare naturally, we can choose to combine them for our benefit.</br>
