@@ -10,7 +10,8 @@
   Someone who is near-genius may very well have a breakthrough.</br>
   Imagine standardizing these behaviors across a population and seeing the entire bell curve shift.</br>
   IMO, a society which does not do this, will fail to compete with one which does.</br>
-  IMO, we need to accelerate the intelligence increase to solve the challenges of the future.</br> 
+  IMO, we need to accelerate the intelligence increase to solve the challenges of the future.</br>
+  Can genii be manufactured?</br>
 </p>
 
 <!-- <p>
