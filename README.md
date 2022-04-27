@@ -1,5 +1,17 @@
 
- ### Here's an idea:</br>
+<!-- <p>
+  
+  *[Cognitively liberal](https://plato.stanford.edu/entries/neuroethics/#CognLibe) entrepreneur and independent researcher between theology, graph theory, and neurology with a focus on the behavioral applications of brain network theory for health and performance.*</br>
+</p> -->
+
+#### Neuro - relating to nerves or nervous system
+#### Aesthetic - relating to perception by the senses
+### "Neuresthetic" [🎧](https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate) - relating to learning of the nerves through perception of the senses.
+
+Take "kinesthetics" for example: in which a person observes the form and function of their body in terms of efficient motion.</br>
+Neuresthetics is the same principle applied to neurology. A neurethetic neuresthesiologist practices neuresthetics.</br>
+
+ ### Here's the idea:</br>
 <p>
   FROM genius minds SELECT behavioral overlap WHERE behavior positively impacts large scale brain network architecture.</br>
   For example: DaVinci, Turing, Tesla, and Einstein, were all ambidextrous pantheists. Coincidence?! Nope. Causal clustering.</br>
@@ -11,19 +23,6 @@
   Imagine standardizing these behaviors across a population and seeing the entire bell curve shift.</br>
   Imagine the advantage of a population with 10, or 100 times the rate of genii appearance vs other groups.</br>
 </p>
-
-<!-- <p>
-  
-  *[Cognitively liberal](https://plato.stanford.edu/entries/neuroethics/#CognLibe) entrepreneur and independent researcher between theology, graph theory, and neurology with a focus on the behavioral applications of brain network theory for health and performance.*</br>
-</p> -->
-
-#### Neuro - relating to nerves or nervous system
-#### Aesthetic - relating to perception by the senses
-### "Neuresthetic" [🎧](https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate) - relating to learning of the nerves through perception of the senses.
-
-Take "kinesthetics" for example: in which a person observes the geometry and function of their body in terms of efficient motion.</br>
-Neuresthetics is the same principle applied to neurology. A neurethetic neuresthesiologist practices neuresthetics. N. for short.</br>
-This neologism stands for the process of learning to think better by studying and going with brain shape and function while using it.</br>
 
 <!-- Not to be confused with "neuroaesthetics" such as [this](https://direct.mit.edu/jocn/article/23/1/53/4981/Neuroaesthetics-A-Coming-of-Age-Story), and [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075503/), which is the study of your brain on art.</br> -->
 
