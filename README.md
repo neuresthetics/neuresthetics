@@ -11,6 +11,7 @@
 Take "kinesthetics" for example: in which a person observes the form and function of their body in terms of efficient motion.</br>
 Neuresthetics is the same principle applied to neurology. A neurethetic neuresthesiologist practices neuresthetics.</br>
 
+
  ### Here's the idea:</br>
 <p>
   FROM genius minds SELECT behavioral overlap WHERE behavior positively impacts large scale brain network architecture.</br>
@@ -24,6 +25,7 @@ Neuresthetics is the same principle applied to neurology. A neurethetic neuresth
   Imagine the advantage of a population with 10, or 100 times the rate of genii appearance vs other groups.</br>
 </p>
 
+^test test^
 <!-- Not to be confused with "neuroaesthetics" such as [this](https://direct.mit.edu/jocn/article/23/1/53/4981/Neuroaesthetics-A-Coming-of-Age-Story), and [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075503/), which is the study of your brain on art.</br> -->
 
 <!-- [<img src="https://www.codewars.com/users/neuresthetics/badges/large">](https://www.codewars.com/users/neuresthetics) -->
