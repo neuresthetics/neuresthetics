@@ -16,7 +16,7 @@ Neuresthetics is the same principle applied to neurology. A neurethetic neuresth
 <p>
   FROM genius minds SELECT behavioral overlap WHERE behavior positively impacts large scale brain network architecture.</br>
   For example: DaVinci, Turing, Tesla, and Einstein, were all ambidextrous pantheists. Coincidence?! Nope. Causal clustering.</br>
-  These behaviors are among the *rarest* to appear in the same individual along with everything else necessary to produce genius.</br>
+  These behaviors are among the **rarest** to appear in the same individual along with everything else necessary to produce genius.</br>
   What was once happenstance to appear together, can now be chosen.</br>
   This doesn't mean that embodying them together will automatically make one a genius,</br>
   but it will significantly increase ones processing ability.</br>
@@ -25,7 +25,7 @@ Neuresthetics is the same principle applied to neurology. A neurethetic neuresth
   Imagine the advantage of a population with 10, or 100 times the rate of genii appearance vs other groups.</br>
 </p>
 
-<sup><sub>test test</sup></sub>
+<!-- <sup><sub>test test</sup></sub> -->
 
 <!-- Not to be confused with "neuroaesthetics" such as [this](https://direct.mit.edu/jocn/article/23/1/53/4981/Neuroaesthetics-A-Coming-of-Age-Story), and [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075503/), which is the study of your brain on art.</br> -->
 
