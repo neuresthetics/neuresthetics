@@ -9,9 +9,8 @@
   but it will significantly increase ones processing ability.</br>
   Someone who is near-genius may very well have a breakthrough.</br>
   Imagine standardizing these behaviors across a population and seeing the entire bell curve shift.</br>
-  IMO, a society which does not do this, will fail to compete with one which does.</br>
+  Imagine trying to compete against a country with 10, or 100 times the rate of genii.</br>
   IMO, we need to accelerate the intelligence increase to solve the challenges of the future.</br>
-  Can genii be manufactured?</br>
 </p>
 
 <!-- <p>
@@ -24,7 +23,8 @@
 ### "Neuresthetic" [🎧](https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate) - relating to learning of the nerves through perception of the senses.
 
 Take "kinesthetics" for example: in which a person observes the geometry and function of their body in terms of efficient motion.</br>
-Neuresthetics is the same principle applied to neurology. A neurethetic neuresthesiologist practices neuresthetics.</br>
+Neuresthetics is the same principle applied to neurology. A neurethetic neuresthesiologist practices neuresthetics. N. for short.</br>
+This neologism stands for the process of learning to think better by studying and going with brain shape and function while using it.</br>
 
 <!-- Not to be confused with "neuroaesthetics" such as [this](https://direct.mit.edu/jocn/article/23/1/53/4981/Neuroaesthetics-A-Coming-of-Age-Story), and [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075503/), which is the study of your brain on art.</br> -->
 
