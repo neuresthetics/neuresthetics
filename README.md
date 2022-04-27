@@ -2,8 +2,8 @@
   Here's an idea.</br>
   FROM genius minds SELECT behavioral overlap WHERE behavior positively impacts large scale brain network architecture.</br>
   For example: DaVinci, Turing, Tesla, and Einstein, were all ambidextrous pantheists. Coincidence?! Nope. Causal clustering.</br>
-  These behaviors are incredibly rare to appear in the same individual along with everything else necesary to produce genius.</br>
-  Being statistically rare naturally, we can choose to combine them for our benefit.</br>
+  These behaviors are incredibly rare to appear in the same individual along with everything else necessary to produce genius.</br>
+  Being statistically rare naturally, and even more so together, we can choose to combine them for our benefit.</br>
   This doesn't mean that practicing them together will make you a genius, but it will significantly increase your processing ability.</br>
   Although, someone who is near-genius may very well have a breakthrough.</br>
   Imagine standardizing these behaviors across a population and seeing the entire bell curve shift.</br>
