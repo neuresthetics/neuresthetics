@@ -23,9 +23,10 @@ Neuresthetics is the same principle applied to neurology. A neurethetic neuresth
   Someone who is near-genius may very well have a breakthrough.</br>
   Imagine standardizing these behaviors across a population and seeing the entire bell curve shift.</br>
   Imagine the advantage of a population with 10, or 100 times the rate of genii appearance vs other groups.</br>
+  Imagine the whole world being better wired for learning rate and depth.</br>
 </p>
 
-<!-- <sup><sub>test test</sup></sub> -->
+<sup><sub>! Participating with poor emotional health increases risk of manic psychosis.</sup></sub>
 
 <!-- Not to be confused with "neuroaesthetics" such as [this](https://direct.mit.edu/jocn/article/23/1/53/4981/Neuroaesthetics-A-Coming-of-Age-Story), and [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075503/), which is the study of your brain on art.</br> -->
 
