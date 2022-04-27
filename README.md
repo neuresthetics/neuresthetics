@@ -9,8 +9,7 @@
   but it will significantly increase ones processing ability.</br>
   Someone who is near-genius may very well have a breakthrough.</br>
   Imagine standardizing these behaviors across a population and seeing the entire bell curve shift.</br>
-  Imagine trying to compete against a country with 10, or 100 times the rate of genii.</br>
-  IMO, we need to accelerate the intelligence increase to solve the challenges of the future.</br>
+  Imagine the advantage of a population with 10, or 100 times the rate of genii appearance vs other groups.</br>
 </p>
 
 <!-- <p>
