@@ -21,11 +21,12 @@ Neuresthetics is the same principle applied to neurology. A neurethetic neuresth
   This doesn't mean that embodying them together will automatically make one a genius,</br>
   but it will significantly increase ones processing ability.</br>
   Someone who is near-genius may very well have a breakthrough.</br>
-  Imagine standardizing these behaviors across a population and seeing the entire bell curve shift.</br>
-  Imagine the advantage of a population with 10, or 100 times the rate of genii appearance vs other groups.</br>
-  Imagine the whole world being better wired for learning rate and depth.</br>
+  Imagine standardizing these behaviors across a generation and seeing the entire bell curve shift.</br>
 </p>
 
+<p>
+  I am currently open to contracting with schools, individual academmics, and parents who want smart children.
+</p>
 
 <!-- Not to be confused with "neuroaesthetics" such as [this](https://direct.mit.edu/jocn/article/23/1/53/4981/Neuroaesthetics-A-Coming-of-Age-Story), and [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075503/), which is the study of your brain on art.</br> -->
 
