@@ -24,9 +24,8 @@ Neuresthetics is the same principle applied to neurology. A neurethetic neuresth
   Imagine standardizing these behaviors across a generation and seeing the entire bell curve shift.</br>
 </p>
 
-<p>
   [Resume](https://github.com/neuresthetics/neuresthetics/blob/main/papers/jb_resume_n.pdf)
-</p>
+
 
 <!-- Not to be confused with "neuroaesthetics" such as [this](https://direct.mit.edu/jocn/article/23/1/53/4981/Neuroaesthetics-A-Coming-of-Age-Story), and [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075503/), which is the study of your brain on art.</br> -->
 
