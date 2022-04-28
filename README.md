@@ -25,7 +25,7 @@ Neuresthetics is the same principle applied to neurology. A neurethetic neuresth
 </p>
 
 <p>
-  I am currently open to contracting with schools, individual academmics, and parents who want smart children.
+  I am currently open to contracting with schools, individual academics, and students of any age.
 </p>
 
 <!-- Not to be confused with "neuroaesthetics" such as [this](https://direct.mit.edu/jocn/article/23/1/53/4981/Neuroaesthetics-A-Coming-of-Age-Story), and [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075503/), which is the study of your brain on art.</br> -->
