@@ -19,7 +19,7 @@ Neuresthetics is the same principle applied to neurology. A neurethetic neuresth
   These behaviors are among the rarest to appear in the same individual along with everything else necessary to produce genius.</br>
   What was once happenstance to appear together, can now be chosen.</br>
   This doesn't mean that embodying them together will automatically turn one a genius,</br>
-  but it will significantly increase ones processing ability given consistent effort in all other respects.</br>
+  but it will significantly increase one's processing ability given consistency in other respects.</br>
   Someone who is near-genius may very well have a breakthrough.</br>
   Imagine standardizing these behaviors across a generation and seeing the entire bell curve shift.</br>
 </p>
