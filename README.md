@@ -3,4 +3,4 @@
 
 ### [neuresthetics.github.io](https://neuresthetics.github.io/)
 
-featured: https://github.com/neuresthetics/neuresthetics/blob/main/papers/Tesla%20Memorial%20Val%20Prop.pdf
+featured paper: [Tesla Memorial School Value Proposition](https://github.com/neuresthetics/neuresthetics/blob/main/papers/Tesla%20Memorial%20Val%20Prop.pdf)
