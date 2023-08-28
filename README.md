@@ -14,7 +14,7 @@ older/supporting papers:
 
 additional work:
 
-- <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Pharmacodynamics</a>: Multi-decade medical mystery.
+- <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Pharmacodynamics</a>: Multi-decade medical mystery solved? Insurance companies will never say.
 
 
 <!---
