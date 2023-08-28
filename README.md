@@ -14,4 +14,4 @@ featured paper: [Tesla Memorial School Value Proposition](https://github.com/neu
 
 [<img src="https://www.codewars.com/users/neuresthetics/badges/large">](https://www.codewars.com/users/neuresthetics)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=neuresthetics.neurethetics)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=neuresthetic.neurethetics)
