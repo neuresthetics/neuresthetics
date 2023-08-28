@@ -12,6 +12,11 @@ older/supporting papers:
 - <a href="https://github.com/neuresthetics/neurethetics/blob/main/internal%20papers/Base%20Class%20Theology.pdf" target="_blank">Base Class Theology</a>: Pantheism: theology of Genii.
 - <a href="https://github.com/neuresthetics/neurethetics/blob/main/internal%20papers/Thinking%20in%20Shortest%20Path%20Lengths.pdf" target="_blank">Thinking in Shortest Path Lengths</a>: Brain-first schema engineering.
 
+additional work:
+
+- <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Pharmacodynamics</a>: Multi-decade medical mystery.
+
+
 <!---
 
 [<img src="https://www.codewars.com/users/neuresthetics/badges/large">](https://www.codewars.com/users/neuresthetics)
