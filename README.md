@@ -6,7 +6,7 @@
 
 featured paper: [Tesla Memorial School Value Proposition](https://github.com/neuresthetics/neuresthetics/blob/main/papers/Tesla%20Memorial%20Val%20Prop.pdf)
 
-- <a href="https://github.com/neuresthetics/neurethetics/blob/main/internal%20papers/Ambidexterity.pdf" target="_blank">Ambidexterity Math</a>: The corticocortical advantage.
+- <a href="https://github.com/neuresthetics/neurethetics/blob/main/internal%20papers/Ambidexterity.pdf" target="_blank">Ambidexterity Math</a>: Corticocortical advantage.
 - <a href="https://github.com/neuresthetics/neurethetics/blob/main/internal%20papers/Base%20Class%20Theology.pdf" target="_blank">Base Class Theology</a>: Pantheism: theology of Genii.
 - <a href="https://github.com/neuresthetics/neurethetics/blob/main/internal%20papers/Thinking%20in%20Shortest%20Path%20Lengths.pdf" target="_blank">Thinking in Shortest Path Lengths</a>: Brain-first schema engineering.
 
