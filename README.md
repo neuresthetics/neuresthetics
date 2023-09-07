@@ -4,7 +4,7 @@
 
 <!--- ### [neuresthetics.github.io](https://neuresthetics.github.io/) --->
 
-FEATURED PAPER: [Tesla Memorial School Value Proposition](https://github.com/neuresthetics/neuresthetics/blob/main/papers/Neuresthetic%20School%20Method.pdf)
+FEATURED PAPER: [Neuresthetic School Method](https://github.com/neuresthetics/neuresthetics/blob/main/papers/Neuresthetic%20School%20Method.pdf)
 
 older/supporting papers:
 
