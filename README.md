@@ -4,13 +4,13 @@
 
 <!--- ### [neuresthetics.github.io](https://neuresthetics.github.io/) --->
 
-FEATURED PAPER: [Tesla Memorial School Value Proposition](https://github.com/neuresthetics/neuresthetics/blob/main/papers/Tesla%20Memorial%20Val%20Prop.pdf)
+FEATURED PAPER: [Neuresthetic Method](https://github.com/neuresthetics/neuresthetics/blob/main/papers/Neuresthetic%20School%20Method.pdf)
 
 older/supporting papers:
 
-- <a href="https://github.com/neuresthetics/neurethetics/blob/main/internal%20papers/Ambidexterity.pdf" target="_blank">Ambidexterity Math</a>: Corticocortical advantage.
-- <a href="https://github.com/neuresthetics/neurethetics/blob/main/internal%20papers/Base%20Class%20Theology.pdf" target="_blank">Base Class Theology</a>: Pantheism: theology of Genii.
-- <a href="https://github.com/neuresthetics/neurethetics/blob/main/internal%20papers/Thinking%20in%20Shortest%20Path%20Lengths.pdf" target="_blank">Thinking in Shortest Path Lengths</a>: Brain-first schema engineering.
+- <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Ambidexterity.pdf" target="_blank">Ambidexterity Math</a>: Corticocortical advantage.
+- <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Base%20Class%20Theology.pdf" target="_blank">Base Class Theology</a>: Pantheism: theology of Genii.
+- <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Thinking%20in%20Shortest%20Path%20Lengths.pdf" target="_blank">Thinking in Shortest Path Lengths</a>: Brain-first schema engineering.
 
 additional work:
 
