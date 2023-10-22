@@ -1,4 +1,4 @@
-NEURESTHETIC
+NEURESTHETIC (adj.)
 
 [🎧](https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate) - prounounced like "kinesthetic", but for nerves.
 
