@@ -6,8 +6,6 @@ neuro: word-forming element meaning “pertaining to a nerve or nerves or the ne
 
 aesthetic: (n.) 1798, from German Ästhetisch (mid-18c.) or French esthétique (which is from German), ultimately from Greek aisthetikos “of or for perception by the senses, perceptive,” of things, “perceptible”
 
-Turning neuropsychology on its head.
-
 <!--- ### [neuresthetics.github.io](https://neuresthetics.github.io/) --->
 
 FEATURED PAPER [NEURESTHETIC SCHOOL METHOD](https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Neuresthetic%20School%20Method.pdf)
