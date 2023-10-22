@@ -1,4 +1,4 @@
-[🎧](https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate) - like kinesthetic, for nerves.
+[🎧](https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate) - prounounced like "kinesthetic", but for nerves.
 
 <!--- ### [neuresthetics.github.io](https://neuresthetics.github.io/) --->
 
