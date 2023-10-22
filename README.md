@@ -4,7 +4,7 @@
 
 <!--- ### [neuresthetics.github.io](https://neuresthetics.github.io/) --->
 
-FEATURED PAPER: [Neuresthetic Method]([https://github.com/neuresthetics/neuresthetics/blob/main/papers/Neuresthetic%20School%20Method.pdf](https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Neuresthetic%20School%20Method.pdf))
+- <a href="[https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Ambidexterity.pdf](https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Neuresthetic%20School%20Method.pdf)" target="_blank">FEATURED PAPER</a>: Corticocortical advantage.
 
 older/supporting papers:
 
