@@ -4,7 +4,7 @@
 
 <!--- ### [neuresthetics.github.io](https://neuresthetics.github.io/) --->
 
-[FEATURED PAPER][NEURESTHETIC SCHOOL METHOD](https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Neuresthetic%20School%20Method.pdf)
+FEATURED PAPER [NEURESTHETIC SCHOOL METHOD](https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Neuresthetic%20School%20Method.pdf)
 
 older/supporting papers:
 
