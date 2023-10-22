@@ -2,6 +2,8 @@ NEURESTHETIC (adj.)
 
 [🎧](https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate) - prounounced like "kinesthetic", but for nerves.
 
+<a href="https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate" target="_blank">🎧</a>: - prounounced like "kinesthetic", but for nerves.
+
 neuro: word-forming element meaning “pertaining to a nerve or nerves or the nervous system,” from Greek neura
 
 aesthetic: (n.) 1798, from German Ästhetisch (mid-18c.) or French esthétique (which is from German), ultimately from Greek aisthetikos “of or for perception by the senses, perceptive,” of things, “perceptible”
