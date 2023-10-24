@@ -24,7 +24,7 @@ Additional work:
 
 See AI redux and outlines of the original (1.0) papers in [Papers](https://github.com/neuresthetics/neuresthetics/tree/main/papers)
 
-[See First Business Proposal Draft](https://github.com/neuresthetics/neuresthetics/blob/main/papers/N%20business%20proposal.pdf)
+[Business Proposal](https://github.com/neuresthetics/neuresthetics/blob/main/papers/N%20business%20proposal.pdf)
 
 
 <!---
