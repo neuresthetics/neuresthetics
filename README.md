@@ -1,3 +1,5 @@
+[Business Proposal](https://github.com/neuresthetics/neuresthetics/blob/main/papers/N%20business%20proposal.pdf)
+
 NEURESTHETIC (adj.)
 
 ><a href="https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate" target="_blank">🎧</a>: - prounounced like "kinesthetic", but for nerves.
@@ -23,8 +25,6 @@ Additional work:
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Pharmacodynamics</a>: Multi-decade medical mystery solved? Insurance companies will never say.
 
 See AI redux and outlines of the original (1.0) papers in [Papers](https://github.com/neuresthetics/neuresthetics/tree/main/papers)
-
-[Business Proposal](https://github.com/neuresthetics/neuresthetics/blob/main/papers/N%20business%20proposal.pdf)
 
 
 <!---
