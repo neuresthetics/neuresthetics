@@ -1,6 +1,6 @@
-NEURESTHETIC (adj.)
+NEURESTHETIC (adj.) Schema and education modeling around how to think in terms of the way the brain is shaped.
 
-><a href="https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate" target="_blank">🎧</a>: - prounounced like "kinesthetic", but for nerves.
+><a href="https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate" target="_blank">🎧</a>: - pronounced like "kinesthetic", but for nerves.
 
 >neuro: word-forming element meaning “pertaining to a nerve or nerves or the nervous system,” from Greek neura
 
@@ -14,11 +14,11 @@ FEATURED PAPER:
 
 Older/supporting papers:
 
-- <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Statistical%20Signifigance.pdf" target="_blank">Statistical significance </a>: Lowering the role of chance.
+- <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Statistical%20Signifigance.pdf" target="_blank">Statistical Significance </a>: Lowering the role of chance.
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Ambidexterity.pdf" target="_blank">Ambidexterity Math</a>: Corticocortical advantage.
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Base%20Class%20Theology.pdf" target="_blank">Base Class Theology</a>: Theology of Genii.
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Thinking%20in%20Shortest%20Path%20Lengths.pdf" target="_blank">Thinking in Shortest Path Lengths</a>: Brain-first schema engineering.
-- <a href="https://github.com/neuresthetics" target="_blank">Liabilities and Risk</a>: Trauma and atypical response. Coming soon.
+- <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Liabilities%20and%20Risk.pdf" target="_blank">Risks and Liabilities</a>
   
 Additional work:
 
