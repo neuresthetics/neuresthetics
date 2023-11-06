@@ -1,3 +1,5 @@
+Hey there, thanks for stopping by. This is a collection of papers based on a body of research called neuresthetics.
+
 NEURESTHETIC (adj.) Schema and education modeling around how to think in terms of the way the brain is shaped.
 
 ><a href="https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate" target="_blank">🎧</a>: - pronounced like "kinesthetic", but for nerves.
@@ -19,7 +21,7 @@ Older/supporting papers:
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Base%20Class%20Theology.pdf" target="_blank">Base Class Theology</a>: Theology of Genii.
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Thinking%20in%20Shortest%20Path%20Lengths.pdf" target="_blank">Thinking in Shortest Path Lengths</a>: Brain-first schema engineering.
   
-[Business Proposal, in editing](https://github.com/neuresthetics/neuresthetics/blob/main/papers/N%20business%20proposal.pdf)
+<!---[Business Proposal, in editing](https://github.com/neuresthetics/neuresthetics/blob/main/papers/N%20business%20proposal.pdf) --->
 
 ---
 
