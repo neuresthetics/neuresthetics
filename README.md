@@ -19,11 +19,13 @@ Older/supporting papers:
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Base%20Class%20Theology.pdf" target="_blank">Base Class Theology</a>: Theology of Genii.
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Thinking%20in%20Shortest%20Path%20Lengths.pdf" target="_blank">Thinking in Shortest Path Lengths</a>: Brain-first schema engineering.
   
+[Business Proposal, in editing](https://github.com/neuresthetics/neuresthetics/blob/main/papers/N%20business%20proposal.pdf)
+
+---
+
 Additional work:
 
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Pharmacodynamics</a>: Multi-decade medical mystery solved?
-
-[Business Proposal, in editing](https://github.com/neuresthetics/neuresthetics/blob/main/papers/N%20business%20proposal.pdf)
 
 <!--- See AI redux and outlines of the original (1.0) papers in [Papers](https://github.com/neuresthetics/neuresthetics/tree/main/papers) --->
 
