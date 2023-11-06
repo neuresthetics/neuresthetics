@@ -18,11 +18,16 @@ FEATURED PAPER:
 Supporting and elaborating papers:
 
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Statistical%20Signifigance.pdf" target="_blank">Statistical Significance </a>
-  >This paper is about the statistical significance of ambidexterity + pantheism.
+  >This paper is about the statistical significance of ambidexterity + rational theology.
   
-- <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Ambidexterity.pdf" target="_blank">Ambidexterity Math</a>: Corticocortical advantage.
-- <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Base%20Class%20Theology.pdf" target="_blank">Base Class Theology</a>: Theology of Genii.
-- <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Thinking%20in%20Shortest%20Path%20Lengths.pdf" target="_blank">Thinking in Shortest Path Lengths</a>: Brain-first schema engineering.
+- <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Ambidexterity.pdf" target="_blank">Ambidexterity Math</a>
+  >This paper is about the rewards of ambidexterity training.
+  
+- <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Base%20Class%20Theology.pdf" target="_blank">Base Class Theology</a> 
+  >This paper is about the rewards of rational theology.
+  
+- <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Thinking%20in%20Shortest%20Path%20Lengths.pdf" target="_blank">Thinking in Shortest Path Lengths</a>
+  >This paper is about how to model information in terms of how the brain is shaped.
   
 <!---[Business Proposal, in editing](https://github.com/neuresthetics/neuresthetics/blob/main/papers/N%20business%20proposal.pdf) --->
 
