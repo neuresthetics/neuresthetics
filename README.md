@@ -13,7 +13,7 @@ NEURESTHETIC (adj.) Schema and education modeling in terms of the way the brain 
 FEATURED PAPER:
 
 [NEURESTHETIC SCHOOL METHOD](https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Neuresthetic%20School%20Method.pdf)
-  >The friendly value proposition.
+  >A value proposition.
 
 Supporting and elaborating papers:
 
@@ -37,7 +37,8 @@ Additional work:
 
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Pharmacodynamics</a>
 
-  >This paper is a byproduct of researching neuresthetics. Multi-decade pharmaceutical mystery solved?
+  >This paper is a byproduct of researching neuresthetics.
+  >Multi-decade pharmaceutical mystery solved?
 
 <!--- See AI redux and outlines of the original (1.0) papers in [Papers](https://github.com/neuresthetics/neuresthetics/tree/main/papers) --->
 
