@@ -1,6 +1,6 @@
 Hey there, thanks for stopping by. This is a collection of papers based on a body of research called neuresthetics.
 
-NEURESTHETIC (adj.) Schema and education modeling around how to think in terms of the way the brain is shaped.
+NEURESTHETIC (adj.) Schema and education modeling in terms of the way the brain is shaped.
 
 ><a href="https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate" target="_blank">🎧</a>: - pronounced like "kinesthetic", but for nerves.
 
