@@ -21,13 +21,13 @@ Supporting and elaborating papers:
   >This paper is about the statistical significance of ambidexterity + rational theology.
   
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Ambidexterity.pdf" target="_blank">Ambidexterity Math</a>
-  >This paper is about the rewards of ambidexterity training.
+  >This paper is about the rewards of ambidexterity training by itself.
   
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Base%20Class%20Theology.pdf" target="_blank">Base Class Theology</a> 
-  >This paper is about the rewards of rational theology.
+  >This paper is about the rewards of rational theology on its own.
   
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Thinking%20in%20Shortest%20Path%20Lengths.pdf" target="_blank">Thinking in Shortest Path Lengths</a>
-  >This paper is about how to model information in terms of how the brain is shaped.
+  >This paper is about information modeling in terms of how the brain is shaped.
   
 <!---[Business Proposal, in editing](https://github.com/neuresthetics/neuresthetics/blob/main/papers/N%20business%20proposal.pdf) --->
 
@@ -37,7 +37,7 @@ Additional work:
 
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Pharmacodynamics</a>
 
-  >This paper is a byproduct of researching neuresthetics.
+  >This one is a byproduct of neuresthetics.
   >Multi-decade pharmaceutical mystery solved?
 
 <!--- See AI redux and outlines of the original (1.0) papers in [Papers](https://github.com/neuresthetics/neuresthetics/tree/main/papers) --->
