@@ -13,6 +13,7 @@ NEURESTHETIC (adj.) Schema and education modeling in terms of the way the brain 
 FEATURED PAPER:
 
 [NEURESTHETIC SCHOOL METHOD](https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Neuresthetic%20School%20Method.pdf)
+>this is my dream: a brick-and-mortar longitudinal and generational experiment in intelligence.
 
 Supporting and elaborating papers:
 
