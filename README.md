@@ -1,4 +1,4 @@
-Hey there, thanks for stopping by. This is a collection of papers based on a body of research called neuresthetics.
+This is a collection of papers based on a body of research called neuresthetics.
 
 NEURESTHETIC (adj.) Schema and education modeling in terms of the way the brain is shaped.
 
@@ -14,7 +14,7 @@ FEATURED PAPER:
 
 [NEURESTHETIC SCHOOL METHOD](https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Neuresthetic%20School%20Method.pdf)
 
-Older/supporting papers:
+Supporting and elaborating papers:
 
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Statistical%20Signifigance.pdf" target="_blank">Statistical Significance </a>: Lowering the role of chance.
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Ambidexterity.pdf" target="_blank">Ambidexterity Math</a>: Corticocortical advantage.
