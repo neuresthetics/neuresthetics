@@ -13,12 +13,12 @@ NEURESTHETIC (adj.) Schema and education modeling in terms of the way the brain 
 FEATURED PAPER:
 
 [NEURESTHETIC SCHOOL METHOD](https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Neuresthetic%20School%20Method.pdf)
->this is my dream: a brick-and-mortar longitudinal and generational experiment in intelligence.
+  >This is my dream: a brick-and-mortar longitudinal and generational experiment in intelligence.
 
 Supporting and elaborating papers:
 
-- <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Statistical%20Signifigance.pdf" target="_blank">Statistical Significance </a>: Lowering the role of chance.
-  >test
+- <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Statistical%20Signifigance.pdf" target="_blank">Statistical Significance </a>
+  >This paper is about the statistical significance of ambidexterity + pantheism.
   
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Ambidexterity.pdf" target="_blank">Ambidexterity Math</a>: Corticocortical advantage.
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Base%20Class%20Theology.pdf" target="_blank">Base Class Theology</a>: Theology of Genii.
