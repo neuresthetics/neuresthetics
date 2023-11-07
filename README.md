@@ -1,6 +1,3 @@
->[!NOTE]
->test
-
 This is a collection of papers based on a body of research called neuresthetics.
 
 NEURESTHETIC (adj.) Schema and education modeling in terms of the way the brain is shaped.
@@ -16,7 +13,7 @@ NEURESTHETIC (adj.) Schema and education modeling in terms of the way the brain 
 FEATURED PAPER:
 
 [NEURESTHETIC SCHOOL METHOD](https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Neuresthetic%20School%20Method.pdf)
-  >A value proposition.
+  >A value proposition for the education method.
 
 Supporting and elaborating papers:
 
@@ -42,6 +39,10 @@ Additional work:
 
   >This one is a byproduct of neuresthetics.
   >Multi-decade pharmaceutical mystery solved?
+
+>[!NOTE]
+>These papers are all a work in progress. I update them from time to time.
+
 
 <!--- See AI redux and outlines of the original (1.0) papers in [Papers](https://github.com/neuresthetics/neuresthetics/tree/main/papers) --->
 
