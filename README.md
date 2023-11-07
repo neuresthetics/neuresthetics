@@ -49,7 +49,7 @@ Additional work:
 > I'm looking for translation help with Chinese, Hindi, and Spanish.
 
 > [!WARNING]
-> Engaging in behavioral brain network theory can have unexpected effects.
+> Applied behavioral brain network theory literature is psychoactive.
 <!--- See AI redux and outlines of the original (1.0) papers in [Papers](https://github.com/neuresthetics/neuresthetics/tree/main/papers) --->
 
 
