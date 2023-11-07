@@ -1,3 +1,6 @@
+>[!NOTE]
+>test
+
 This is a collection of papers based on a body of research called neuresthetics.
 
 NEURESTHETIC (adj.) Schema and education modeling in terms of the way the brain is shaped.
