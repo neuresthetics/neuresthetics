@@ -49,7 +49,7 @@ Additional work:
 > I'm looking for translation help with Chinese, Hindi, and Spanish.
 
 > [!WARNING]
-> Applied behavioral brain network theory risk factors scale with age.
+> Applied behavioral brain network theory risk factors scale with age?
 <!--- See AI redux and outlines of the original (1.0) papers in [Papers](https://github.com/neuresthetics/neuresthetics/tree/main/papers) --->
 
 
