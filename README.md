@@ -40,11 +40,16 @@ Additional work:
   >This one is a byproduct of neuresthetics.
   >Multi-decade pharmaceutical mystery solved?
 
+---
 
->[!NOTE]
->These papers are all a work in progress. I update them from time to time.
+> [!NOTE]
+> These papers are all a work in progress. I update them from time to time.
 
+> [!IMPORTANT]
+> I'm looking for translation help with Chinese, Hindi, and Spanish.
 
+> [!WARNING]
+> Engaging in behavioral brain network theory can have unexpected effects.
 <!--- See AI redux and outlines of the original (1.0) papers in [Papers](https://github.com/neuresthetics/neuresthetics/tree/main/papers) --->
 
 
