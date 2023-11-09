@@ -40,7 +40,7 @@ Additional work:
   >This one is a byproduct of neuresthetics.
   >Multi-decade pharmaceutical mystery solved?
 
----
+<!---
 
 > [!NOTE]
 > These papers are all a work in progress. I update them from time to time.
@@ -50,6 +50,8 @@ Additional work:
 
 > [!WARNING]
 > Applied behavioral brain network theory risk factors scale with age?
+--->
+
 <!--- See AI redux and outlines of the original (1.0) papers in [Papers](https://github.com/neuresthetics/neuresthetics/tree/main/papers) --->
 
 
