@@ -1,4 +1,4 @@
-This is a collection of my code and papers based on a body of research called neuresthetics.
+This is a collection of code and papers based on a body of research I've named neuresthetics.
 
 NEURESTHETIC (adj.) Schema and education modeling in terms of the way the brain is shaped.
 
