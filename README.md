@@ -19,9 +19,14 @@ Supporting and elaborating papers:
 
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Statistical%20Signifigance.pdf" target="_blank">Statistical Significance </a>
   >This paper is about the statistical significance of ambidexterity + rational theology.
-  
+
+- <a href="" target="_blank">Ambidexterity Math</a>
+  >This paper is about the rewards of ambidexterity training by itself.
+
+<!---
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Ambidexterity.pdf" target="_blank">Ambidexterity Math</a>
   >This paper is about the rewards of ambidexterity training by itself.
+--->
   
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Base%20Class%20Theology.pdf" target="_blank">Base Class Theology</a> 
   >This paper is about the rewards of rational theology on its own.
