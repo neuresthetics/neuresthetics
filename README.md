@@ -21,7 +21,7 @@ Supporting and elaborating papers:
   >This paper is about the statistical significance of ambidexterity + rational theology.
 
 - <a href="" target="_blank">Ambidexterity Math</a>
-  >This paper is about the rewards of ambidexterity training by itself.
+  >down for edits.
 
 <!---
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Ambidexterity.pdf" target="_blank">Ambidexterity Math</a>
