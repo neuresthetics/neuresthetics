@@ -20,8 +20,8 @@ Supporting and elaborating papers:
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Statistical%20Signifigance.pdf" target="_blank">Statistical Significance </a>
   >This paper is about the statistical significance of ambidexterity + rational theology.
 
-- <a href="" target="_blank">Ambidexterity Math</a>
-  >down for edits.
+- <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Ambidexterity.pdf" target="_blank">Ambidexterity Math</a>
+  >Transhemisphereic networking relative characteristics and impact.
 
 <!---
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Ambidexterity.pdf" target="_blank">Ambidexterity Math</a>
