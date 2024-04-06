@@ -10,7 +10,7 @@ NEURESTHETIC (adj.) Schema and education modeling in terms of the way the brain 
 
 <!--- ### [neuresthetics.github.io](https://neuresthetics.github.io/) --->
 
-FEATURED PAPER:
+Featured Paper:
 
 [NEURESTHETIC SCHOOL METHOD](https://github.com/neuresthetics/neuresthetics/blob/main/papers/WhitePage.pdf)
   >A value proposition for the education method.
