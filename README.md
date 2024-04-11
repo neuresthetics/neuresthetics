@@ -1,5 +1,3 @@
-This is a collection of code and papers based on a body of research I've named neuresthetics.
-
 NEURESTHETIC (adj.) Schema and education modeling in terms of the way the brain is shaped.
 
 ><a href="https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate" target="_blank">🎧</a>: - pronounced like "kinesthetic", but for nerves.
@@ -10,9 +8,9 @@ NEURESTHETIC (adj.) Schema and education modeling in terms of the way the brain 
 
 <!--- ### [neuresthetics.github.io](https://neuresthetics.github.io/) --->
 
-FEATURED PAPER:
+Featured Paper:
 
-[NEURESTHETIC SCHOOL METHOD](https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Neuresthetic%20School%20Method.pdf)
+[NEURESTHETIC SCHOOL METHOD](https://github.com/neuresthetics/neuresthetics/blob/main/papers/WhitePage.pdf)
   >A value proposition for the education method.
 
 Supporting and elaborating papers:
