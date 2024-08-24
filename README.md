@@ -7,7 +7,7 @@ NEURESTHETIC (adj.) Schema and education modeling in terms of the way the brain 
 >aesthetic: (n.) 1798, from German Ästhetisch (mid-18c.) or French esthétique (which is from German), ultimately from Greek aisthetikos “of or for perception by the senses, perceptive,” of things, “perceptible”
 
 <!--- ### [neuresthetics.github.io](https://neuresthetics.github.io/) --->
-
+<!--
 Featured Paper:
 
 [NEURESTHETIC SCHOOL METHOD](https://github.com/neuresthetics/neuresthetics/blob/main/papers/WhitePage.pdf)
@@ -19,13 +19,14 @@ Supporting and elaborating papers:
   >This paper is about the statistical significance of ambidexterity + rational theology.
 
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Ambidexterity.pdf" target="_blank">Ambidexterity Math</a>
-  >Transhemisphereic networking relative characteristics and impact.
+  >Transhemisphereic networking relative characteristics and impact. -->
 
 <!---
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Ambidexterity.pdf" target="_blank">Ambidexterity Math</a>
   >This paper is about the rewards of ambidexterity training by itself.
 --->
-  
+
+  <!-- 
 - <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/PAPERS%202.0/Base%20Class%20Theology.pdf" target="_blank">Base Class Theology</a> 
   >This paper is about the rewards of rational theology on its own.
   
@@ -34,7 +35,7 @@ Supporting and elaborating papers:
   
 <!---[Business Proposal, in editing](https://github.com/neuresthetics/neuresthetics/blob/main/papers/N%20business%20proposal.pdf) --->
 
----
+<!---
 
 Additional work:
 
@@ -43,19 +44,7 @@ Additional work:
   >This one is a byproduct of neuresthetics.
   >Multi-decade pharmaceutical mystery solved?
 
-<!---
-> [!NOTE]
-> These papers are all a work in progress. I update them from time to time.
 
-> [!IMPORTANT]
-> I'm looking for translation help with Chinese, Hindi, and Spanish.
-
-> [!WARNING]
-> Applied behavioral brain network theory risk factors scale with age?
---->
-
-
-<!--- See AI redux and outlines of the original (1.0) papers in [Papers](https://github.com/neuresthetics/neuresthetics/tree/main/papers) --->
 
 
 <!---
