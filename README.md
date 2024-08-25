@@ -6,6 +6,10 @@ NEURESTHETIC (adj.) Schema and education modeling in terms of the way the brain 
 
 >aesthetic: (n.) 1798, from German Ästhetisch (mid-18c.) or French esthétique (which is from German), ultimately from Greek aisthetikos “of or for perception by the senses, perceptive,” of things, “perceptible”
 
+Featured work:
+
+[Base Class](https://github.com/neuresthetics/neuresthetics/blob/main/Base%20Class%20A.0.9.9.pdf)
+
 <!--- ### [neuresthetics.github.io](https://neuresthetics.github.io/) --->
 <!--
 Featured Paper:
@@ -35,11 +39,9 @@ Supporting and elaborating papers:
   
 <!---[Business Proposal, in editing](https://github.com/neuresthetics/neuresthetics/blob/main/papers/N%20business%20proposal.pdf) --->
 
-<!---
 
 Additional work:
-
-- <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Pharmacodynamics</a>
+--<a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Pharmacodynamics</a>
 
   >This one is a byproduct of neuresthetics.
   >Multi-decade pharmaceutical mystery solved?
