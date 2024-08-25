@@ -9,6 +9,8 @@ NEURESTHETIC (adj.) Schema and education modeling in terms of the way the brain 
 Featured work:
 
 [Base Class](https://github.com/neuresthetics/neuresthetics/blob/main/Base%20Class%20A.0.9.9.pdf)
+>This text is counterintuitively counter culture, and mind-altering in nature.
+>It contains critical analysis of Abrahamic religion out of social necessity, due to it being an extreme risk factor for the primary content of this book, which is a model designed to exploit brain network trends, identified and applied through behavior, to increase the appearance of genius level intellect within a standardizing population, by 1,000-10,000%.
 
 <!--- ### [neuresthetics.github.io](https://neuresthetics.github.io/) --->
 <!--
@@ -41,7 +43,7 @@ Supporting and elaborating papers:
 
 
 Additional work:
---<a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Pharmacodynamics</a>
+<a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Pharmacodynamics</a>
 
   >This one is a byproduct of neuresthetics.
   >Multi-decade pharmaceutical mystery solved?
