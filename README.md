@@ -1,4 +1,4 @@
-NEURESTHETIC (adj.) Schema and education modeling in terms of the way the brain is shaped.
+Neuresthetic (adj.) Schema engineered/engineering in respect to the shape and function of the brain.
 
 ><a href="https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate" target="_blank">🎧</a>: - pronounced like "kinesthetic", but for nerves.
 
@@ -43,6 +43,7 @@ Supporting and elaborating papers:
 
 
 Additional work:
+
 <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Pharmacodynamics</a>
 
   >This one is a byproduct of neuresthetics.
