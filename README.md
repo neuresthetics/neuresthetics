@@ -12,6 +12,8 @@ Featured work:
 >This text is counterintuitively counter culture, and mind-altering in nature.
 >It contains critical analysis of Abrahamic religion out of social necessity, due to it being an extreme risk factor for the primary content of this book, which is a model designed to exploit brain network trends, identified and applied through behavior, to increase the appearance of genius level intellect within a standardizing population, by 1,000-10,000%.
 
+![Alt text](resources/Screenshot 2024-08-28 at 10.51.03 PM.png)
+
 <!--- ### [neuresthetics.github.io](https://neuresthetics.github.io/) --->
 <!--
 Featured Paper:
