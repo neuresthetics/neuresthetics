@@ -8,6 +8,33 @@ Neuresthetic (adj.) Schema engineered/engineering in respect to the shape and fu
 
 Featured work:
 
+The Free Man
+
+The creature tail to eye an eyer.
+
+To beat drums in the breath of fire.
+
+Lo, I am a product of their waste,
+
+A dog with master’s denial.
+
+Howl, flame burns a thief so sly,
+
+For soaring such forbidden highs.
+
+Lo, upward downward take,
+
+A word from feathered spiral.
+
+Exhale of sin with heavy sigh,
+
+Great sufferings materialize,
+
+Lo, my keeper make,
+
+A fire of revival.
+
+
 Book: Pull or clone the repository for a copy, or read it here:
 
 PDF: ["Base Class" A.1.1.4](https://github.com/neuresthetics/neuresthetics/blob/main/Base%20Class%20A.1.1.4.pdf)
