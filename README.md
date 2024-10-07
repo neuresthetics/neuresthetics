@@ -14,6 +14,7 @@ PDF: ["Base Class" Version A.1.1.4](https://github.com/neuresthetics/neurestheti
 
 
 Table of Contents
+
 i. Forward and Considerations 7
 ii. Freedom of Speech 8
 Part Zero: The Past
@@ -23,19 +24,25 @@ Part Zero: The Past
 0.3 Christian Nationalism 23
 0.4 Lawfare on Abrahamic Religion 24
 0.5 Towards a Rational Spirituality 27
+
 Part One: Neuresthetics
+
 1.0 Neuresthetic 29
 1.1 Statistical Vision 30
 1.2 Neuresthetic Propagation 35
 1.3 Neuresthetic Meditation 37
 1.4 The Genii Covenant 38
 1.5 Null Hypothesis 40
+
 Part Two: Base Class Pantheism
+
 2.0 Pantheistic Religions 43
 2.1 Spinoza’s Ethics 44
 2.2 Base Class Theology 46
 2.3 ⊞ Base Class Good and Evil 49
+
 Part Three: Base Class Analysis
+
 3.0 The Creator 51
 3.1 Knowledge 52
 3.2 Particle Physics 53
@@ -58,7 +65,9 @@ Part Three: Base Class Analysis
 3.19 Within Itself 73
 3.20 Sophistry 75
 3.21 Idolatry 76
+
 Part Four: The Future
+
 4.0 Year Zero 78
 4.1 Machine Intelligence 79
 4.2 Brutality 80
@@ -66,7 +75,9 @@ Part Four: The Future
 4.4 Liability 84
 4.5 Adaptation 85
 4.6 Transcendence from Base Class 86
+
 Part Five: Practical Matters
+
 5.0 Service Goals 88
 5.1 Sacrament 89
 5.2 Membership 91
