@@ -8,7 +8,7 @@ Neuresthetic (adj.) Schema engineered/engineering in respect to the shape and fu
 
 Featured work:
 
-["Base Class" Version A.1.1.3](https://github.com/neuresthetics/neuresthetics/blob/main/Base%20Class%20A.1.1.3.pdf)
+Free: ["Base Class" Version A.1.1.4](https://github.com/neuresthetics/neuresthetics/blob/main/Base%20Class%20A.1.1.4.pdf)
 >This text is counterintuitively counter culture, and mind-altering in nature.
 >It contains critical analysis of Abrahamic religion out of social obligation, due to it being an extreme risk factor for the primary content of this book, which is a model designed to exploit brain network trends, identified and applied through behavior, to increase the appearance of genius level intellect within a standardizing population, by 1,000-10,000%. 
 
