@@ -6,9 +6,8 @@ Neuresthetic (adj.) Schema engineered/engineering in respect to the shape and fu
 
 >aesthetic: (n.) 1798, from German Ästhetisch (mid-18c.) or French esthétique (which is from German), ultimately from Greek aisthetikos “of or for perception by the senses, perceptive,” of things, “perceptible”
 
-Featured work:
-
-The Free Man
+```
+THE FREE MAN
 
 The creature tail to eye an eyer.
 
@@ -33,7 +32,7 @@ Great sufferings materialize,
 Lo, my keeper make,
 
 A fire of revival.
-
+```
 
 Book: Pull or clone the repository for a copy, or read it here:
 
