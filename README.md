@@ -46,9 +46,8 @@ Supporting and elaborating papers:
 
 Additional work:
 
-<a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Pharmacodynamics</a>
+<a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Electro-Pharmacodynamics</a>
 
-  >This one is a byproduct of neuresthetics.
   >Multi-decade pharmaceutical mystery solved?
 
 
