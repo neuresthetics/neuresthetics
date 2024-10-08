@@ -9,7 +9,7 @@ PDF: ["Base Class" A.1.1.4](https://github.com/neuresthetics/neuresthetics/blob/
 ```
 https://github.com/neuresthetics/neuresthetics/blob/main/Base%20Class%20A.1.1.4.pdf
 ```
-
+---
 
 ![BaseClass](https://github.com/neuresthetics/neuresthetics/blob/main/resources/Screenshot%202024-08-28%20at%2010.51.03%E2%80%AFPM.png)
 
@@ -44,6 +44,7 @@ Supporting and elaborating papers:
   
 <!---[Business Proposal, in editing](https://github.com/neuresthetics/neuresthetics/blob/main/papers/N%20business%20proposal.pdf) --->
 
+---
 
 Additional work: <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Electro-Pharmacodynamics</a>
 
