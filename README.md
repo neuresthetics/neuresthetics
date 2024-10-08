@@ -9,34 +9,6 @@ PDF: ["Base Class" A.1.1.4](https://github.com/neuresthetics/neuresthetics/blob/
 
 ![BaseClass](https://github.com/neuresthetics/neuresthetics/blob/main/resources/Screenshot%202024-08-28%20at%2010.51.03%E2%80%AFPM.png)
 
-```
-THE FREE MAN
-
-The creature tail to eye an eyer.
-
-To beat drums in the breath of fire.
-
-Lo, I am a product of their waste,
-
-A dog with master’s denial.
-
-Howl, flame burns a thief so sly,
-
-For soaring such forbidden highs.
-
-Lo, upward downward take,
-
-A word from feathered spiral.
-
-Exhale of sin with heavy sigh,
-
-Great sufferings materialize,
-
-Lo, my keeper make,
-
-A fire of revival.
-```
-
 
 <!--- ### [neuresthetics.github.io](https://neuresthetics.github.io/) --->
 <!--
@@ -73,6 +45,35 @@ Additional work:
 <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Electro-Pharmacodynamics</a>
 
   >Multi-decade pharmaceutical mystery solved?
+
+
+```
+THE FREE MAN
+
+The creature tail to eye an eyer.
+
+To beat drums in the breath of fire.
+
+Lo, I am a product of their waste,
+
+A dog with master’s denial.
+
+Howl, flame burns a thief so sly,
+
+For soaring such forbidden highs.
+
+Lo, upward downward take,
+
+A word from feathered spiral.
+
+Exhale of sin with heavy sigh,
+
+Great sufferings materialize,
+
+Lo, my keeper make,
+
+A fire of revival.
+```
 
 
 
