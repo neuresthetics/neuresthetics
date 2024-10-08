@@ -34,9 +34,12 @@ Lo, my keeper make,
 A fire of revival.
 ```
 
+```
 Book: Clone the repository for a copy, or read it here:
 
 PDF: ["Base Class" A.1.1.4](https://github.com/neuresthetics/neuresthetics/blob/main/Base%20Class%20A.1.1.4.pdf)
+```
+
 
 ![BaseClass](https://github.com/neuresthetics/neuresthetics/blob/main/resources/Screenshot%202024-08-28%20at%2010.51.03%E2%80%AFPM.png)
 
