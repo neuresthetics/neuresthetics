@@ -1,8 +1,8 @@
 Neuresthetic (adj.) Schema engineered/engineering in respect to the shape and function of the brain.
 
-><a href="https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate" target="_blank">🎧</a>: - pronounced like "kinesthetic", but for nerves.
+<a href="https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate" target="_blank">🎧</a>: - pronounced like "kinesthetic", but for nerves.
 
-Book: Clone the repository for a copy, or read it here:
+Book: "Baase Class": Clone the repository for a free copy. Or preview it here:
 
 PDF: ["Base Class" A.1.1.4](https://github.com/neuresthetics/neuresthetics/blob/main/Base%20Class%20A.1.1.4.pdf)
 
@@ -45,11 +45,9 @@ Supporting and elaborating papers:
 <!---[Business Proposal, in editing](https://github.com/neuresthetics/neuresthetics/blob/main/papers/N%20business%20proposal.pdf) --->
 
 
-Additional work:
+Additional work: <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Electro-Pharmacodynamics</a>
 
-> <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Electro-Pharmacodynamics</a>
-
-> Multi-decade pharmaceutical mystery solved?
+Multi-decade pharmaceutical mystery solved?
 
 ---
 
