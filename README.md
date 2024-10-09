@@ -1,18 +1,19 @@
 Neuresthetic (adj.) Schema engineered/engineering in respect to the shape and function of the brain.
 
-><a href="https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate" target="_blank">🎧</a>: - pronounced like "kinesthetic", but for nerves.
+<a href="https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate" target="_blank">🎧</a>: - pronounced like "kinesthetic", but for nerves.
 
->neuro: word-forming element meaning “pertaining to a nerve or nerves or the nervous system,” from Greek neura
+Book: "Baase Class": Clone the repository for a copy. Or open it here:
 
->aesthetic: (n.) 1798, from German Ästhetisch (mid-18c.) or French esthétique (which is from German), ultimately from Greek aisthetikos “of or for perception by the senses, perceptive,” of things, “perceptible”
+PDF: ["Base Class" A.1.1.4](https://github.com/neuresthetics/neuresthetics/blob/main/Base%20Class%20A.1.1.4.pdf)
 
-Featured work:
-
-["Base Class" Version A.1.1.3](https://github.com/neuresthetics/neuresthetics/blob/main/Base%20Class%20A.1.1.3.pdf)
->This text is counterintuitively counter culture, and mind-altering in nature.
->It contains critical analysis of Abrahamic religion out of social obligation, due to it being an extreme risk factor for the primary content of this book, which is a model designed to exploit brain network trends, identified and applied through behavior, to increase the appearance of genius level intellect within a standardizing population, by 1,000-10,000%. 
+```
+https://github.com/neuresthetics/neuresthetics/blob/main/Base%20Class%20A.1.1.4.pdf
+```
+---
 
 ![BaseClass](https://github.com/neuresthetics/neuresthetics/blob/main/resources/Screenshot%202024-08-28%20at%2010.51.03%E2%80%AFPM.png)
+
+
 
 <!--- ### [neuresthetics.github.io](https://neuresthetics.github.io/) --->
 <!--
@@ -43,15 +44,13 @@ Supporting and elaborating papers:
   
 <!---[Business Proposal, in editing](https://github.com/neuresthetics/neuresthetics/blob/main/papers/N%20business%20proposal.pdf) --->
 
+---
 
-Additional work:
+Additional work: <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Electro-Pharmacodynamics</a>
 
-<a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Pharmacodynamics</a>
+Multi-decade pharmaceutical mystery solved?
 
-  >This one is a byproduct of neuresthetics.
-  >Multi-decade pharmaceutical mystery solved?
-
-
+---
 
 
 <!---
