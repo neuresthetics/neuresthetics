@@ -9,6 +9,8 @@ PDF: ["Base Class" A.1.2.1](https://github.com/neuresthetics/neuresthetics/blob/
 ```
 https://github.com/neuresthetics/neuresthetics/blob/main/Base%20Class%20A.1.2.1.pdf
 ```
+Buy a bound copy: https://x.com/neuresthetic
+
 ---
 
 ![BaseClass](https://github.com/neuresthetics/neuresthetics/blob/main/resources/Screenshot%202024-08-28%20at%2010.51.03%E2%80%AFPM.png)
