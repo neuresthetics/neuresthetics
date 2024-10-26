@@ -13,8 +13,9 @@ For a bound copy, [make contact on X](https://x.com/neuresthetic)
 
 ---
 
-![BaseClass](https://github.com/neuresthetics/neuresthetics/blob/main/resources/Screenshot%202024-08-28%20at%2010.51.03%E2%80%AFPM.png)
+<!-- ![BaseClass](https://github.com/neuresthetics/neuresthetics/blob/main/resources/Screenshot%202024-08-28%20at%2010.51.03%E2%80%AFPM.png) -->
 
+![BaseClass](https://github.com/neuresthetics/neuresthetics/blob/main/resources/Book%20cover%20a.1.3.5.png)
 
 
 <!--- ### [neuresthetics.github.io](https://neuresthetics.github.io/) --->
