@@ -4,10 +4,10 @@ Neuresthetic (adj.) Schema engineered/engineering in respect to the shape and fu
 
 Book: "Base Class": Clone the repository for a copy. Or open it here:
 
-PDF: ["Base Class" A.1.4.0](https://github.com/neuresthetics/neuresthetics/blob/main/Base%20Class%20A.1.4.0.pdf)
+PDF: ["Base Class" A.1.4.0](https://github.com/neuresthetics/neuresthetics/blob/main/Base%20Class%20A.1.5.0.pdf)
 
 ```
-https://github.com/neuresthetics/neuresthetics/blob/main/Base%20Class%20A.1.4.0.pdf
+https://github.com/neuresthetics/neuresthetics/blob/main/Base%20Class%20A.1.5.0.pdf
 ```
 For a bound copy, [make contact on X](https://x.com/neuresthetic)
 
