@@ -2,12 +2,12 @@ Neuresthetic (adj.) Schema engineered/engineering in respect to the shape and fu
 
 <a href="https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate" target="_blank">🎧</a>: - pronounced like "kinesthetic", but for nerves.
 
-Book: "Neuresthetics: Clone the repository for a copy. Or open it here:
+Book: "Neuresthetics: Using behavioral statistics to exploit graph neural networks. Clone the repository for a copy. Or open it here:
 
 PDF: ["Neuresthetics" A.2.0.0](https://github.com/neuresthetics/neuresthetics/blob/main/Neuresthetics%20Base%20Class%20A.2.0.0.pdf)
 
 ```
-https://github.com/neuresthetics/neuresthetics/blob/main/Base%20Class%20A.1.6.0.pdf
+https://github.com/neuresthetics/neuresthetics/blob/main/Neuresthetics%20Base%20Class%20A.2.0.0.pdf
 ```
 For a bound copy, [make contact on X](https://x.com/neuresthetic)
 
