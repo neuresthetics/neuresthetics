@@ -6,9 +6,9 @@ Github PDF: ["Neuresthetics" A.2.1.2](https://github.com/neuresthetics/neuresthe
 Google Docs: ["Neuresthetics" A.2.1.2](https://drive.google.com/file/d/1lbyEkOml2UvMsaQJL-hCljSf56Gj7FQa/view?usp=sharing)
 
 ```
-https://github.com/neuresthetics/neuresthetics/blob/main/Neuresthetics%20Base%20Class%20A.2.1.1.pdf
+https://github.com/neuresthetics/neuresthetics/blob/main/Neuresthetics%20Base%20Class%20A.2.1.2.pdf
 ```
-For a bound copy, [make contact on X](https://x.com/neuresthetic)
+[Neuresthetic.net](https://neuresthetic.net)
 
 ---
 
