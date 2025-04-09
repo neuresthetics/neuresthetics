@@ -46,12 +46,14 @@ Supporting and elaborating papers:
 
 ---
 
-Additional work: <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Electro-Pharmacodynamics</a>
+Additional work:
 
-Multi-decade pharmaceutical mystery solved?
+<a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Electro-Pharmacodynamics</a>
+Inefficent but neat <a href="https://github.com/neuresthetics/graphtacular" target="_blank"> "holograph" data structure</a>, using dynamic adjacency matrix, includes testing and transpiler for visuals.
 
 ---
 
+https://github.com/neuresthetics/graphtacular
 
 <!---
 
