@@ -53,10 +53,6 @@ Additional work:
 
 Inefficent but neat: <a href="https://github.com/neuresthetics/graphtacular" target="_blank"> "holograph" data structure</a>, using dynamic adjacency matrix, includes testing and transpiler for visuals.
 
----
-
-https://github.com/neuresthetics/graphtacular
-
 <!---
 
 [<img src="https://www.codewars.com/users/neuresthetics/badges/large">](https://www.codewars.com/users/neuresthetics)
