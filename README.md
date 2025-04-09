@@ -4,10 +4,10 @@ Neuresthetic (adj.) Schema engineered/engineering in respect to the shape and fu
 
 Book: "Neuresthetics: Using behavioral statistics to exploit graph neural networks. Clone the repository for a copy. Or open it here:
 
-PDF: ["Neuresthetics" A.2.1.0](https://github.com/neuresthetics/neuresthetics/blob/main/Neuresthetics%20Base%20Class%20A.2.1.0.pdf)
+PDF: ["Neuresthetics" A.2.1.1](https://github.com/neuresthetics/neuresthetics/blob/main/Neuresthetics%20Base%20Class%20A.2.1.1.pdf)
 
 ```
-https://github.com/neuresthetics/neuresthetics/blob/main/Neuresthetics%20Base%20Class%20A.2.1.0.pdf
+https://github.com/neuresthetics/neuresthetics/blob/main/Neuresthetics%20Base%20Class%20A.2.1.1.pdf
 ```
 For a bound copy, [make contact on X](https://x.com/neuresthetic)
 
