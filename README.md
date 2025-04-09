@@ -9,7 +9,7 @@ Google Docs: ["Neuresthetics" A.2.1.2](https://drive.google.com/file/d/1lbyEkOml
 ```
 https://github.com/neuresthetics/neuresthetics/blob/main/Neuresthetics%20Base%20Class%20A.2.1.2.pdf
 ```
-[Neuresthetic.net](https://neuresthetic.net)
+Website: [Neuresthetic.net](https://neuresthetic.net)
 
 ---
 
