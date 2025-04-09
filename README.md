@@ -3,6 +3,7 @@ Neuresthetic (adj.) Schema engineered/engineering in respect to the shape and fu
 <a href="https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate" target="_blank">🎧</a>: - pronounced like "kinesthetic", but for nerves.
 
 Github PDF: ["Neuresthetics" A.2.1.2](https://github.com/neuresthetics/neuresthetics/blob/main/Neuresthetics%20Base%20Class%20A.2.1.1.pdf)
+
 Google Docs: ["Neuresthetics" A.2.1.2](https://drive.google.com/file/d/1lbyEkOml2UvMsaQJL-hCljSf56Gj7FQa/view?usp=sharing)
 
 ```
@@ -49,7 +50,8 @@ Supporting and elaborating papers:
 Additional work:
 
 <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Electro-Pharmacodynamics</a>
-Inefficent but neat <a href="https://github.com/neuresthetics/graphtacular" target="_blank"> "holograph" data structure</a>, using dynamic adjacency matrix, includes testing and transpiler for visuals.
+
+Inefficent but neat: <a href="https://github.com/neuresthetics/graphtacular" target="_blank"> "holograph" data structure</a>, using dynamic adjacency matrix, includes testing and transpiler for visuals.
 
 ---
 
