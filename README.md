@@ -62,6 +62,7 @@ Inefficent but neat: <a href="https://github.com/neuresthetics/graphtacular" tar
 
 ![Render](https://github.com/neuresthetics/graphtacular/blob/master/assets/screenshot_095922.png)<br>
 
+T E X T R I V E R
 
 ⢿ ⣀ ⣁ ⣂ ⣃ ⣄ ⣅ ⣆ ⣇ ⣈ ⣉ ⣊ ⣋ ⣌ ⣍ ⣎ ⣏ ⣐ ⣑ ⣒ ⣓ ⣔ ⣕ ⣖ ⣗ ⣘ ⣗ ⣖ ⣕ ⣔ ⣓ ⣒ ⣑ ⣐ ⣏ ⣎ ⣍ ⣌ ⣋ ⣊ ⣉ ⣈ ⣇ ⣆ ⣅ ⣄ ⣃ ⣂ ⣁ ⣀ ⢿
 
