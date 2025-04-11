@@ -1,3 +1,5 @@
+Hello World, this project is about the human statistical behavioral applications of brain network theory, and how that applies to AI data augmentation, pre-processing optimization, and performance. The book goes from the ABCs of core networks, all the way to what theology is good for AI and why. My training rig is on the way to perform the tests detailed in the book. So what does neuresthetic mean?
+
 Neuresthetic (adj.) Schema engineered/engineering in respect to the shape and function of the brain.
 
 <a href="https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate" target="_blank">🎧</a>: - pronounced like "kinesthetic", but for nerves.
