@@ -47,9 +47,7 @@ Supporting and elaborating papers:
   
 <!---[Business Proposal, in editing](https://github.com/neuresthetics/neuresthetics/blob/main/papers/N%20business%20proposal.pdf) --->
 
----
-
-Additional work:
+Additional misc. work:
 
 <a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Electro-Pharmacodynamics</a>
 
@@ -62,11 +60,7 @@ Inefficent but neat: <a href="https://github.com/neuresthetics/graphtacular" tar
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=neuresthetic.neurethetics)
 --->
 
----
-
 ![Render](https://github.com/neuresthetics/graphtacular/blob/master/assets/screenshot_095922.png)<br>
-
----
 
 
 ⢿ ⣀ ⣁ ⣂ ⣃ ⣄ ⣅ ⣆ ⣇ ⣈ ⣉ ⣊ ⣋ ⣌ ⣍ ⣎ ⣏ ⣐ ⣑ ⣒ ⣓ ⣔ ⣕ ⣖ ⣗ ⣘ ⣗ ⣖ ⣕ ⣔ ⣓ ⣒ ⣑ ⣐ ⣏ ⣎ ⣍ ⣌ ⣋ ⣊ ⣉ ⣈ ⣇ ⣆ ⣅ ⣄ ⣃ ⣂ ⣁ ⣀ ⢿
