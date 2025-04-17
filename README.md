@@ -47,12 +47,6 @@ Supporting and elaborating papers:
   
 <!---[Business Proposal, in editing](https://github.com/neuresthetics/neuresthetics/blob/main/papers/N%20business%20proposal.pdf) --->
 
-Additional misc. work:
-
-<a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Electro-Pharmacodynamics</a>
-
-Inefficent but neat: <a href="https://github.com/neuresthetics/graphtacular" target="_blank"> "holograph" data structure</a>, using dynamic adjacency matrix, includes testing and transpiler for visuals.
-
 <!---
 
 [<img src="https://www.codewars.com/users/neuresthetics/badges/large">](https://www.codewars.com/users/neuresthetics)
@@ -109,3 +103,11 @@ The unique scientific discovery underpinning the research in "Neuresthetics Base
 - The statistical analysis of genius traits (handedness, theological disposition) provides a data-driven foundation, distinguishing it from speculative cognitive enhancement theories (pages 15-22).
 
 This hypothesis, while intuitive and built on established neurological axioms (e.g., DMN function, callosal connectivity), lacks direct empirical unification as a single theory but offers a compelling, testable framework for enhancing human and AI intelligence (page 13).
+
+
+Additional misc. work:
+
+<a href="https://github.com/neuresthetics/neuresthetics/blob/main/papers/Bioelectric%20Lithium%20Compound%20Hypothesis.pdf" target="_blank">Lithium Carbonate Electro-Pharmacodynamics</a>
+
+<a href="https://github.com/neuresthetics/graphtacular" target="_blank"> "holograph" data structure</a>, using dynamic adjacency matrix, includes testing and transpiler for visuals.
+
