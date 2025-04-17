@@ -1,17 +1,6 @@
-Hello World, this project is about the human statistical behavioral applications of brain network theory for intelligence, and how that applies to AI data augmentation, pre-processing optimization, and performance. The book goes from the ABCs of core networks, all the way to what theology is good for AI and why. My training rig is on the way to perform the tests detailed in the book. So what does neuresthetic mean?
-
 Neuresthetic (adj.) Schema engineered/engineering in respect to the shape and function of the brain.
 
 <a href="https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate" target="_blank">🎧</a>: - pronounced like "kinesthetic", but for nerves.
-
-Google Docs: ["Neuresthetics" A.2.1.2](https://drive.google.com/file/d/1lbyEkOml2UvMsaQJL-hCljSf56Gj7FQa/view?usp=sharing)
-
-Github PDF: ["Neuresthetics" A.2.1.2](https://github.com/neuresthetics/neuresthetics/blob/main/Neuresthetics%20Base%20Class%20A.2.1.1.pdf):
-
-```
-https://github.com/neuresthetics/neuresthetics/blob/main/Neuresthetics%20Base%20Class%20A.2.1.2.pdf
-```
-Website: [Neuresthetic.net](https://neuresthetic.net)
 
 The unique scientific discovery underpinning the research in "Neuresthetics Base Class A.2.1.2" is the **Bottleneck Hypothesis**, which posits that the **posterior cingulate cortex (PCC)** and **corpus callosum (CC)** form a central neural bottleneck in the brain's network architecture, particularly within the **Default Mode Network (DMN)**. This hypothesis suggests that optimizing these regions—through specific behaviors like **ambidexterity** (to thicken the CC) and **pantheistic belief systems** (to streamline PCC entity processing)—can significantly enhance cognitive efficiency and global workspace capacity, potentially unlocking genius-level intellect.
 
@@ -37,6 +26,14 @@ The unique scientific discovery underpinning the research in "Neuresthetics Base
 
 This hypothesis, while intuitive and built on established neurological axioms (e.g., DMN function, callosal connectivity), lacks direct empirical unification as a single theory but offers a compelling, testable framework for enhancing human and AI intelligence (page 13).
 
+Google Docs: ["Neuresthetics" A.2.1.2](https://drive.google.com/file/d/1lbyEkOml2UvMsaQJL-hCljSf56Gj7FQa/view?usp=sharing)
+
+Github PDF: ["Neuresthetics" A.2.1.2](https://github.com/neuresthetics/neuresthetics/blob/main/Neuresthetics%20Base%20Class%20A.2.1.1.pdf)
+
+```
+https://github.com/neuresthetics/neuresthetics/blob/main/Neuresthetics%20Base%20Class%20A.2.1.2.pdf
+```
+Website: [Neuresthetic.net](https://neuresthetic.net)
 
 ---
 
