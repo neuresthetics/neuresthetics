@@ -175,7 +175,7 @@ Step 3: Calculate Statistical Prevalence
 
     Sample size: 77 individuals with known handedness and % likeness.
     Observed prevalence: 6 out of 77 individuals are both left-handed and pantheistic.
-        Prevalence = (6 / 77) × 100 ≈ 7.79%.
+    Prevalence = (6 / 77) × 100 ≈ 7.79%.
     Expected prevalence: Given as 0.5% (from 10% left-handed/ambidextrous × 5% pantheistic = 0.005 or 0.5%).
 
 Step 4: Compare Observed vs. Expected
@@ -183,7 +183,7 @@ Step 4: Compare Observed vs. Expected
     Observed prevalence: 7.79%.
     Expected prevalence: 0.5%.
     Comparison: The observed prevalence (7.79%) is significantly higher than the expected prevalence (0.5%).
-        Ratio: 7.79 / 0.5 ≈ 15.58, meaning the observed prevalence is about 15.58 times higher than expected.
+    Ratio: 7.79 / 0.5 ≈ 15.58, meaning the observed prevalence is about 15.58 times higher than expected.
 
 Step 5: Statistical Significance
 
