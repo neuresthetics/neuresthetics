@@ -265,3 +265,5 @@ Github PDF: ["Neuresthetics" A.2.1.2](https://github.com/neuresthetics/neuresthe
 https://github.com/neuresthetics/neuresthetics/blob/main/Neuresthetics%20Base%20Class%20A.2.1.2.pdf
 ```
 Website: [Neuresthetic.net](https://neuresthetic.net)
+
+Contact: Neuresthetics@gmail.com
