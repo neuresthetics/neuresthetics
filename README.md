@@ -213,6 +213,8 @@ A binomial test confirms this difference is statistically significant (p < 0.001
 ```
 >15.58 times represented among genii
 
+![Prevalence%](https://github.com/neuresthetics/neuresthetics/blob/main/resources/prev.png)
+
 ### Analysis of Pattern
 
 Revised Statement on the Posterior Cingulate Cortex and Pantheism
