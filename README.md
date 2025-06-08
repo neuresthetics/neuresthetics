@@ -2,7 +2,7 @@ Neuresthetic (adj.) Schema engineered/engineering in respect to the shape and fu
 
 <a href="https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate" target="_blank">🎧</a>: - pronounced like "kinesthetic", but for nerves.
 
-# Leveraging Left/Ambidextrous Handedness and Pantheistic Beliefs to Enhance Cognitive Performance: Insights from the Bottleneck Hypothesis
+# 15.58x intelligence Modifier: Insights from the Bottleneck Hypothesis
 
 Jason Burns, Neuresthetics llc, 8 June 2025
 
@@ -207,8 +207,12 @@ assuming the expected probability of being both left-handed/ambidextrous and pan
 
 Final Answer
 
-The statistical prevalence of individuals who are both left-handed/ambidextrous and pantheistic (≥50% likeness to Pantheism/scientifically literate theology) in the list of 100 geniuses, after dropping unknowns, is approximately 7.79% (6 out of 77). This is significantly higher than the expected prevalence of 0.5% (based on a 10% chance of left-handed/ambidextrous and 5% chance of pantheistic beliefs), being about 15.58 times greater. A binomial test confirms this difference is statistically significant (p < 0.001), suggesting a stronger association between left-handedness and pantheistic beliefs among these geniuses than expected by chance.
+The statistical prevalence of individuals who are both left-handed/ambidextrous and pantheistic (≥50% likeness to Pantheism/scientifically literate theology) in the list of 100 geniuses, after dropping unknowns, is approximately 7.79% (6 out of 77). This is significantly higher than the expected prevalence of 0.5% (based on a 10% chance of left-handed/ambidextrous and 5% chance of pantheistic beliefs), being about 15.58 times greater.
+
+A binomial test confirms this difference is statistically significant (p < 0.001), suggesting a stronger association between left-handedness and pantheistic beliefs among these geniuses than expected by chance.
 ```
+>15.58 times represented among genii
+
 ### Analysis of Pattern
 
 Revised Statement on the Posterior Cingulate Cortex and Pantheism
@@ -217,7 +221,6 @@ Psychedelics, such as psilocybin, disrupt the PCC and DMN by reducing functional
 Theology, distinct from organized religion, involves the cognitive effort to conceptualize the self within the entirety of existence, as an entity within a universal framework. The PCC’s role in self-referential processing may support this function, acting as a bottleneck within the DMN due to its central connectivity (Sporns, 2010, pp. 158-163). The corpus callosum facilitates this by enabling communication between hemispheric networks, though specific theological processing is not explicitly localized to these structures (Vogt, 2011).
 Link Between Pantheism and PCC Function
 In the brain’s connectome, cognitive frameworks like science and theology can be conceptualized as node structures. When theology is reduced to dogmatic religion and conflicts with scientific reasoning, the lack of alignment may reduce functional connectivity between these cognitive domains, potentially decreasing overall network efficiency (Sporns, 2010, pp. 101-126). Conversely, pantheism, which views divinity as immanent in nature and aligns with scientific observation, may enhance overlap between these node structures, reducing redundancy and increasing cognitive efficiency. This alignment could allow greater network capacity for other functions, such as creativity or problem-solving, by optimizing connectivity within the DMN (Buckner et al., 2008). For example, the statistical prevalence of left-handed individuals with pantheistic beliefs (7.79% vs. an expected 0.5%) among 100 geniuses suggests a potential link between cognitive integration and pantheistic worldviews, possibly mediated by the PCC’s integrative role, though this remains speculative.
-
 
 Citations
 
@@ -244,11 +247,15 @@ The whole purpose of science is to get an understanding of things to increase ef
 
 #### The Monetary Value and Benefits:
 
-A successful outcome could lead to further patents or innovations, both by the product of the process, and process of the product. A school with a rate of intelligence X times higher than normal may yeild a standard deviation of difference in the population compared to where it would have been. That's an attractive sales proposition for parents. It should be tested or studied in schools of varying income and racial compositions for equity and analysis of variance. There is a legal religious component to the process and product, and products with culture have longer staying power. After one lifetime, that one standard deviation could become two. A school/hospital/lab/theological assembly as an institution in and of itself, if proven, signals wealth in perpituity for material parties in scale with longitudinal development. Advantages for active participants means being part of a study and/or organization which links people who are statistically more likely to be intelligent as an in-group.
+A successful outcome could lead to further patents or innovations, both by the product of the process, and process of the product. A school with a rate of intelligence 15-16 times higher than normal may yeild a standard deviation of difference in that population compared to where it would have been. That's an attractive sales proposition for parents. It should be tested or studied in schools of varying income and racial compositions for equity and analysis of variance, an a volunteer open enrollment basis. There is a legal religious component to the process and product, and products with culture have longer staying power. As a module which can be installed in any institution, advantages for active participants means being part of a study and/or organization which both produces and links people who are statistically more likely to be intelligent, as an in-group. After one lifetime, that one standard deviation could grow to two. A school/hospital/lab/theological assembly as an institution in and of itself, if proven, signals wealth in perpituity for material parties in scale with longitudinal development.
 
-Yes, there’s a chance this doesn’t work out. If it does the rewards could be substantial. It’s a shot at something transformative that could pay off for years to come. That’s why this project is worth betting on.
+Yes, there’s a chance this doesn’t work out. If it does the rewards could be monolithic. It’s a shot at something transformative that could pay off for years to come. But at the deepest level, ask me why it's part of the Alignment Solution.
 
+That’s why this project is worth betting on.
 
+---
+---
+---
 
 Github PDF: ["Neuresthetics" A.2.1.2](https://github.com/neuresthetics/neuresthetics/blob/main/Neuresthetics%20Base%20Class%20A.2.1.1.pdf)
 
