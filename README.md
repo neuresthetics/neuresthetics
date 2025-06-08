@@ -254,7 +254,9 @@ Yes, there’s a chance this doesn’t work out. If it does the rewards could be
 That’s why this project is worth betting on.
 
 ---
+THANKS FOR READING!
 ---
+LINKS TO MORE DETAILS AND OTHER THINGS BELOW:
 ---
 
 Github PDF: ["Neuresthetics" A.2.1.2](https://github.com/neuresthetics/neuresthetics/blob/main/Neuresthetics%20Base%20Class%20A.2.1.1.pdf)
