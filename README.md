@@ -2,13 +2,15 @@ Neuresthetic (adj.) Schema engineered/engineering in respect to the shape and fu
 
 <a href="https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate" target="_blank">🎧</a>: - pronounced like "kinesthetic", but for nerves.
 
-# 15.58x intelligence Rate Modifier: Insights from the Bottleneck Hypothesis
+# 15.58x More Likely to Be a Genius: The Impact of Handedness and Pantheism on Cognitive Abilities
 
 Jason Burns, Neuresthetics llc, 8 June 2025
 
 ### Abstract
 
-This study proposes a novel approach to cognitive enhancement by exploiting an observed statistical overrepresentation of left-handed or ambidextrous individuals with pantheistic beliefs among a sample of 79 historical and modern geniuses, where the prevalence of this combination (7.59%) significantly exceeds the expected probability (0.5%). We hypothesize that this pattern reflects an underlying neurocognitive advantage mediated by the Posterior Cingulate Cortex (PCC), a key region divided across the corpus callosum, which acts as a structural bottleneck in brain communication traffic. Drawing on the established "bottleneck hypothesis," we suggest that left-handedness or ambidexterity enhances interhemispheric communication through the corpus callosum, potentially optimizing information processing in the PCC, a hub for integrating sensory, emotional, and cognitive data. Concurrently, pantheistic beliefs—characterized by a view of divinity as immanent in nature and aligned with scientific inquiry—may foster a cognitive framework that promotes holistic thinking and creativity, further amplifying PCC-mediated connectivity. By intentionally adopting left-handed or ambidextrous practices (e.g., through training) and embracing pantheistic perspectives, individuals may enhance cognitive flexibility and creative problem-solving. We propose experimental designs to test this hypothesis, including neuroimaging studies to examine PCC activity and behavioral interventions to assess the cognitive impacts of handedness training and philosophical orientation. These findings could inform strategies for cognitive optimization in educational and professional settings, leveraging neuroplasticity and belief systems to emulate the cognitive profiles of exceptional thinkers.
+Clarification: This method does not make you 15-16 times smarter. The traits being looked at here have impact on two brain regions which form the central structural bottleneck of the brain; giving the physical capacity to do more mentally, among all other variables and traits.
+
+This study proposes a novel approach to cognitive enhancement by exploiting an observed statistical overrepresentation of left-handed-enabled(including those who can use both hands/ambidextrous) individuals with pantheistic beliefs. Among a sample of 77 historical and modern geniuses (from 100 selected by AI), where the prevalence of this combination (7.59%) significantly exceeds the expected probability (0.5%). We hypothesize that this pattern reflects an underlying neurocognitive advantage mediated by the Posterior Cingulate Cortex (PCC), a key region divided across the corpus callosum(CC), which acts as a structural bottleneck in brain communication traffic. Drawing on the established "bottleneck hypothesis," we suggest that left-handedness or ambidexterity enhances interhemispheric communication through the corpus callosum size, potentially optimizing information processing in the PCC, a key central hub for integrating sensory, emotional, and cognitive data throug the total self and unified experience of thought. Concurrently, pantheistic beliefs—characterized by a view of divinity as immanent in nature and aligned with scientific inquiry—may foster a cognitive framework that promotes holistic thinking and creativity, further amplifying PCC-mediated connectivity. By intentionally adopting left-handed or ambidextrous practices (e.g., through training) and embracing pantheistic perspectives, individuals may enhance cognitive flexibility and creative problem-solving simply as a matter of physical network economization. We propose experimental designs to test this hypothesis, including neuroimaging studies to examine PCC activity and behavioral interventions to assess the cognitive impacts of handedness training and philosophical orientation. These findings could inform strategies for cognitive optimization in educational and professional settings, leveraging neuroplasticity and belief systems to emulate the cognitive profiles of exceptional thinkers.
 
 ## Contents
 
@@ -175,7 +177,7 @@ Step 3: Calculate Statistical Prevalence
 
     Sample size: 77 individuals with known handedness and % likeness.
     Observed prevalence: 6 out of 77 individuals are both left-handed and pantheistic.
-    Prevalence = (6 / 77) × 100 ≈ 7.79%.
+        Prevalence = (6 / 77) × 100 ≈ 7.79%.
     Expected prevalence: Given as 0.5% (from 10% left-handed/ambidextrous × 5% pantheistic = 0.005 or 0.5%).
 
 Step 4: Compare Observed vs. Expected
@@ -183,7 +185,7 @@ Step 4: Compare Observed vs. Expected
     Observed prevalence: 7.79%.
     Expected prevalence: 0.5%.
     Comparison: The observed prevalence (7.79%) is significantly higher than the expected prevalence (0.5%).
-    Ratio: 7.79 / 0.5 ≈ 15.58, meaning the observed prevalence is about 15.58 times higher than expected.
+        Ratio: 7.79 / 0.5 ≈ 15.58, meaning the observed prevalence is about 15.58 times higher than expected.
 
 Step 5: Statistical Significance
 
@@ -212,8 +214,6 @@ The statistical prevalence of individuals who are both left-handed/ambidextrous 
 A binomial test confirms this difference is statistically significant (p < 0.001), suggesting a stronger association between left-handedness and pantheistic beliefs among these geniuses than expected by chance.
 ```
 >15.58 times represented among genii
-
-![Prevalence%](https://github.com/neuresthetics/neuresthetics/blob/main/resources/prev.png)
 
 ### Analysis of Pattern
 
