@@ -6,20 +6,13 @@ Neuresthetic (adj.) Schema engineered/engineering in respect to the shape and fu
 
 Jason Burns, Neuresthetics llc, 8 June 2025
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15633811.svg)](https://doi.org/10.5281/zenodo.15633811)
+
 ### Abstract
 
 Clarification: This method does not make you 15-16 times smarter. The traits being looked at here have impact on two brain regions which form the central structural bottleneck of the brain; giving the physical capacity to do more mentally, among all other variables and traits.
 
 This study proposes a novel approach to cognitive enhancement by exploiting an observed statistical overrepresentation of left-handed-enabled(including those who can use both hands/ambidextrous) individuals with pantheistic beliefs. Among a sample of 77 historical and modern geniuses (from 100 selected by AI), where the prevalence of this combination (7.59%) significantly exceeds the expected probability (0.5%). We hypothesize that this pattern reflects an underlying neurocognitive advantage mediated by the Posterior Cingulate Cortex (PCC), a key region divided across the corpus callosum(CC), which acts as a structural bottleneck in brain communication traffic. Drawing on the established "bottleneck hypothesis," we suggest that left-handedness or ambidexterity enhances interhemispheric communication through the corpus callosum size, potentially optimizing information processing in the PCC, a key central hub for integrating sensory, emotional, and cognitive data throug the total self and unified experience of thought. Concurrently, pantheistic beliefs—characterized by a view of divinity as immanent in nature and aligned with scientific inquiry—may foster a cognitive framework that promotes holistic thinking and creativity, further amplifying PCC-mediated connectivity. By intentionally adopting left-handed or ambidextrous practices (e.g., through training) and embracing pantheistic perspectives, individuals may enhance cognitive flexibility and creative problem-solving simply as a matter of physical network economization. We propose experimental designs to test this hypothesis, including neuroimaging studies to examine PCC activity and behavioral interventions to assess the cognitive impacts of handedness training and philosophical orientation. These findings could inform strategies for cognitive optimization in educational and professional settings, leveraging neuroplasticity and belief systems to emulate the cognitive profiles of exceptional thinkers.
-
-## Contents
-
-1. Data Generation
-2. Table of 100 Genii
-3. Detection of Pattern
-4. Analysis of Pattern
-5. High Risk, High Reward, and Monetary Value
-
 
 ---
 ---
