@@ -1,0 +1,1031 @@
+{
+  "content": {
+    "15.58x More Likely to Be a Genius: The Impact of Handedness and Pantheism on Cognitive Abilities": {
+      "content_blocks": [
+        {
+          "type": "text",
+          "data": "Jason Burns, Neuresthetics llc, 8 June 2025"
+        }
+      ],
+      "subsections": {
+        "Abstract": {
+          "content_blocks": [
+            {
+              "type": "text",
+              "data": "Clarification: This method does not make you 15-16 times smarter. The traits being looked at here have impact on two brain regions which form the central structural bottleneck of the brain; giving the physical capacity to do more mentally, among all other variables and traits."
+            },
+            {
+              "type": "text",
+              "data": "This study proposes a novel approach to cognitive enhancement by exploiting an observed statistical overrepresentation of left-handed-enabled(including those who can use both hands/ambidextrous) individuals with pantheistic beliefs. Among a sample of 77 historical and modern geniuses (from 100 selected by AI), where the prevalence of this combination (7.59%) significantly exceeds the expected probability (0.5%). We hypothesize that this pattern reflects an underlying neurocognitive advantage mediated by the Posterior Cingulate Cortex (PCC), a key region divided across the corpus callosum(CC), which acts as a structural bottleneck in brain communication traffic. Drawing on the established \"bottleneck hypothesis,\" we suggest that left-handedness or ambidexterity enhances interhemispheric communication through the corpus callosum size, potentially optimizing information processing in the PCC, a key central hub for integrating sensory, emotional, and cognitive data throug the total self and unified experience of thought. Concurrently, pantheistic beliefs\u2014characterized by a view of divinity as immanent in nature and aligned with scientific inquiry\u2014may foster a cognitive framework that promotes holistic thinking and creativity, further amplifying PCC-mediated connectivity. By intentionally adopting left-handed or ambidextrous practices (e.g., through training) and embracing pantheistic perspectives, individuals may enhance cognitive flexibility and creative problem-solving simply as a matter of physical network economization. We propose experimental designs to test this hypothesis, including neuroimaging studies to examine PCC activity and behavioral interventions to assess the cognitive impacts of handedness training and philosophical orientation. These findings could inform strategies for cognitive optimization in educational and professional settings, leveraging neuroplasticity and belief systems to emulate the cognitive profiles of exceptional thinkers."
+            }
+          ]
+        },
+        "Contents": {
+          "content_blocks": [
+            {
+              "type": "text",
+              "data": "1. Data Generation"
+            },
+            {
+              "type": "text",
+              "data": "2. Table of 100 Genii"
+            },
+            {
+              "type": "text",
+              "data": "3. Detection of Pattern"
+            },
+            {
+              "type": "text",
+              "data": "4. Analysis of Pattern"
+            },
+            {
+              "type": "text",
+              "data": "5. High Risk, High Reward, and Monetary Value"
+            },
+            {
+              "type": "text",
+              "data": "---"
+            },
+            {
+              "type": "text",
+              "data": "---"
+            }
+          ],
+          "subsections": {
+            "Data & Analysis": {
+              "content_blocks": [
+                {
+                  "type": "text",
+                  "data": "Given the \"top 100 genii of all time\" according to public sources using Grok (removal of human selection helps eliminate selection bias) (the sample of 100 was split in two queries of 50 to account for context window given the use of the Deep Search function.)."
+                },
+                {
+                  "type": "text",
+                  "data": "Generation:"
+                },
+                {
+                  "type": "text",
+                  "data": "```"
+                },
+                {
+                  "type": "text",
+                  "data": "Generate a table."
+                },
+                {
+                  "type": "text",
+                  "data": "column A: top 50 genius of all time."
+                },
+                {
+                  "type": "text",
+                  "data": "column B: weather each person in A was/is right/left/ambidextrous handed."
+                },
+                {
+                  "type": "text",
+                  "data": "column C: the spiritual disposition of each person."
+                },
+                {
+                  "type": "text",
+                  "data": "column D: the % likeness of C to Pantheism/scientifically literate theology."
+                },
+                {
+                  "type": "text",
+                  "data": "```"
+                },
+                {
+                  "type": "text",
+                  "data": "plus:"
+                },
+                {
+                  "type": "text",
+                  "data": "```"
+                },
+                {
+                  "type": "text",
+                  "data": "Same format, but the next 50 people. No repeats."
+                },
+                {
+                  "type": "text",
+                  "data": "```"
+                },
+                {
+                  "type": "text",
+                  "data": "Lists combined:"
+                }
+              ]
+            },
+            "Table of Top 100 Geniuses with Handedness, Spiritual Disposition, and Pantheism Likeness": {
+              "content_blocks": [
+                {
+                  "type": "text",
+                  "data": "Below is a comprehensive table listing 100 individuals widely regarded as geniuses, their handedness, spiritual disposition, and the estimated percentage likeness of their beliefs to Pantheism or scientifically literate theology. The data is compiled from various sources, with assumptions made where information is incomplete."
+                },
+                {
+                  "type": "table",
+                  "data": {
+                    "headers": [
+                      "Genius",
+                      "Handedness",
+                      "Spiritual Disposition",
+                      "% Likeness to Pantheism/Scientifically Literate Theology"
+                    ],
+                    "rows": [
+                      {
+                        "Genius": "Albert Einstein",
+                        "Handedness": "Left-handed",
+                        "Spiritual Disposition": "Cosmic religion",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "80%"
+                      },
+                      {
+                        "Genius": "Leonardo da Vinci",
+                        "Handedness": "Left-handed",
+                        "Spiritual Disposition": "Christian",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "60%"
+                      },
+                      {
+                        "Genius": "Isaac Newton",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Christian",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "70%"
+                      },
+                      {
+                        "Genius": "Nikola Tesla",
+                        "Handedness": "Left-handed",
+                        "Spiritual Disposition": "Spiritual",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Marie Curie",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Atheist",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "10%"
+                      },
+                      {
+                        "Genius": "Stephen Hawking",
+                        "Handedness": "Left-handed",
+                        "Spiritual Disposition": "Atheist",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "5%"
+                      },
+                      {
+                        "Genius": "Charles Darwin",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Agnostic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "20%"
+                      },
+                      {
+                        "Genius": "Galileo Galilei",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Catholic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "80%"
+                      },
+                      {
+                        "Genius": "Aristotle",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Believed in Prime Mover",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "70%"
+                      },
+                      {
+                        "Genius": "Plato",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Believed in Forms",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "70%"
+                      },
+                      {
+                        "Genius": "Socrates",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Believed in gods, questioned traditions",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Thomas Edison",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Agnostic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "20%"
+                      },
+                      {
+                        "Genius": "Benjamin Franklin",
+                        "Handedness": "Left-handed",
+                        "Spiritual Disposition": "Deist",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "60%"
+                      },
+                      {
+                        "Genius": "Ada Lovelace",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Christian",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Alan Turing",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Atheist",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "10%"
+                      },
+                      {
+                        "Genius": "Johannes Gutenberg",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Christian",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "William Shakespeare",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Christian",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Ludwig van Beethoven",
+                        "Handedness": "Left-handed",
+                        "Spiritual Disposition": "Christian",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Michelangelo",
+                        "Handedness": "Left-handed",
+                        "Spiritual Disposition": "Christian",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Baruch Spinoza",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Pantheist",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "90%"
+                      },
+                      {
+                        "Genius": "Richard \"Rick\" Rosner",
+                        "Handedness": "Left-handed",
+                        "Spiritual Disposition": "Unknown",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "Unknown"
+                      },
+                      {
+                        "Genius": "Marilyn vos Savant",
+                        "Handedness": "Left-handed",
+                        "Spiritual Disposition": "Unknown",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "Unknown"
+                      },
+                      {
+                        "Genius": "Christopher Langan",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Unknown",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "Unknown"
+                      },
+                      {
+                        "Genius": "Nathan Leopold",
+                        "Handedness": "Left-handed",
+                        "Spiritual Disposition": "Unknown",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "Unknown"
+                      },
+                      {
+                        "Genius": "Marnen Laibow-Koser",
+                        "Handedness": "Left-handed",
+                        "Spiritual Disposition": "Unknown",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "Unknown"
+                      },
+                      {
+                        "Genius": "Ainan Cawley",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Unknown",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "Unknown"
+                      },
+                      {
+                        "Genius": "Adragon De Mello",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Unknown",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "Unknown"
+                      },
+                      {
+                        "Genius": "Michael Kearney",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Unknown",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "Unknown"
+                      },
+                      {
+                        "Genius": "Nadia Camukova",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Unknown",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "Unknown"
+                      },
+                      {
+                        "Genius": "Michael Grost",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Unknown",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "Unknown"
+                      },
+                      {
+                        "Genius": "Sho Yano",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Unknown",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "Unknown"
+                      },
+                      {
+                        "Genius": "Dylan Jones",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Unknown",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "Unknown"
+                      },
+                      {
+                        "Genius": "Edith Stern",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Unknown",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "Unknown"
+                      },
+                      {
+                        "Genius": "Kim Ung-Yong",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Unknown",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "Unknown"
+                      },
+                      {
+                        "Genius": "Francis Galton",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Unknown",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "Unknown"
+                      },
+                      {
+                        "Genius": "Thomas Wolsey",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Catholic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Hugo Grotius",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Christian",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Hypatia",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Pagan, philosopher",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "60%"
+                      },
+                      {
+                        "Genius": "John Stuart Mill",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Agnostic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "30%"
+                      },
+                      {
+                        "Genius": "Blaise Pascal",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Christian, Jansenist",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "70%"
+                      },
+                      {
+                        "Genius": "Gottfried Wilhelm Leibniz",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Christian, philosopher",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "70%"
+                      },
+                      {
+                        "Genius": "Confucius",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Confucianism",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "40%"
+                      },
+                      {
+                        "Genius": "Buddha",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Buddhism",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "80%"
+                      },
+                      {
+                        "Genius": "Jesus Christ",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Christianity",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "100% (theological, not scientific)"
+                      },
+                      {
+                        "Genius": "Muhammad",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Islam",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Johannes Kepler",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Christian, saw astronomy as divine",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "80%"
+                      },
+                      {
+                        "Genius": "Carl Friedrich Gauss",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Christian",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Michael Faraday",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Christian",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "70%"
+                      },
+                      {
+                        "Genius": "James Clerk Maxwell",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Christian",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "70%"
+                      },
+                      {
+                        "Genius": "Niels Bohr",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Jewish, not religious",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "30%"
+                      },
+                      {
+                        "Genius": "Katherine Johnson",
+                        "Handedness": "Unknown",
+                        "Spiritual Disposition": "Unknown",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "Unknown"
+                      },
+                      {
+                        "Genius": "John Locke",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Christian",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "70%"
+                      },
+                      {
+                        "Genius": "Immanuel Kant",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Theist, rational theology",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "60%"
+                      },
+                      {
+                        "Genius": "Rene Descartes",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Theist, rationalist",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Desiderius Erasmus",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Christian humanist",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "60%"
+                      },
+                      {
+                        "Genius": "Raphael",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Christian",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Charles Dickens",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Christian",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "40%"
+                      },
+                      {
+                        "Genius": "Richard Wagner",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Germanic paganism",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "30%"
+                      },
+                      {
+                        "Genius": "Wolfgang Amadeus Mozart",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Catholic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Steve Jobs",
+                        "Handedness": "Left-handed",
+                        "Spiritual Disposition": "Zen Buddhism",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "40%"
+                      },
+                      {
+                        "Genius": "Alexander Graham Bell",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Presbyterian",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Wernher von Braun",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Lutheran",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "60%"
+                      },
+                      {
+                        "Genius": "Mohandas Gandhi",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Hindu",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "70%"
+                      },
+                      {
+                        "Genius": "Friedrich Nietzsche",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Atheist",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "20%"
+                      },
+                      {
+                        "Genius": "Vincent van Gogh",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Christian with doubts",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "30%"
+                      },
+                      {
+                        "Genius": "Stendhal",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Agnostic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "30%"
+                      },
+                      {
+                        "Genius": "Lewis Carroll",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Anglican",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "40%"
+                      },
+                      {
+                        "Genius": "Ralph Ellison",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Unknown",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "Unknown"
+                      },
+                      {
+                        "Genius": "Marcel Proust",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Jewish",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Italo Calvino",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Agnostic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "30%"
+                      },
+                      {
+                        "Genius": "The Yahwist",
+                        "Handedness": "Unknown",
+                        "Spiritual Disposition": "Monotheistic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "80%"
+                      },
+                      {
+                        "Genius": "Wallace Stevens",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Agnostic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "30%"
+                      },
+                      {
+                        "Genius": "Rainer Maria Rilke",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Spiritual, not religious",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "60%"
+                      },
+                      {
+                        "Genius": "T.S. Eliot",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Anglo-Catholic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "70%"
+                      },
+                      {
+                        "Genius": "Elizabeth Bishop",
+                        "Handedness": "Left-handed",
+                        "Spiritual Disposition": "Agnostic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "30%"
+                      },
+                      {
+                        "Genius": "H.D. (Hilda Doolittle)",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Moravian",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "40%"
+                      },
+                      {
+                        "Genius": "Edna St. Vincent Millay",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Agnostic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "30%"
+                      },
+                      {
+                        "Genius": "Sappho",
+                        "Handedness": "Unknown",
+                        "Spiritual Disposition": "Polytheistic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "William Wordsworth",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Anglican",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "60%"
+                      },
+                      {
+                        "Genius": "Archimedes",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Polytheistic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "40%"
+                      },
+                      {
+                        "Genius": "Euclid",
+                        "Handedness": "Unknown",
+                        "Spiritual Disposition": "Unknown",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "Unknown"
+                      },
+                      {
+                        "Genius": "Pythagoras",
+                        "Handedness": "Unknown",
+                        "Spiritual Disposition": "Polytheistic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "60%"
+                      },
+                      {
+                        "Genius": "Werner Heisenberg",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Lutheran",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Erwin Schr\u00f6dinger",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Agnostic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "30%"
+                      },
+                      {
+                        "Genius": "Richard Feynman",
+                        "Handedness": "Left-handed",
+                        "Spiritual Disposition": "Agnostic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "40%"
+                      },
+                      {
+                        "Genius": "Rosalind Franklin",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Jewish",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Grace Hopper",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Presbyterian",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Tim Berners-Lee",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Anglican",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Carl Sagan",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Agnostic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "40%"
+                      },
+                      {
+                        "Genius": "Stephen Jay Gould",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Agnostic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "40%"
+                      },
+                      {
+                        "Genius": "Jane Goodall",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Spiritual, not religious",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "60%"
+                      },
+                      {
+                        "Genius": "Johannes Brahms",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Lutheran",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "50%"
+                      },
+                      {
+                        "Genius": "Johann Sebastian Bach",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Lutheran",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "70%"
+                      },
+                      {
+                        "Genius": "Pablo Picasso",
+                        "Handedness": "Left-handed",
+                        "Spiritual Disposition": "Agnostic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "30%"
+                      },
+                      {
+                        "Genius": "Salvador Dali",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Catholic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "40%"
+                      },
+                      {
+                        "Genius": "Frida Kahlo",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Atheist",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "20%"
+                      },
+                      {
+                        "Genius": "Georgia O'Keeffe",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Unknown",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "Unknown"
+                      },
+                      {
+                        "Genius": "Mary Shelley",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Agnostic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "30%"
+                      },
+                      {
+                        "Genius": "Virginia Woolf",
+                        "Handedness": "Left-handed",
+                        "Spiritual Disposition": "Agnostic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "30%"
+                      },
+                      {
+                        "Genius": "Isaac Asimov",
+                        "Handedness": "Right-handed",
+                        "Spiritual Disposition": "Agnostic",
+                        "% Likeness to Pantheism/Scientifically Literate Theology": "40%"
+                      }
+                    ],
+                    "alignments": [
+                      "left",
+                      "left",
+                      "left",
+                      "left"
+                    ]
+                  }
+                }
+              ]
+            },
+            "Detection of Pattern": {
+              "content_blocks": [
+                {
+                  "type": "text",
+                  "data": "```"
+                },
+                {
+                  "type": "text",
+                  "data": "Given this list, what is the statistical prevalence of left/ambidextrous and pantheistic combination, compared to the .5% chance of someone having left/ambidextrous (10%) and pantheistic beliefs (5%). Drop the unknowns from the table. Anyone with \"pantheistic\" >=50% are pantheistic."
+                },
+                {
+                  "type": "text",
+                  "data": "```"
+                },
+                {
+                  "type": "text",
+                  "data": "```"
+                },
+                {
+                  "type": "text",
+                  "data": "Total entries with known data: 77 (after excluding 23 entries with \"Unknown\" in handedness or % likeness)."
+                },
+                {
+                  "type": "text",
+                  "data": "Step 2: Identify Left/Ambidextrous and Pantheistic Individuals"
+                },
+                {
+                  "type": "text",
+                  "data": "Left-handed or Ambidextrous: Note that no individuals in the list are explicitly marked as ambidextrous, so we focus on left-handed individuals."
+                },
+                {
+                  "type": "text",
+                  "data": "Pantheistic: Defined as having a % likeness to Pantheism/scientifically literate theology \u226550%."
+                },
+                {
+                  "type": "text",
+                  "data": "From the filtered list, we identify individuals who are both left-handed and have a % likeness \u226550%:"
+                },
+                {
+                  "type": "text",
+                  "data": "Genius\tHandedness\t% Likeness to Pantheism/Scientifically Literate Theology"
+                },
+                {
+                  "type": "text",
+                  "data": "Albert Einstein\tLeft-handed\t80%"
+                },
+                {
+                  "type": "text",
+                  "data": "Leonardo da Vinci\tLeft-handed\t60%"
+                },
+                {
+                  "type": "text",
+                  "data": "Nikola Tesla\tLeft-handed\t50%"
+                },
+                {
+                  "type": "text",
+                  "data": "Benjamin Franklin\tLeft-handed\t60%"
+                },
+                {
+                  "type": "text",
+                  "data": "Ludwig van Beethoven\tLeft-handed\t50%"
+                },
+                {
+                  "type": "text",
+                  "data": "Michelangelo\tLeft-handed\t50%"
+                },
+                {
+                  "type": "text",
+                  "data": "Count: 6 individuals meet both criteria (left-handed and \u226550% likeness)."
+                },
+                {
+                  "type": "text",
+                  "data": "Step 3: Calculate Statistical Prevalence"
+                },
+                {
+                  "type": "text",
+                  "data": "Sample size: 77 individuals with known handedness and % likeness."
+                },
+                {
+                  "type": "text",
+                  "data": "Observed prevalence: 6 out of 77 individuals are both left-handed and pantheistic."
+                },
+                {
+                  "type": "text",
+                  "data": "Prevalence = (6 / 77) \u00d7 100 \u2248 7.79%."
+                },
+                {
+                  "type": "text",
+                  "data": "Expected prevalence: Given as 0.5% (from 10% left-handed/ambidextrous \u00d7 5% pantheistic = 0.005 or 0.5%)."
+                },
+                {
+                  "type": "text",
+                  "data": "Step 4: Compare Observed vs. Expected"
+                },
+                {
+                  "type": "text",
+                  "data": "Observed prevalence: 7.79%."
+                },
+                {
+                  "type": "text",
+                  "data": "Expected prevalence: 0.5%."
+                },
+                {
+                  "type": "text",
+                  "data": "Comparison: The observed prevalence (7.79%) is significantly higher than the expected prevalence (0.5%)."
+                },
+                {
+                  "type": "text",
+                  "data": "Ratio: 7.79 / 0.5 \u2248 15.58, meaning the observed prevalence is about 15.58 times higher than expected."
+                },
+                {
+                  "type": "text",
+                  "data": "Step 5: Statistical Significance"
+                },
+                {
+                  "type": "text",
+                  "data": "To assess whether this difference is significant, we can perform a binomial test,"
+                },
+                {
+                  "type": "text",
+                  "data": "assuming the expected probability of being both left-handed/ambidextrous and pantheistic is 0.005 (0.5%)."
+                },
+                {
+                  "type": "text",
+                  "data": "Null hypothesis: The proportion of left-handed/ambidextrous and pantheistic individuals is 0.005."
+                },
+                {
+                  "type": "text",
+                  "data": "Alternative hypothesis: The proportion is different from 0.005."
+                },
+                {
+                  "type": "text",
+                  "data": "Parameters:"
+                },
+                {
+                  "type": "text",
+                  "data": "Sample size (n) = 77."
+                },
+                {
+                  "type": "text",
+                  "data": "Observed successes (x) = 6."
+                },
+                {
+                  "type": "text",
+                  "data": "Expected probability (p) = 0.005."
+                },
+                {
+                  "type": "text",
+                  "data": "Binomial test: Using a binomial test, we calculate the p-value for observing 6 or more successes in 77 trials with p = 0.005."
+                },
+                {
+                  "type": "text",
+                  "data": "The probability of observing exactly k successes is given by the binomial probability formula:"
+                },
+                {
+                  "type": "text",
+                  "data": "P(X=k)=(nk)pk(1\u2212p)n\u2212k"
+                },
+                {
+                  "type": "text",
+                  "data": "P(X=k)=(kn\u200b)pk(1\u2212p)n\u2212k"
+                },
+                {
+                  "type": "text",
+                  "data": "For small probabilities and large n, this is computationally intensive, so we approximate using a statistical tool or software."
+                },
+                {
+                  "type": "text",
+                  "data": "The expected number of successes is 77\u00d70.005=0.38577\u00d70.005=0.385, and observing 6 successes is far higher."
+                },
+                {
+                  "type": "text",
+                  "data": "Using a binomial test (or normal approximation for large samples), the p-value is extremely small (p < 0.001),"
+                },
+                {
+                  "type": "text",
+                  "data": "indicating that the observed prevalence is statistically significantly higher than expected."
+                },
+                {
+                  "type": "text",
+                  "data": "Final Answer"
+                },
+                {
+                  "type": "text",
+                  "data": "The statistical prevalence of individuals who are both left-handed/ambidextrous and pantheistic (\u226550% likeness to Pantheism/scientifically literate theology) in the list of 100 geniuses, after dropping unknowns, is approximately 7.79% (6 out of 77). This is significantly higher than the expected prevalence of 0.5% (based on a 10% chance of left-handed/ambidextrous and 5% chance of pantheistic beliefs), being about 15.58 times greater."
+                },
+                {
+                  "type": "text",
+                  "data": "A binomial test confirms this difference is statistically significant (p < 0.001), suggesting a stronger association between left-handedness and pantheistic beliefs among these geniuses than expected by chance."
+                },
+                {
+                  "type": "text",
+                  "data": "```"
+                },
+                {
+                  "type": "text",
+                  "data": ">15.58 times represented among genii"
+                }
+              ]
+            },
+            "Analysis of Pattern": {
+              "content_blocks": [
+                {
+                  "type": "text",
+                  "data": "The Posterior Cingulate Cortex (PCC) serves as a critical hub in the brain\u2019s default mode network (DMN), integrating diverse fields of information through self-referential processing. According to Sporns (2010), the PCC\u2019s high node degree and centrality enable it to connect sensory, cognitive, and emotional domains, facilitating associations and segregations of information (pp. 15, 119, 158-163). This integrative role positions the self as a nexus for processing experiences and information, contributing to a coherent subjective reality, potentially underpinning consciousness (Sporns, 2010, pp. 293-298; Raichle et al., 2001). The PCC collaborates with the corpus callosum, which supports interhemispheric communication, enhancing body awareness and cognitive unity (Sporns, 2010, pp. 161-162, 314-315)."
+                },
+                {
+                  "type": "text",
+                  "data": "Psychedelics, such as psilocybin, disrupt the PCC and DMN by reducing functional segregation and promoting global brain integration. This effect is linked to the high density of serotonin 2A receptors in DMN regions, including the PCC, which psychedelics target (Carhart-Harris et al., 2012; Nichols, 2016). This desegregation alters self-perception and may enhance interconnectedness in subjective experience."
+                },
+                {
+                  "type": "text",
+                  "data": "Theology, distinct from organized religion, involves the cognitive effort to conceptualize the self within the entirety of existence, as an entity within a universal framework. The PCC\u2019s role in self-referential processing may support this function, acting as a bottleneck within the DMN due to its central connectivity (Sporns, 2010, pp. 158-163). The corpus callosum facilitates this by enabling communication between hemispheric networks, though specific theological processing is not explicitly localized to these structures (Vogt, 2011)."
+                },
+                {
+                  "type": "text",
+                  "data": "Link Between Pantheism and PCC Function"
+                },
+                {
+                  "type": "text",
+                  "data": "In the brain\u2019s connectome, cognitive frameworks like science and theology can be conceptualized as node structures. When theology is reduced to dogmatic religion and conflicts with scientific reasoning, the lack of alignment may reduce functional connectivity between these cognitive domains, potentially decreasing overall network efficiency (Sporns, 2010, pp. 101-126). Conversely, pantheism, which views divinity as immanent in nature and aligns with scientific observation, may enhance overlap between these node structures, reducing redundancy and increasing cognitive efficiency. This alignment could allow greater network capacity for other functions, such as creativity or problem-solving, by optimizing connectivity within the DMN (Buckner et al., 2008). For example, the statistical prevalence of left-handed individuals with pantheistic beliefs (7.79% vs. an expected 0.5%) among 100 geniuses suggests a potential link between cognitive integration and pantheistic worldviews, possibly mediated by the PCC\u2019s integrative role, though this remains speculative."
+                },
+                {
+                  "type": "text",
+                  "data": "Citations"
+                },
+                {
+                  "type": "text",
+                  "data": "Buckner, R. L., Andrews-Hanna, J. R., & Schacter, D. L. (2008). The brain\u2019s default network: Anatomy, function, and relevance to disease. Annals of the New York Academy of Sciences, 1124(1), 1-38."
+                },
+                {
+                  "type": "text",
+                  "data": "Carhart-Harris, R. L., Erritzoe, D., Williams, T., Stone, J. M., Reed, L. J., Colasanti, A., ... & Nutt, D. J. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. Proceedings of the National Academy of Sciences, 109(6), 2138-2143."
+                },
+                {
+                  "type": "text",
+                  "data": "Nichols, D. E. (2016). Psychedelics. Pharmacological Reviews, 68(2), 264-355."
+                },
+                {
+                  "type": "text",
+                  "data": "Raichle, M. E., MacLeod, A. M., Snyder, A. Z., Powers, W. J., Gusnard, D. A., & Shulman, G. L. (2001). A default mode of brain function. Proceedings of the National Academy of Sciences, 98(2), 676-682."
+                },
+                {
+                  "type": "text",
+                  "data": "Sporns, O. (2010). Networks of the Brain. The MIT Press."
+                },
+                {
+                  "type": "text",
+                  "data": "Vogt, B. A. (2011). Cingulate Neurobiology and Disease. Oxford University Press."
+                }
+              ]
+            },
+            "High Risk, High Reward, and Monetary Value": {
+              "subsections": {
+                "Why This Project Is High Risk, High Reward:": {
+                  "content_blocks": [
+                    {
+                      "type": "text",
+                      "data": "This research project is a bold leap into the unknown, tackling a big idea that could change the game in its field. The high risk comes from the fact that we\u2019re exploring uncharted territory\u2014there\u2019s no guarantee it will work. The science might not hold up, or the practical challenges could be tougher than we expect. It\u2019s a bit like betting on a long shot: there\u2019s a real chance we could invest time and resources and not get the result we\u2019re aiming for but that\u2019s exactly why the high reward is so exciting. If this project succeeds, it could lead to a major breakthrough. Something that doesn\u2019t just add to what we know but transforms how we solve problems or seize opportunities as a matter of hacking the intelligence of the species on a behavioral level. The potential payoff isn\u2019t just in knowledge, it\u2019s in creating something new that could ripple out and make a massive impact. The monetary value isn\u2019t just about direct profits\u2014it\u2019s about the domino effect of folding brain networks over on themselves."
+                    },
+                    {
+                      "type": "text",
+                      "data": "The whole purpose of science is to get an understanding of things to increase efficiency. For neurology, that means brains on brains. This is that; fold thinking to conform to the patterns of intelect. If you participate in the pattern, your odds of increasing I.Q. go up in proportion to how different it is to you currently."
+                    }
+                  ]
+                },
+                "The Monetary Value and Benefits:": {
+                  "content_blocks": [
+                    {
+                      "type": "text",
+                      "data": "A successful outcome could lead to further patents or innovations, both by the product of the process, and process of the product. A school with a rate of intelligence 15-16 times higher than normal may yeild a standard deviation of difference in that population compared to where it would have been. That's an attractive sales proposition for parents. It should be tested or studied in schools of varying income and racial compositions for equity and analysis of variance, on a volunteer open enrollment basis. There is a legal religious component to the process and product, and products with culture have longer staying power. As a module which can be installed in any institution, advantages for active participants means being part of a study and/or organization which both produces and links people who are statistically more likely to be intelligent, as an in-group. After one lifetime, that one standard deviation could grow to two. A school/hospital/lab/theological assembly as an institution in and of itself, if proven, signals wealth in perpituity for material parties in scale with longitudinal development."
+                    },
+                    {
+                      "type": "text",
+                      "data": "Yes, there\u2019s a chance this doesn\u2019t work out. If it does the rewards could be great. It\u2019s a shot at something transformative that could pay off for years to come. But at the deepest level, ask me why it's part of the Alignment Solution."
+                    },
+                    {
+                      "type": "text",
+                      "data": "That\u2019s why this project is worth betting on."
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
