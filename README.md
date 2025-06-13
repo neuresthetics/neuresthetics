@@ -6,7 +6,8 @@ Neuresthetic (adj.) Schema engineered/engineering in respect to the shape and fu
 
 Jason Burns, Neuresthetics llc, 8 June 2025
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15633811.svg)](https://doi.org/10.5281/zenodo.15633811)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15653389.svg)](https://doi.org/10.5281/zenodo.15653389)
+
 
 ### Abstract
 
