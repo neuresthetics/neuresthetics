@@ -25,5 +25,5 @@ Access the full paper via [Zenodo](https://doi.org/10.5281/zenodo.15653389) or e
 - **Applications:** Educational strategies, professional development, and neuroplasticity interventions.
 
 ## 📫 Get in Touch
-- **Email:** jason@neuresthetics.com (based on LLC; feel free to update)
-- **X/Twitter:** [@neuresthetics](https://x.com/neuresthetics) (link your handle if available)
+- **Email:** neuresthetics@gmail.com
+- **X/Twitter:** [@neuresthetic](https://x.com/neuresthetic)
