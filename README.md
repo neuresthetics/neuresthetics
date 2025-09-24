@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Hi, I'm Jason Burns
+
+**Neuresthetic** (adj.): Pertaining to nerves, involving reverse engineering macro brain architecture using thoughts and behaviors. This field focuses on neural schemas and cognitive engineering for intelligence, emphasizing the structural and functional aspects of the brain.
+
+(Pronounced like "kinesthetic," but for nerves. 🎧 [Listen here](https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate))
+
+V5 data out now:
+Access via [Zenodo](https://doi.org/10.5281/zenodo.17070095).
 
 <!--
 **neuresthetics/neuresthetics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
