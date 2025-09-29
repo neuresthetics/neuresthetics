@@ -5,7 +5,7 @@
 (Pronounced like "kinesthetic," but for nerves. 🎧 [Listen here](https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate))
 
 V5 data out now:
-Access via [Zenodo](https://doi.org/10.5281/zenodo.17070095).
+Access via [Zenodo](https://doi.org/10.5281/zenodo.17070095)
 
 <!--
 **neuresthetics/neuresthetics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
