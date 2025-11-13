@@ -5,7 +5,9 @@
 (Pronounced like "kinesthetic," but for nerves. 🎧 [Listen here](https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate))
 
 V5 data out now:
+
 Behavioral Statistical Brian Network Theory for Intelligence, Hypothesis
+
 Access via [Zenodo](https://doi.org/10.5281/zenodo.17070095)
 
 - 🔭 I’m currently working on prompt structure, check out the Steel Men repo!
@@ -13,7 +15,8 @@ Access via [Zenodo](https://doi.org/10.5281/zenodo.17070095)
 Here:
 https://github.com/neuresthetics/SteelManAbraham
 
-# Philosophical Debate Framework for Sensitive Topics
+# Steel Men:
+## Philosophical Debate Framework for Sensitive Topics
 
 ## Purpose
 
