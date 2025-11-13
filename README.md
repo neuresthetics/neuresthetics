@@ -7,10 +7,12 @@
 V5 data out now:
 Access via [Zenodo](https://doi.org/10.5281/zenodo.17070095)
 
-- 🔭 I’m currently working on prompt structure, check out the Steel Men repo! Here:
+- 🔭 I’m currently working on prompt structure, check out the Steel Men repo!
+
+Here:
 https://github.com/neuresthetics/SteelManAbraham
 
-# README.md: Philosophical Debate Framework for Sensitive Topics
+# Philosophical Debate Framework for Sensitive Topics
 
 ## Purpose
 
