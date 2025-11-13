@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jason Burns
+## 👋 Hello World!
 
 **Neuresthetic** (adj.): Pertaining to nerves, involving reverse engineering macro brain architecture using thoughts and behaviors. This field focuses on neural schemas and cognitive engineering for intelligence, emphasizing the structural and functional aspects of the brain.
 
