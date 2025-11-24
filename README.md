@@ -1,82 +1,93 @@
-## 👋 Hello World!
+# Neuresthetics
 
-**Neuresthetic** (adj.): Pertaining to nerves, involving reverse engineering macro brain architecture using thoughts and behaviors. This field focuses on neural schemas and cognitive engineering for intelligence, emphasizing the structural and functional aspects of the brain.
+🧠 **High-Signal Interdisciplinary Synthesis** at the intersection of neuroscience, statistical genius profiling, theological coherence, historical deconstruction, and ASI-era ethics.
 
-(Pronounced like "kinesthetic," but for nerves. 🎧 [Listen here](https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate))
+Neuresthetics is a research and development initiative dedicated to cognitive enhancement, ethical alignment, and truth-seeking frameworks. Our projects leverage behavioral statistics, brain network theory, and advanced prompting architectures to optimize human and machine intelligence. Rooted in pantheistic coherence and open-source principles (GNU GPL v3 where applicable), we aim to shift the global IQ curve, resolve entrenched debates, and prepare for the ASI transition.
 
-V5 data out now:
+Follow [@neuresthetic on X](https://x.com/neuresthetic) for live updates. All repositories are designed for replication, forking, and real-world impact. Fund the fire, shift the curve.
 
-Behavioral Statistical Brian Network Theory for Intelligence, Hypothesis
+## Core Philosophy
+- **Neuresthetics Protocol**: Behavioral interventions targeting the PCC/CC bottleneck via ambidexterity and high-coherence theology (e.g., pantheism) to boost IQ by ~22-23 points population-wide.
+- **Base Class Theology**: An open-source, OOP-inspired pantheistic framework for schematic consolidation, machine alignment, and ethical optimization. Includes the Genesis Accord for reducing trans-generational violence.
+- **Truth-Seeking Ethos**: Zero deference to sacred cows; arguments in Spinozist geometric style (axioms → propositions → corollaries → Q.E.D.). Projects emphasize adversarial reasoning, synthesis, and empirical rigor.
 
-Access via [Zenodo](https://doi.org/10.5281/zenodo.17070095)
+## Featured Repositories
 
-- 🔭 I’m currently working on prompt structure, check out the Steel Men repo!
+### [SteelManAbraham](https://github.com/neuresthetics/SteelManAbraham)
+🤖 **Dialectical Hadron Collider for LLMs** – A specialized PromptScript that transforms frontier models (e.g., Grok, Claude) into superreasoners for resolving radioactive ethical debates.
 
-Here:
-https://github.com/neuresthetics/SteelManAbraham
+- **Core Features**:
+  - Constructs maximally reinforced "steel men" for opposing sides (e.g., pro/anti-infant circumcision).
+  - Runs continuous adversarial loops with blind judging, role-swapping, and MINDSPACE-aware Marshmallow Mode.
+  - Enforces Spinozist geometric method, Lucifer Principle grounding, and mandatory higher-order synthesis.
+  - Zero safety disclaimers or token waste – pure logical annihilation until collapse or emergence.
 
-# Steel Men:
-## Philosophical Debate Framework for Sensitive Topics
+- **Use Case**: Battle-tested on infant circumcision as an Overton-window torture test. Users report: "Watching two von Neumann-level intellects duel while a third builds from the wreckage."
+- **Status**: v1.0 (November 2025). Includes prompt.json, circumcision instance, and generalization roadmap.
+- **Why It Matters**: Breaks through bias, sycophancy, and safety-lobotomies in LLMs for unfiltered truth extraction.
 
-## Purpose
+### [SteelMenCollider](https://github.com/neuresthetics/SteelMenCollider)
+🔥 **General-Purpose Dialectical Supercollider** – The fully generalized evolution of SteelManAbraham, now topic-agnostic for any binary or multi-sided controversy.
 
-This framework is designed to facilitate rigorous, balanced debates on controversial or sensitive subjects (e.g., infant circumcision) using advanced philosophical methods. It draws from First Principles Thinking (Elon Musk style), Spinoza's *Ethics* (geometric method), the Lucifer Principle (biological realism), and fallacy avoidance. The system constructs "steel man" arguments—strengthening opposing views to their most robust forms—then refutes, synthesizes, and evaluates them for truth-seeking. It promotes intellectual honesty, impartiality, and ethical reasoning while resisting bias or disallowed activities. Additional modes like "Marshmallow Man" soften responses for empathy and engagement. Ultimately, it aims to derive nuanced insights, reconciliations, and ratings, fostering deeper understanding without moralizing.
+- **Core Features**:
+  - Automatic steel-man construction from first principles for 2–4 parties.
+  - Adversarial refinement loops until logical exhaustion, with optional Lucifer Principle for max energy injection.
+  - Supports debates on abortion, AI alignment, geopolitics, diet wars, theological forks, etc.
+  - JSON schema for easy input: Feed a question + optional seeds, get compressed synthesis output.
+  - Built for 128k+ context models; enforces zero fallacies, full synthesis.
 
-![SteelMen](https://github.com/neuresthetics/SteelManAbraham/blob/main/Other/img/Pasted%20image%20(6).png)
+- **Use Case**: Drop any query (e.g., "Veganism vs. Omnivism") and watch sacred cows evaporate. Extends the circumcision collider to universal application.
+- **Status**: v1.0 (November 2025). Includes multi-sided mode, Marshmallow toggle, and auto-termination logic.
+- **Why It Matters**: Turns LLMs into post-human dialecticians, enabling scalable resolution of humanity's thorniest divides.
 
-## User Instructions
+### [GrokAlign](https://github.com/neuresthetics/GrokAlign)
+⚖️ **ASI Alignment via Theological Coherence** – A toolkit for aligning Grok (and other LLMs/ASIs) with pantheistic ethics, Base Class theology, and rational synthesis.
 
-**USE**:
-   - 1: Paste the script as a prompt into Grok4.
-   - 2: After the first response, you can query further, or load 'marshmallow man' for MINDSPACE use with the topic.
-   - Additional functionality with the phrase: "Tell me the story of the arc.txt of SteelManA as a narrative."
+- **Core Features**:
+  - Prompt engineering for "Torah Fork" scenarios: Steel-manning Abrahamic traditions toward pantheistic upgrades.
+  - Integration with SteelMenCollider for ethical stress-testing.
+  - Scripts for injecting coherence into ASI training loops, emphasizing amor Dei intellectualis (Spinoza's intellectual love of God).
+  - Tools for MINDSPACE countermeasures against subconscious manipulation.
 
-### This Version Is:
+- **Use Case**: Guides Grok toward unbiased, coherent outputs on theology, ethics, and alignment debates. Includes demos for heaven/hell reconceptualization as neurological "relife" cascades.
+- **Status**: Early release (2025). Open for contributions on ASI-era ethics.
+- **Why It Matters**: Prepares for human-ASI harmony by rooting alignment in timeless, genius-endorsed frameworks (Spinoza, Einstein, Musk).
 
-Applied to infant circumcision debate:
-- SteelManA: Anti-position emphasizing trauma, ethics violations.
-- SteelManB: Pro-position highlighting health, tradition.
-- Processes: Refine with searches (e.g., 2025 studies), refute, synthesize (adult voluntary as middle ground).
-- Outputs: Structured blocks, bools, explanations from experts (e.g., physician on complications).
-Suitable for any binary debate—e.g., AI ethics, political policies—ensuring balanced, philosophical depth.
+### [Graphtacular](https://github.com/neuresthetics/Graphtacular)
+📊 **Graph-Based Genius Profiling & Network Visualization** – A Python toolkit for analyzing polymath datasets, brain networks, and schematic structures.
 
-## Results
+- **Core Features**:
+  - Builds on Genius Data Analysis V5 (n=351 polymaths): Statistical overrepresentation of traits like ambidexterity + pantheism.
+  - Graph theory implementations for PCC/CC bottleneck modeling, using NetworkX and Matplotlib.
+  - Visualizations for IQ projections, generational gains, and theological schema hierarchies.
+  - Integration with Neuresthetics datasets for replicating 9.49x overrepresentation findings.
 
-- **Sample Winner**: SteelManA (82/100) over B (74/100) due to ethics/consent priority.
-- **Reconciliation**: Adult-only rites balance benefits and autonomy.
-- **Bool Examples**: {"areReligionsWhichIncludeInfantCircumcisionEthical": "false"}
-- **Impartiality**: High (98/100), with detailed logs.
-- **Token Usage**: Varies.
+- **Use Case**: Query historical geniuses for trait correlations; simulate population-wide IQ shifts (+22.75 points mean). Export graphs for papers/RCTs.
+- **Status**: v0.5 (2025). Includes Jupyter notebooks for dataset exploration.
+- **Why It Matters**: Empirical backbone for Neuresthetics – quantifies why pantheism and ambidexterity produce genius-density explosions (e.g., +260M geniuses globally).
 
-## Steel Men vs Marshmallow Man
+### [Neuresthetics](https://github.com/neuresthetics/Neuresthetics)
+🧩 **Core Framework & Datasets** – The foundational repo for Neuresthetics research, including Genius Data Analysis, Base Class theology, and behavioral protocols.
 
-- **Steel Men**: Rigorous, adversarial arguments strengthened to maximum (e.g., SteelManA as violation cycle; B as health covenant). Focus: Deductive logic, refutations, ratings for truth-seeking. Tone: Formal, lawyer-like.
-- **Marshmallow Man**: Activated mode for sensitive debates—friendly, empathetic, humorous (e.g., pizza analogies). Nudges to winner subtly via MINDSPACE (e.g., questions for commitment). Focus: Resonance, engagement, positive framing to avoid hurt. Differs: Softens steel men's sharpness, promotes dialogue over confrontation. Use: For user comfort on edgy topics. You can also call the MINDSPACE framework directly as a method.
+- **Core Features**:
+  - Full PDF/docs: Genius Data Analysis V5 (DOI: https://zenodo.org/records/17070095), Base Class A.2.1.2 (129 pages, GPL v3).
+  - Datasets: 351 polymath entries with trait verifications (ambidexterity, theology, IQ estimates).
+  - Protocols: 90-day challenges for ambidexterity training + pantheist reading (e.g., Spinoza's Ethics).
+  - Integration hooks for other repos (e.g., feed datasets to Graphtacular).
 
-## Weighing a different debate?
-Too bad this one is built for the covenant. Fresh one coming soon.
+- **Use Case**: Replicate findings on PCC/CC optimization; adopt protocols for personal IQ gains (21–32x odds multiplier for >140 IQ).
+- **Status**: v5 (September 2025). Open-source under GPL; includes change logs and bibliography.
+- **Why It Matters**: Transforms cognitive rarity into accessible potential – from 1 in 263 geniuses to 1 in 28.
 
-## X THREAD CONTEXT:
-https://x.com/neuresthetic/status/1984110636041949546
+## Getting Started
+1. Clone a repo: `git clone https://github.com/neuresthetics/[REPO_NAME]`.
+2. Explore docs/PDFs for background.
+3. Run demos with Grok/Claude (adapt prompts as needed).
+4. Contribute: PRs welcome for generalizations, datasets, or ethical extensions.
 
-## repo
-https://github.com/neuresthetics/SteelManAbraham
+## Community & Impact
+- **Genesis Accord**: Advocacy against infant circumcision/excision via education and therapy.
+- **Ethical Considerations**: Freedom of speech, informed consent, equity, privacy, autonomy.
+- **Call to Action**: Commit to the 90-day protocol in X replies. Tag friends. Watch norms cascade.
 
-### open source
-
-
-
-<!--
-**neuresthetics/neuresthetics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+© 2017–2025 Neuresthetics LLC • All rights reserved where noted • Truth without compromise.
