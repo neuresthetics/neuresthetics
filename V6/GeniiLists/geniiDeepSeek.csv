@@ -1,0 +1,998 @@
+name,field
+Leonardo da Vinci,Polymath
+Albert Einstein,Physics
+Marie Curie,Physics/Chemistry
+Isaac Newton,Physics/Mathematics
+William Shakespeare,Literature
+Johann Sebastian Bach,Music
+Ludwig van Beethoven,Music
+Wolfgang Amadeus Mozart,Music
+Michelangelo,Art/Architecture
+Galileo Galilei,Astronomy/Physics
+Charles Darwin,Biology
+Socrates,Philosophy
+Plato,Philosophy
+Aristotle,Philosophy
+Archimedes,Mathematics/Engineering
+Euclid,Mathematics
+Pythagoras,Mathematics
+Hypatia,Mathematics/Philosophy
+Carl Friedrich Gauss,Mathematics
+Leonhard Euler,Mathematics
+Alan Turing,Computer Science/Mathematics
+Nikola Tesla,Electrical Engineering
+Thomas Edison,Invention
+James Clerk Maxwell,Physics
+Niels Bohr,Physics
+Erwin Schrödinger,Physics
+Werner Heisenberg,Physics
+Paul Dirac,Physics
+Richard Feynman,Physics
+Stephen Hawking,Physics
+Max Planck,Physics
+Enrico Fermi,Physics
+Michael Faraday,Chemistry/Physics
+Dmitri Mendeleev,Chemistry
+Linus Pauling,Chemistry
+John von Neumann,Mathematics/Computer Science
+Kurt Gödel,Mathematics/Logic
+Georg Cantor,Mathematics
+Bernhard Riemann,Mathematics
+Henri Poincaré,Mathematics
+Andrew Wiles,Mathematics
+John Stuart Mill,Philosophy/Economics
+Immanuel Kant,Philosophy
+Friedrich Nietzsche,Philosophy
+Jean-Paul Sartre,Philosophy
+Simone de Beauvoir,Philosophy
+Ludwig Wittgenstein,Philosophy
+Confucius,Philosophy
+Laozi,Philosophy
+Siddhartha Gautama,Philosophy
+Rene Descartes,Philosophy/Mathematics
+Baruch Spinoza,Philosophy
+David Hume,Philosophy
+John Locke,Philosophy
+Voltaire,Philosophy
+Miguel de Cervantes,Literature
+Dante Alighieri,Literature
+Homer,Literature
+Virgil,Literature
+Jane Austen,Literature
+Charles Dickens,Literature
+Fyodor Dostoevsky,Literature
+Leo Tolstoy,Literature
+Mark Twain,Literature
+James Joyce,Literature
+Virginia Woolf,Literature
+George Orwell,Literature
+Gabriel Garcia Marquez,Literature
+Johann Wolfgang von Goethe,Literature/Philosophy
+Friedrich Schiller,Literature/Philosophy
+Raphael,Art
+Rembrandt van Rijn,Art
+Vincent van Gogh,Art
+Pablo Picasso,Art
+Salvador Dali,Art
+Claude Monet,Art
+Georgia O-Keeffe,Art
+Frida Kahlo,Art
+Auguste Rodin,Sculpture
+Antoni Gaudi,Architecture
+Frank Lloyd Wright,Architecture
+Mies van der Rohe,Architecture
+Le Corbusier,Architecture
+Christopher Wren,Architecture
+Pyotr Ilyich Tchaikovsky,Music
+Richard Wagner,Music
+Franz Schubert,Music
+Johannes Brahms,Music
+Claude Debussy,Music
+Igor Stravinsky,Music
+John Cage,Music
+Louis Armstrong,Music
+Charlie Parker,Music
+Miles Davis,Music
+Sigmund Freud,Psychology
+Carl Jung,Psychology
+B.F. Skinner,Psychology
+Jean Piaget,Psychology
+Noam Chomsky,Linguistics/Philosophy
+Ferdinand de Saussure,Linguistics
+Adam Smith,Economics
+Karl Marx,Economics/Philosophy
+John Maynard Keynes,Economics
+Milton Friedman,Economics
+Alexander the Great,Military Strategy
+Julius Caesar,Military Strategy/Politics
+Sun Tzu,Military Strategy
+Genghis Khan,Military Strategy
+Napoleon Bonaparte,Military Strategy
+George Washington,Politics
+Abraham Lincoln,Politics
+Winston Churchill,Politics
+Mahatma Gandhi,Politics/Philosophy
+Nelson Mandela,Politics
+Martin Luther King Jr.,Civil Rights
+Susan B. Anthony,Women-s Rights
+Elizabeth Cady Stanton,Women-s Rights
+Malcolm X,Civil Rights
+Emmeline Pankhurst,Women-s Rights
+Florence Nightingale,Nursing
+Clara Barton,Humanitarianism
+Mother Teresa,Humanitarianism
+Albert Schweitzer,Medicine/Humanitarianism
+Louis Pasteur,Medicine/Biology
+Robert Koch,Medicine
+Alexander Fleming,Medicine
+Joseph Lister,Medicine
+William Harvey,Medicine
+Hippocrates,Medicine
+Galen,Medicine
+Ibn Sina,Medicine/Philosophy
+Al-Razi,Medicine
+Sushruta,Medicine
+Charaka,Medicine
+Hua Tuo,Medicine
+Edward Jenner,Medicine
+Jonas Salk,Medicine
+Rosalind Franklin,Chemistry/Biology
+Barbara McClintock,Genetics
+Dorothy Hodgkin,Chemistry
+Chien-Shiung Wu,Physics
+Lise Meitner,Physics
+Emmy Noether,Mathematics
+Ada Lovelace,Mathematics/Computer Science
+Grace Hopper,Computer Science
+Katherine Johnson,Mathematics
+Mary Jackson,Mathematics/Engineering
+Annie Jump Cannon,Astronomy
+Henrietta Swan Leavitt,Astronomy
+Caroline Herschel,Astronomy
+Maria Mitchell,Astronomy
+Wang Zhenyi,Astronomy/Mathematics
+Zhang Heng,Astronomy/Invention
+Aryabhata,Mathematics/Astronomy
+Brahmagupta,Mathematics
+Al-Khwarizmi,Mathematics
+Omar Khayyam,Mathematics/Poetry
+Alhazen,Physics/Mathematics
+Ibn al-Haytham,Optics/Mathematics
+Al-Biruni,Science/Mathematics
+Avicenna,Medicine/Philosophy
+Averroes,Philosophy/Medicine
+Maimonides,Philosophy/Medicine
+Al-Ghazali,Philosophy/Theology
+Thomas Aquinas,Philosophy/Theology
+Augustine of Hippo,Philosophy/Theology
+Francis Bacon,Philosophy/Science
+Blaise Pascal,Mathematics/Physics/Philosophy
+Gottfried Leibniz,Mathematics/Philosophy
+Benedict de Spinoza,Philosophy
+George Boole,Mathematics/Logic
+Alfred North Whitehead,Mathematics/Philosophy
+Bertrand Russell,Mathematics/Philosophy
+Alfred Nobel,Chemistry/Invention
+Alexander Graham Bell,Invention
+Guglielmo Marconi,Invention
+Wright Brothers,Invention
+Henry Ford,Engineering/Business
+Steve Jobs,Technology/Business
+Bill Gates,Technology/Business
+Tim Berners-Lee,Computer Science
+Vint Cerf,Computer Science
+Bob Kahn,Computer Science
+Donald Knuth,Computer Science
+John McCarthy,Computer Science
+Marvin Minsky,Computer Science
+Claude Shannon,Mathematics/Computer Science
+Norbert Wiener,Mathematics/Cybernetics
+John Bardeen,Physics/Electrical Engineering
+Walter Brattain,Physics/Electrical Engineering
+William Shockley,Physics/Electrical Engineering
+Jack Kilby,Electrical Engineering
+Robert Noyce,Electrical Engineering
+Gordon Moore,Electrical Engineering/Business
+Andy Grove,Electrical Engineering/Business
+Edwin Hubble,Astronomy
+Vera Rubin,Astronomy
+Carl Sagan,Astronomy/Science Communication
+Jocelyn Bell Burnell,Astronomy
+Subrahmanyan Chandrasekhar,Astronomy/Physics
+Arthur Eddington,Astronomy/Physics
+Fred Hoyle,Astronomy/Physics
+Georges Lemaître,Astronomy/Physics
+Anaximander,Philosophy/Science
+Democritus,Philosophy/Science
+Empedocles,Philosophy/Science
+Heraclitus,Philosophy
+Parmenides,Philosophy
+Zeno of Elea,Philosophy
+Epicurus,Philosophy
+Zeno of Citium,Philosophy
+Diogenes,Philosophy
+Cicero,Philosophy/Politics
+Seneca,Philosophy
+Marcus Aurelius,Philosophy/Politics
+Epictetus,Philosophy
+Plotinus,Philosophy
+Proclus,Philosophy
+Al-Farabi,Philosophy
+John Duns Scotus,Philosophy/Theology
+William of Ockham,Philosophy/Theology
+Nicolaus Copernicus,Astronomy
+Tycho Brahe,Astronomy
+Johannes Kepler,Astronomy/Mathematics
+Giordano Bruno,Philosophy/Astronomy
+Robert Boyle,Chemistry/Physics
+Antoine Lavoisier,Chemistry
+Amedeo Avogadro,Chemistry
+Stanislao Cannizzaro,Chemistry
+Dmitri Mendeleev,Chemistry
+J.J. Thomson,Physics
+Ernest Rutherford,Physics
+James Chadwick,Physics
+Otto Hahn,Chemistry
+Lise Meitner,Physics
+Glenn Seaborg,Chemistry
+Harold Urey,Chemistry
+Willard Libby,Chemistry
+Dorothy Crowfoot Hodgkin,Chemistry
+Robert Burns Woodward,Chemistry
+Roald Hoffmann,Chemistry
+Ahmed Zewail,Chemistry
+Frances Arnold,Chemistry
+John B. Goodenough,Chemistry/Engineering
+M. Stanley Whittingham,Chemistry
+Akira Yoshino,Chemistry
+Paul Ehrlich,Medicine
+Elie Metchnikoff,Medicine
+Emil von Behring,Medicine
+Ronald Ross,Medicine
+Charles Nicolle,Medicine
+Karl Landsteiner,Medicine
+Otto Loewi,Medicine
+Henry Dale,Medicine
+Gerhard Domagk,Medicine
+Howard Florey,Medicine
+Ernst Chain,Medicine
+Selman Waksman,Medicine
+Joshua Lederberg,Genetics
+Francis Crick,Genetics
+James Watson,Genetics
+Maurice Wilkins,Genetics
+Rosalind Franklin,Genetics
+Marshall Nirenberg,Genetics
+Har Gobind Khorana,Genetics
+Robert W. Holley,Genetics
+Sydney Brenner,Genetics
+John Sulston,Genetics
+Craig Venter,Genetics
+Jennifer Doudna,Biochemistry
+Emmanuelle Charpentier,Biochemistry
+Fritz Haber,Chemistry
+Carl Bosch,Chemistry
+Irving Langmuir,Chemistry
+Peter Debye,Chemistry
+Walter Noddack,Chemistry
+Ida Noddack,Chemistry
+William Lawrence Bragg,Physics
+William Henry Bragg,Physics
+Max von Laue,Physics
+Paul Langevin,Physics
+Pierre Curie,Physics
+Irene Joliot-Curie,Physics
+Frederic Joliot-Curie,Physics
+Cecil Frank Powell,Physics
+Patrick Blackett,Physics
+Hideki Yukawa,Physics
+Sin-Itiro Tomonaga,Physics
+Julian Schwinger,Physics
+Richard Feynman,Physics
+Freeman Dyson,Physics
+Murray Gell-Mann,Physics
+Yuval Ne-eman,Physics
+George Zweig,Physics
+Sheldon Glashow,Physics
+Steven Weinberg,Physics
+Abdus Salam,Physics
+Peter Higgs,Physics
+Francois Englert,Physics
+Gerard -t Hooft,Physics
+David Gross,Physics
+Frank Wilczek,Physics
+David Politzer,Physics
+Michael Brown,Astronomy
+Konstantin Batygin,Astronomy
+Andrea Ghez,Astronomy
+Reinhard Genzel,Astronomy
+Roger Penrose,Mathematics/Physics
+Kip Thorne,Physics
+Rainer Weiss,Physics
+Barry Barish,Physics
+Ronald Drever,Physics
+Joseph Weber,Physics
+Russell Hulse,Physics
+Joseph Taylor,Physics
+Aleksandr Prokhorov,Physics
+Nikolay Basov,Physics
+Charles Townes,Physics
+Arthur Schawlow,Physics
+Theodor Hansch,Physics
+John Hall,Physics
+Roy Glauber,Physics
+Leon Cooper,Physics
+John Bardeen,Physics
+John Robert Schrieffer,Physics
+Brian Josephson,Physics
+Ivar Giaever,Physics
+Leo Esaki,Physics
+Robert Laughlin,Physics
+Horst Stormer,Physics
+Daniel Tsui,Physics
+Anthony Leggett,Physics
+Alexei Abrikosov,Physics
+Vitaly Ginzburg,Physics
+Philip Anderson,Physics
+John Hasbrouck Van Vleck,Physics
+Nevill Mott,Physics
+Anderson localization,Physics
+Pierre-Gilles de Gennes,Physics
+Georges Charpak,Physics
+Martin Perl,Physics
+Frederick Reines,Physics
+Masatoshi Koshiba,Physics
+Raymond Davis Jr.,Physics
+Takaaki Kajita,Physics
+Arthur McDonald,Physics
+Yoichiro Nambu,Physics
+Makoto Kobayashi,Physics
+Toshihide Maskawa,Physics
+James Peebles,Physics
+Michel Mayor,Physics
+Didier Queloz,Physics
+James Clerk Maxwell,Physics
+Rudolf Clausius,Physics
+Ludwig Boltzmann,Physics
+Josiah Willard Gibbs,Physics
+Satyendra Nath Bose,Physics
+Albert Einstein,Physics
+Paul Ehrenfest,Physics
+Hendrik Lorentz,Physics
+Pieter Zeeman,Physics
+Heike Kamerlingh Onnes,Physics
+Walther Meissner,Physics
+Fritz London,Physics
+John C. Slater,Physics
+Linus Pauling,Chemistry/Physics
+Robert S. Mulliken,Chemistry
+Theodor Svedberg,Chemistry
+Richard Zsigmondy,Chemistry
+Jean Perrin,Chemistry
+Peter Debye,Chemistry
+Hermann Staudinger,Chemistry
+Wallace Carothers,Chemistry
+Paul Flory,Chemistry
+Bruce Merrifield,Chemistry
+Robert H. Grubbs,Chemistry
+Richard R. Schrock,Chemistry
+Yves Chauvin,Chemistry
+Karl Ziegler,Chemistry
+Giulio Natta,Chemistry
+Geoffrey Wilkinson,Chemistry
+Ernst Otto Fischer,Chemistry
+Henry Taube,Chemistry
+Rudolph Marcus,Chemistry
+Gerhard Ertl,Chemistry
+Gabor A. Somorjai,Chemistry
+George A. Olah,Chemistry
+John B. Fenn,Chemistry
+Koichi Tanaka,Chemistry
+Kurt Wuthrich,Chemistry
+Ada Yonath,Chemistry
+Venkatraman Ramakrishnan,Chemistry
+Thomas A. Steitz,Chemistry
+Martin Karplus,Chemistry
+Michael Levitt,Chemistry
+Arieh Warshel,Chemistry
+Jacques Dubochet,Chemistry
+Joachim Frank,Chemistry
+Richard Henderson,Chemistry
+Gregory Winter,Chemistry
+Frances Arnold,Chemistry
+George P. Smith,Chemistry
+John B. Goodenough,Chemistry
+M. Stanley Whittingham,Chemistry
+Akira Yoshino,Chemistry
+Benjamin List,Chemistry
+David MacMillan,Chemistry
+Emmanuelle Charpentier,Chemistry
+Jennifer Doudna,Chemistry
+Roger D. Kornberg,Chemistry
+Robert F. Furchgott,Chemistry
+Louis J. Ignarro,Chemistry
+Ferid Murad,Chemistry
+Peter Agre,Chemistry
+Roderick MacKinnon,Chemistry
+Aaron Ciechanover,Chemistry
+Avram Hershko,Chemistry
+Irwin Rose,Chemistry
+Thomas C. Sudhof,Chemistry
+James E. Rothman,Chemistry
+Randy W. Schekman,Chemistry
+John O-Keefe,Neuroscience
+May-Britt Moser,Neuroscience
+Edvard Moser,Neuroscience
+Julius Axelrod,Neuroscience
+Arvid Carlsson,Neuroscience
+Paul Greengard,Neuroscience
+Eric Kandel,Neuroscience
+Roger Wolcott Sperry,Neuroscience
+David H. Hubel,Neuroscience
+Torsten Wiesel,Neuroscience
+John Carew Eccles,Neuroscience
+Alan Hodgkin,Neuroscience
+Andrew Huxley,Neuroscience
+Bernard Katz,Neuroscience
+Ulf von Euler,Neuroscience
+Paul Nurse,Genetics
+Leland Hartwell,Genetics
+Tim Hunt,Genetics
+Elizabeth Blackburn,Genetics
+Carol Greider,Genetics
+Jack Szostak,Genetics
+James Allison,Immunology
+Tasuku Honjo,Immunology
+Ralph Steinman,Immunology
+Bruce Beutler,Immunology
+Jules Hoffmann,Immunology
+Peter Medawar,Immunology
+Frank Macfarlane Burnet,Immunology
+Niels Jerne,Immunology
+Georges Kohler,Immunology
+Cesar Milstein,Immunology
+Susumu Tonegawa,Immunology
+Gerald Edelman,Immunology
+Rodney Porter,Immunology
+Baruj Benacerraf,Immunology
+Jean Dausset,Immunology
+George Snell,Immunology
+Peter Mansfield,Medicine
+Paul Lauterbur,Medicine
+Raymond Damadian,Medicine
+Allan MacLeod Cormack,Medicine
+Godfrey Hounsfield,Medicine
+Robert Ledley,Medicine
+Willem Einthoven,Medicine
+Augustus Waller,Medicine
+Norman Holter,Medicine
+Wilson Greatbatch,Medicine
+John Charnley,Medicine
+Theodor Billroth,Medicine
+Harvey Cushing,Medicine
+Walter Dandy,Medicine
+William Halsted,Medicine
+Joseph Lister,Medicine
+Ignaz Semmelweis,Medicine
+John Snow,Medicine
+Rudolf Virchow,Medicine
+Giovanni Morgagni,Medicine
+Andreas Vesalius,Medicine
+Paracelsus,Medicine
+Maimonides,Medicine/Philosophy
+Hua Tuo,Medicine
+Zhang Zhongjing,Medicine
+Li Shizhen,Medicine
+Shennong,Medicine
+Charaka,Medicine
+Sushruta,Medicine
+Vagbhata,Medicine
+Nagarjuna,Medicine/Philosophy
+Atreya,Medicine
+Jivaka,Medicine
+Razi,Medicine
+Ibn Sina,Medicine
+Ibn al-Nafis,Medicine
+Moses Maimonides,Medicine/Philosophy
+Gilles de Corbeil,Medicine
+Henri de Mondeville,Medicine
+Guy de Chauliac,Medicine
+John of Arderne,Medicine
+Thomas Linacre,Medicine
+Thomas Sydenham,Medicine
+Thomas Willis,Medicine
+Francis Glisson,Medicine
+Richard Lower,Medicine
+William Harvey,Medicine
+Marcello Malpighi,Medicine
+Antonie van Leeuwenhoek,Microscopy
+Robert Hooke,Microscopy
+Jan Swammerdam,Microscopy
+Albrecht von Haller,Medicine
+John Hunter,Medicine
+William Hunter,Medicine
+Edward Jenner,Medicine
+Benjamin Waterhouse,Medicine
+Oliver Wendell Holmes Sr.,Medicine
+Rene Laennec,Medicine
+Jean-Martin Charcot,Medicine
+Sigmund Freud,Psychology
+Carl Jung,Psychology
+Alfred Adler,Psychology
+Karen Horney,Psychology
+Melanie Klein,Psychology
+Anna Freud,Psychology
+Erik Erikson,Psychology
+Jean Piaget,Psychology
+Lawrence Kohlberg,Psychology
+B.F. Skinner,Psychology
+Ivan Pavlov,Psychology
+John B. Watson,Psychology
+Edward Thorndike,Psychology
+Clark Hull,Psychology
+Kurt Lewin,Psychology
+Abraham Maslow,Psychology
+Carl Rogers,Psychology
+Gordon Allport,Psychology
+Raymond Cattell,Psychology
+Hans Eysenck,Psychology
+David Wechsler,Psychology
+Alfred Binet,Psychology
+Theodore Simon,Psychology
+Lewis Terman,Psychology
+Robert Yerkes,Psychology
+James McKeen Cattell,Psychology
+Hermann Ebbinghaus,Psychology
+George Miller,Psychology
+Ulric Neisser,Psychology
+Elizabeth Loftus,Psychology
+Daniel Kahneman,Psychology
+Amos Tversky,Psychology
+Herbert Simon,Psychology
+Allen Newell,Psychology/Computer Science
+Marvin Minsky,Artificial Intelligence
+John McCarthy,Artificial Intelligence
+Arthur Samuel,Artificial Intelligence
+Edward Feigenbaum,Artificial Intelligence
+Raj Reddy,Artificial Intelligence
+Judea Pearl,Artificial Intelligence
+Geoffrey Hinton,Artificial Intelligence
+Yann LeCun,Artificial Intelligence
+Yoshua Bengio,Artificial Intelligence
+Andrew Ng,Artificial Intelligence
+Demis Hassabis,Artificial Intelligence
+Shane Legg,Artificial Intelligence
+Mustafa Suleyman,Artificial Intelligence
+Jürgen Schmidhuber,Artificial Intelligence
+Sebastian Thrun,Artificial Intelligence
+Rodney Brooks,Artificial Intelligence
+Hans Moravec,Artificial Intelligence
+Ray Kurzweil,Artificial Intelligence/Futurism
+Nick Bostrom,Philosophy/Futurism
+Eliezer Yudkowsky,Artificial Intelligence
+Stuart Russell,Artificial Intelligence
+Peter Norvig,Artificial Intelligence
+Douglas Lenat,Artificial Intelligence
+Terry Winograd,Artificial Intelligence
+Joseph Weizenbaum,Artificial Intelligence
+Hubert Dreyfus,Philosophy/Artificial Intelligence
+John Searle,Philosophy/Artificial Intelligence
+David Chalmers,Philosophy/Artificial Intelligence
+Daniel Dennett,Philosophy/Artificial Intelligence
+Patricia Churchland,Philosophy/Neuroscience
+Paul Churchland,Philosophy/Neuroscience
+Thomas Nagel,Philosophy
+Peter Singer,Philosophy/Ethics
+Derek Parfit,Philosophy/Ethics
+Robert Nozick,Philosophy/Political Science
+John Rawls,Philosophy/Political Science
+Jurgen Habermas,Philosophy/Sociology
+Michel Foucault,Philosophy/History
+Jacques Derrida,Philosophy
+Gilles Deleuze,Philosophy
+Felix Guattari,Philosophy/Psychoanalysis
+Louis Althusser,Philosophy
+Antonio Gramsci,Philosophy/Political Science
+Walter Benjamin,Philosophy/Cultural Criticism
+Theodor Adorno,Philosophy/Sociology
+Max Horkheimer,Philosophy/Sociology
+Herbert Marcuse,Philosophy/Political Science
+Hannah Arendt,Philosophy/Political Science
+Simone Weil,Philosophy
+Edith Stein,Philosophy
+Rosa Luxemburg,Philosophy/Political Science
+Emma Goldman,Philosophy/Political Science
+Ayn Rand,Philosophy/Literature
+Karl Popper,Philosophy/Science
+Thomas Kuhn,Philosophy/Science
+Paul Feyerabend,Philosophy/Science
+Imre Lakatos,Philosophy/Science
+Michael Polanyi,Philosophy/Science
+Alfred North Whitehead,Philosophy/Mathematics
+Henri Bergson,Philosophy
+Martin Heidegger,Philosophy
+Edmund Husserl,Philosophy
+Maurice Merleau-Ponty,Philosophy
+Emmanuel Levinas,Philosophy
+Jean-Luc Nancy,Philosophy
+Alain Badiou,Philosophy
+Slavoj Zizek,Philosophy/Psychoanalysis
+Byung-Chul Han,Philosophy/Cultural Criticism
+Martha Nussbaum,Philosophy/Ethics
+Judith Butler,Philosophy/Gender Studies
+Donna Haraway,Philosophy/Science Studies
+Bruno Latour,Philosophy/Sociology
+Isabelle Stengers,Philosophy/Science Studies
+Karen Barad,Philosophy/Physics
+Ruth Millikan,Philosophy
+Elizabeth Anscombe,Philosophy
+Philippa Foot,Philosophy/Ethics
+Mary Midgley,Philosophy/Ethics
+Iris Murdoch,Philosophy/Literature
+Simone de Beauvoir,Philosophy/Feminism
+bell hooks,Philosophy/Feminism
+Angela Davis,Philosophy/Political Activism
+Cornel West,Philosophy/Cultural Criticism
+Noam Chomsky,Linguistics/Philosophy
+Steven Pinker,Linguistics/Psychology
+George Lakoff,Linguistics/Cognitive Science
+Ray Jackendoff,Linguistics/Cognitive Science
+Adele Goldberg,Linguistics/Cognitive Science
+Ronald Langacker,Linguistics/Cognitive Science
+Leonard Bloomfield,Linguistics
+Edward Sapir,Linguistics/Anthropology
+Benjamin Lee Whorf,Linguistics/Anthropology
+Roman Jakobson,Linguistics
+Ferdinand de Saussure,Linguistics
+Charles Sanders Peirce,Philosophy/Semiotics
+William James,Philosophy/Psychology
+John Dewey,Philosophy/Education
+Richard Rorty,Philosophy
+Hilary Putnam,Philosophy
+Saul Kripke,Philosophy/Logic
+W.V.O. Quine,Philosophy/Logic
+Donald Davidson,Philosophy
+David Lewis,Philosophy
+Robert Brandom,Philosophy
+John McDowell,Philosophy
+Charles Taylor,Philosophy
+Alasdair MacIntyre,Philosophy/Ethics
+Bernard Williams,Philosophy/Ethics
+G.E.M. Anscombe,Philosophy/Ethics
+R.M. Hare,Philosophy/Ethics
+J.L. Mackie,Philosophy/Ethics
+Derek Parfit,Philosophy/Ethics
+Peter Singer,Philosophy/Ethics
+Tom Regan,Philosophy/Ethics
+Carol Gilligan,Philosophy/Ethics
+Lawrence Kohlberg,Psychology/Ethics
+James Rachels,Philosophy/Ethics
+Judith Jarvis Thomson,Philosophy/Ethics
+Frances Kamm,Philosophy/Ethics
+Shelly Kagan,Philosophy/Ethics
+Tim Scanlon,Philosophy/Ethics
+John Broome,Philosophy/Ethics
+Amartya Sen,Economics/Ethics
+Martha Nussbaum,Philosophy/Ethics
+Onora O-Neill,Philosophy/Ethics
+Christine Korsgaard,Philosophy/Ethics
+Susan Wolf,Philosophy/Ethics
+Harry Frankfurt,Philosophy/Ethics
+Bernard Gert,Philosophy/Ethics
+Alan Gewirth,Philosophy/Ethics
+Thomas Nagel,Philosophy/Ethics
+Samuel Scheffler,Philosophy/Ethics
+G.A. Cohen,Philosophy/Political Science
+John Roemer,Economics/Political Science
+Jon Elster,Philosophy/Political Science
+Adam Przeworski,Political Science
+Robert Dahl,Political Science
+Arend Lijphart,Political Science
+Juan Linz,Political Science
+Alfred Stepan,Political Science
+Seymour Martin Lipset,Political Science/Sociology
+Barrington Moore Jr.,Sociology/Political Science
+Theda Skocpol,Sociology/Political Science
+Charles Tilly,Sociology/Political Science
+Immanuel Wallerstein,Sociology/History
+Fernand Braudel,History
+Marc Bloch,History
+Lucien Febvre,History
+E.H. Carr,History
+R.G. Collingwood,Philosophy/History
+Arnold Toynbee,History
+Oswald Spengler,History
+Jacob Burckhardt,History
+Leopold von Ranke,History
+Edward Gibbon,History
+Thucydides,History
+Herodotus,History
+Simaqian,History
+Ban Gu,History
+Ibn Khaldun,History/Sociology
+Al-Masudi,History/Geography
+Al-Tabari,History
+Al-Baladhuri,History
+Josephus,History
+Plutarch,History
+Tacitus,History
+Livy,History
+Polybius,History
+Xenophon,History/Philosophy
+Arrian,History
+Diodorus Siculus,History
+Appian,History
+Cassius Dio,History
+Procopius,History
+Gregory of Tours,History
+Bede,History
+Geoffrey of Monmouth,History
+William of Malmesbury,History
+Matthew Paris,History
+Jean Froissart,History
+Philippe de Commynes,History
+Francesco Guicciardini,History
+Niccolo Machiavelli,History/Political Philosophy
+Edward Hyde,History
+David Hume,History/Philosophy
+Edward Gibbon,History
+Thomas Babington Macaulay,History
+Thomas Carlyle,History
+Jules Michelet,History
+Leopold von Ranke,History
+Jacob Burckhardt,History
+Theodor Mommsen,History
+Lord Acton,History
+Frederick Jackson Turner,History
+Charles Beard,History
+Carl Becker,History
+Arthur Schlesinger Sr.,History
+Arthur Schlesinger Jr.,History
+Richard Hofstadter,History
+C. Vann Woodward,History
+John Hope Franklin,History
+Kenneth Stampp,History
+Eugene Genovese,History
+Eric Foner,History
+Gordon Wood,History
+Bernard Bailyn,History
+Edmund Morgan,History
+David Brion Davis,History
+John Demos,History
+Natalie Zemon Davis,History
+Carlo Ginzburg,History
+Emmanuel Le Roy Ladurie,History
+Fernand Braudel,History
+Georges Duby,History
+Jacques Le Goff,History
+Philippe Aries,History
+Michel Foucault,History/Philosophy
+Hayden White,History/Philosophy
+Paul Ricoeur,Philosophy/History
+R.G. Collingwood,Philosophy/History
+Wilhelm Dilthey,Philosophy/History
+Benedetto Croce,Philosophy/History
+Johan Huizinga,History
+Marc Bloch,History
+Lucien Febvre,History
+Fernand Braudel,History
+Emmanuel Le Roy Ladurie,History
+Georges Duby,History
+Jacques Le Goff,History
+Pierre Nora,History
+Francois Furet,History
+Simon Schama,History
+Eric Hobsbawm,History
+Christopher Hill,History
+E.P. Thompson,History
+Perry Anderson,History/Political Science
+Benedict Anderson,History/Political Science
+Arjun Appadurai,Anthropology
+Clifford Geertz,Anthropology
+Margaret Mead,Anthropology
+Ruth Benedict,Anthropology
+Franz Boas,Anthropology
+Bronislaw Malinowski,Anthropology
+A.R. Radcliffe-Brown,Anthropology
+E.E. Evans-Pritchard,Anthropology
+Claude Levi-Strauss,Anthropology
+Mary Douglas,Anthropology
+Victor Turner,Anthropology
+Arnold van Gennep,Anthropology
+Marcel Mauss,Anthropology/Sociology
+Pierre Bourdieu,Sociology/Anthropology
+Michel de Certeau,Sociology/Anthropology
+James Clifford,Anthropology
+George Marcus,Anthropology
+Michael Taussig,Anthropology
+Nancy Scheper-Hughes,Anthropology
+Philippe Descola,Anthropology
+Eduardo Viveiros de Castro,Anthropology
+Marilyn Strathern,Anthropology
+Henrietta Moore,Anthropology
+Sherry Ortner,Anthropology
+Lila Abu-Lughod,Anthropology
+Anna Tsing,Anthropology
+Donna Haraway,Anthropology/Science Studies
+Bruno Latour,Anthropology/Sociology
+Tim Ingold,Anthropology
+Alfred Gell,Anthropology
+Maurice Bloch,Anthropology
+Marshall Sahlins,Anthropology
+Eric Wolf,Anthropology
+Sidney Mintz,Anthropology
+Michael Herzfeld,Anthropology
+Paul Rabinow,Anthropology
+Talal Asad,Anthropology
+Partha Chatterjee,Anthropology/Political Science
+Dipesh Chakrabarty,Anthropology/History
+Gayatri Spivak,Literature/Anthropology
+Homi Bhabha,Literature/Anthropology
+Edward Said,Literature/Anthropology
+Kwame Anthony Appiah,Philosophy/Anthropology
+Charles Taylor,Philosophy/Anthropology
+Clifford Geertz,Anthropology
+Victor Turner,Anthropology
+Mary Douglas,Anthropology
+Edmund Leach,Anthropology
+Fredrik Barth,Anthropology
+Pierre Clastres,Anthropology
+Roy Rappaport,Anthropology
+Marvin Harris,Anthropology
+Julian Steward,Anthropology
+Leslie White,Anthropology
+Alfred Kroeber,Anthropology
+Robert Lowie,Anthropology
+Paul Radin,Anthropology
+Melville Herskovits,Anthropology
+Zora Neale Hurston,Anthropology/Literature
+E. E. Evans-Pritchard,Anthropology
+Max Gluckman,Anthropology
+Victor Turner,Anthropology
+Mary Douglas,Anthropology
+Edmund Leach,Anthropology
+Fredrik Barth,Anthropology
+Pierre Bourdieu,Sociology/Anthropology
+Anthony Giddens,Sociology
+Jurgen Habermas,Sociology/Philosophy
+Max Weber,Sociology
+Emile Durkheim,Sociology
+Karl Marx,Sociology/Economics
+Georg Simmel,Sociology
+Talcott Parsons,Sociology
+Robert Merton,Sociology
+C. Wright Mills,Sociology
+Erving Goffman,Sociology
+Harold Garfinkel,Sociology
+Alfred Schutz,Sociology/Philosophy
+Peter Berger,Sociology
+Thomas Luckmann,Sociology
+Niklas Luhmann,Sociology
+Michel Foucault,Philosophy/Sociology
+Pierre Bourdieu,Sociology
+Anthony Giddens,Sociology
+Jurgen Habermas,Sociology/Philosophy
+Immanuel Wallerstein,Sociology
+Randall Collins,Sociology
+James Coleman,Sociology
+Robert Putnam,Sociology
+Theda Skocpol,Sociology
+Charles Tilly,Sociology
+Seymour Martin Lipset,Sociology
+David Riesman,Sociology
+Daniel Bell,Sociology
+Alain Touraine,Sociology
+Manuel Castells,Sociology
+Zygmunt Bauman,Sociology
+Ulrich Beck,Sociology
+Anthony Giddens,Sociology
+Pierre Bourdieu,Sociology
+Jurgen Habermas,Sociology/Philosophy
+Niklas Luhmann,Sociology
+Jeffrey Alexander,Sociology
+Randall Collins,Sociology
+Harrison White,Sociology
+Mark Granovetter,Sociology
+James Coleman,Sociology
+Robert Putnam,Sociology
+Theda Skocpol,Sociology
+Charles Tilly,Sociology
+Immanuel Wallerstein,Sociology
+Janet Abu-Lughod,Sociology
+Saskia Sassen,Sociology
+Manuel Castells,Sociology
+David Harvey,Geography/Sociology
+Henri Lefebvre,Philosophy/Sociology
+Guy Debord,Philosophy/Sociology
+Jean Baudrillard,Philosophy/Sociology
+Slavoj Zizek,Philosophy/Sociology
+Byung-Chul Han,Philosophy/Sociology
+Donna Haraway,Sociology/Science Studies
+Bruno Latour,Sociology/Science Studies
+John Law,Sociology/Science Studies
+Annemarie Mol,Sociology/Science Studies
+Karin Knorr Cetina,Sociology/Science Studies
+Sheila Jasanoff,Science Studies/Sociology
+Steven Shapin,Science Studies/Sociology
+Simon Schaffer,Science Studies/Sociology
+Thomas Kuhn,Science Studies/Philosophy
+Paul Feyerabend,Science Studies/Philosophy
+Robert Merton,Sociology of Science
+Derek de Solla Price,Science Studies
+John Ziman,Science Studies
+Michael Polanyi,Science Studies/Philosophy
+Ludwik Fleck,Science Studies
+Gaston Bachelard,Science Studies/Philosophy
+Georges Canguilhem,Science Studies/Philosophy
+Michel Foucault,Science Studies/Philosophy
+Ian Hacking,Science Studies/Philosophy
+Nancy Cartwright,Science Studies/Philosophy
+John Dupré,Science Studies/Philosophy
+Philip Kitcher,Science Studies/Philosophy
+Helen Longino,Science Studies/Philosophy
+Sandra Harding,Science Studies/Philosophy
+Donna Haraway,Science Studies/Philosophy
+Karen Barad,Science Studies/Philosophy
+Evelyn Fox Keller,Science Studies/History
+Londa Schiebinger,Science Studies/History
+Margaret Rossiter,Science Studies/History
+David Noble,Science Studies/History
+Thomas Hughes,Science Studies/History
+Wiebe Bijker,Science Studies/Sociology
+Trevor Pinch,Science Studies/Sociology
+Donald MacKenzie,Science Studies/Sociology
+Paul Edwards,Science Studies/History
+Peter Galison,Science Studies/History
+Lorraine Daston,Science Studies/History
+Katharine Park,Science Studies/History
+Pamela Long,Science Studies/History
+Mario Biagioli,Science Studies/History
+Steven Shapin,Science Studies/History
+Simon Schaffer,Science Studies/History
+John Hedley Brooke,Science Studies/History
+Ronald Numbers,Science Studies/History
+David Lindberg,Science Studies/History
+Edward Grant,Science Studies/History
+Pierre Duhem,Science Studies/History
+Alexander Koyre,Science Studies/History
+Thomas Kuhn,Science Studies/History
+Paul Feyerabend,Science Studies/History
+Imre Lakatos,Science Studies/History
+Michael Polanyi,Science Studies/History
+Karl Popper,Science Studies/Philosophy
+Carl Hempel,Science Studies/Philosophy
+Ernest Nagel,Science Studies/Philosophy
+Wilfrid Sellars,Science Studies/Philosophy
+Bas van Fraassen,Science Studies/Philosophy
+Nancy Cartwright,Science Studies/Philosophy
+John Dupré,Science Studies/Philosophy
+Philip Kitcher,Science Studies/Philosophy
+Helen Longino,Science Studies/Philosophy
+Sandra Harding,Science Studies/Philosophy
+Donna Haraway,Science Studies/Philosophy
+Karen Barad,Science Studies/Philosophy
+Evelyn Fox Keller,Science Studies/History
+Londa Schiebinger,Science Studies/History
+Margaret Rossiter,Science Studies/History
+David Noble,Science Studies/History
+Thomas Hughes,Science Studies/History
+Wiebe Bijker,Science Studies/Sociology
+Trevor Pinch,Science Studies/Sociology
+Donald MacKenzie,Science Studies/Sociology
+Paul Edwards,Science Studies/History
+Peter Galison,Science Studies/History
+Lorraine Daston,Science Studies/History
+Katharine Park,Science Studies/History
+Pamela Long,Science Studies/History
+Mario Biagioli,Science Studies/History
+Steven Shapin,Science Studies/History
+Simon Schaffer,Science Studies/History
+John Hedley Brooke,Science Studies/History
+Ronald Numbers,Science Studies/History
+David Lindberg,Science Studies/History
+Edward Grant,Science Studies/History
+Pierre Duhem,Science Studies/History
+Alexander Koyre,Science Studies/History
+Thomas Kuhn,Science Studies/History
+Paul Feyerabend,Science Studies/History
+Imre Lakatos,Science Studies/
