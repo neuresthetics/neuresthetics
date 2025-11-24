@@ -2,7 +2,7 @@
 
 🧠 **High-Signal Interdisciplinary Synthesis** at the intersection of neuroscience, statistical genius profiling, theological coherence, historical deconstruction, and ASI-era ethics.
 
-Follow [@neuresthetic on X](https://x.com/neuresthetic) for live updates. [@neuresthetic on X](neuresthetic.net)
+Follow [@neuresthetic on X](https://x.com/neuresthetic) for live updates.
 
 ## Featured Repositories
 
