@@ -1,0 +1,375 @@
+name,field
+Isaac Newton,physics
+Albert Einstein,physics
+Charles Darwin,biology
+Galileo Galilei,physics
+Aristotle,polymath
+Leonardo da Vinci,polymath
+Marie Curie,physics
+Archimedes,polymath
+Johannes Kepler,astronomy
+Nikola Tesla,engineering
+James Clerk Maxwell,physics
+Michael Faraday,physics
+Gottfried Wilhelm Leibniz,polymath
+René Descartes,polymath
+Blaise Pascal,polymath
+Carl Friedrich Gauss,mathematics
+Leonhard Euler,mathematics
+Pierre-Simon Laplace,polymath
+Srinivasa Ramanujan,mathematics
+Alan Turing,mathematics
+John von Neumann,polymath
+Kurt Gödel,mathematics
+Euclid,mathematics
+Pythagoras,mathematics
+Évariste Galois,mathematics
+David Hilbert,mathematics
+Henri Poincaré,mathematics
+Bernhard Riemann,mathematics
+Emmy Noether,mathematics
+Ada Lovelace,mathematics
+Sofya Kovalevskaya,mathematics
+Pierre de Fermat,mathematics
+Joseph-Louis Lagrange,mathematics
+Augustin-Louis Cauchy,mathematics
+Karl Weierstrass,mathematics
+Georg Cantor,mathematics
+Niels Bohr,physics
+Werner Heisenberg,physics
+Erwin Schrödinger,physics
+Paul Dirac,physics
+Richard Feynman,physics
+Max Planck,physics
+Ludwig Boltzmann,physics
+Ernest Rutherford,physics
+J.J. Thomson,physics
+Enrico Fermi,physics
+Wolfgang Pauli,physics
+Max Born,physics
+Louis de Broglie,physics
+Stephen Hawking,physics
+Roger Penrose,mathematics
+Emmy Amalie Noether,mathematics
+Lise Meitner,physics
+Chien-Shiung Wu,physics
+Subrahmanyan Chandrasekhar,physics
+Satyendra Nath Bose,physics
+C.V. Raman,physics
+Johannes Diderik van der Waals,physics
+Hendrik Lorentz,physics
+Antoine Lavoisier,chemistry
+Dmitri Mendeleev,chemistry
+Linus Pauling,chemistry
+Louis Pasteur,chemistry
+Robert Boyle,chemistry
+Joseph Priestley,chemistry
+Jöns Jacob Berzelius,chemistry
+Justus von Liebig,chemistry
+Friedrich Wöhler,chemistry
+August Kekulé,chemistry
+Dorothy Hodgkin,chemistry
+Rosalind Franklin,chemistry
+William Harvey,medicine
+Hippocrates,medicine
+Galen,medicine
+Andreas Vesalius,medicine
+Edward Jenner,medicine
+Robert Koch,medicine
+Alexander Fleming,medicine
+Jonas Salk,medicine
+Frederick Banting,medicine
+Paul Ehrlich,medicine
+Sigmund Freud,psychology
+Carl Jung,psychology
+William James,psychology
+Ivan Pavlov,psychology
+B.F. Skinner,psychology
+Jean Piaget,psychology
+Lev Vygotsky,psychology
+Daniel Kahneman,psychology
+Gregor Mendel,biology
+Louis Agassiz,biology
+Carl Linnaeus,biology
+Georges Cuvier,biology
+Jean-Baptiste Lamarck,biology
+Alfred Russel Wallace,biology
+Thomas Hunt Morgan,biology
+Barbara McClintock,biology
+James Watson,biology
+Francis Crick,biology
+Rosalind Franklin,biology
+Rachel Carson,biology
+E.O. Wilson,biology
+Jane Goodall,biology
+Charles Lyell,geology
+Alfred Wegener,geology
+James Hutton,geology
+Edwin Hubble,astronomy
+Nicolaus Copernicus,astronomy
+Tycho Brahe,astronomy
+Johannes Kepler,astronomy
+Edmund Halley,astronomy
+William Herschel,astronomy
+Carl Sagan,astronomy
+Vera Rubin,astronomy
+Cecilia Payne-Gaposchkin,astronomy
+Subrahmanyan Chandrasekhar,astronomy
+Hippasus,mathematics
+Diophantus,mathematics
+Hypatia,polymath
+Aryabhata,polymath
+Brahmagupta,mathematics
+Bhaskara II,mathematics
+Muhammad ibn Musa al-Khwarizmi,polymath
+Omar Khayyam,polymath
+Al-Biruni,polymath
+Ibn al-Haytham,polymath
+Avicenna,polymath
+Averroes,polymath
+Nasir al-Din al-Tusi,polymath
+Fibonacci,mathematics
+Nicole Oresme,polymath
+Girolamo Cardano,polymath
+François Viète,mathematics
+Simon Stevin,mathematics
+John Napier,mathematics
+Thomas Harriot,mathematics
+Johann Heinrich Lambert,polymath
+Joseph Fourier,mathematics
+Augustin-Jean Fresnel,physics
+Sadi Carnot,physics
+William Thomson Lord Kelvin,physics
+Hermann von Helmholtz,polymath
+James Prescott Joule,physics
+Rudolf Clausius,physics
+Josiah Willard Gibbs,physics
+Henri Becquerel,physics
+Wilhelm Röntgen,physics
+Pierre Curie,physics
+George Stokes,mathematics
+William Rowan Hamilton,mathematics
+Arthur Cayley,mathematics
+James Joseph Sylvester,mathematics
+Charles Babbage,mathematics
+George Boole,mathematics
+Augustus De Morgan,mathematics
+Oliver Heaviside,mathematics
+Srinivasa Ramanujan,mathematics
+G.H. Hardy,mathematics
+Bertrand Russell,polymath
+Alfred North Whitehead,mathematics
+David Hilbert,mathematics
+Felix Klein,mathematics
+Sophus Lie,mathematics
+Élie Cartan,mathematics
+Hermann Weyl,mathematics
+André Weil,mathematics
+Jean-Pierre Serre,mathematics
+Alexander Grothendieck,mathematics
+John Nash,mathematics
+Andrew Wiles,mathematics
+Grigori Perelman,mathematics
+Terence Tao,mathematics
+Maryam Mirzakhani,mathematics
+Plato,philosophy
+Socrates,philosophy
+Confucius,philosophy
+Laozi,philosophy
+Buddha,philosophy
+Heraclitus,philosophy
+Parmenides,philosophy
+Zeno of Elea,philosophy
+Epicurus,philosophy
+Lucretius,philosophy
+Plotinus,philosophy
+Augustine of Hippo,philosophy
+Thomas Aquinas,philosophy
+Duns Scotus,philosophy
+William of Ockham,philosophy
+Francis Bacon,polymath
+Thomas Hobbes,philosophy
+John Locke,philosophy
+Baruch Spinoza,philosophy
+George Berkeley,philosophy
+David Hume,philosophy
+Jean-Jacques Rousseau,philosophy
+Immanuel Kant,philosophy
+Georg Wilhelm Friedrich Hegel,philosophy
+Arthur Schopenhauer,philosophy
+Søren Kierkegaard,philosophy
+Friedrich Nietzsche,philosophy
+Karl Marx,philosophy
+John Stuart Mill,philosophy
+Ludwig Wittgenstein,philosophy
+Martin Heidegger,philosophy
+Jean-Paul Sartre,philosophy
+Simone de Beauvoir,philosophy
+Hannah Arendt,philosophy
+Michel Foucault,philosophy
+Jacques Derrida,philosophy
+John Rawls,philosophy
+Noam Chomsky,linguistics
+Ferdinand de Saussure,linguistics
+Claude Lévi-Strauss,anthropology
+Franz Boas,anthropology
+Margaret Mead,anthropology
+Bronisław Malinowski,anthropology
+Ruth Benedict,anthropology
+Adam Smith,economics
+David Ricardo,economics
+Karl Marx,economics
+John Maynard Keynes,economics
+Friedrich Hayek,economics
+Milton Friedman,economics
+Paul Samuelson,economics
+Kenneth Arrow,economics
+Amartya Sen,economics
+Thomas Schelling,economics
+Homer,literature
+Virgil,literature
+Dante Alighieri,literature
+Geoffrey Chaucer,literature
+Miguel de Cervantes,literature
+William Shakespeare,literature
+John Milton,literature
+Johann Wolfgang von Goethe,polymath
+Victor Hugo,literature
+Fyodor Dostoevsky,literature
+Leo Tolstoy,literature
+Marcel Proust,literature
+James Joyce,literature
+Virginia Woolf,literature
+Franz Kafka,literature
+Jorge Luis Borges,literature
+Gabriel García Márquez,literature
+Toni Morrison,literature
+Johann Sebastian Bach,music
+Wolfgang Amadeus Mozart,music
+Ludwig van Beethoven,music
+Franz Schubert,music
+Richard Wagner,music
+Johannes Brahms,music
+Pyotr Ilyich Tchaikovsky,music
+Claude Debussy,music
+Igor Stravinsky,music
+Arnold Schoenberg,music
+Béla Bartók,music
+Duke Ellington,music
+Miles Davis,music
+John Coltrane,music
+Giotto di Bondone,art
+Sandro Botticelli,art
+Michelangelo Buonarroti,polymath
+Raphael,art
+Titian,art
+Caravaggio,art
+Rembrandt van Rijn,art
+Johannes Vermeer,art
+Diego Velázquez,art
+Francisco Goya,art
+J.M.W. Turner,art
+Eugène Delacroix,art
+Édouard Manet,art
+Claude Monet,art
+Pierre-Auguste Renoir,art
+Paul Cézanne,art
+Vincent van Gogh,art
+Paul Gauguin,art
+Henri Matisse,art
+Pablo Picasso,art
+Wassily Kandinsky,art
+Piet Mondrian,art
+Marcel Duchamp,art
+Salvador Dalí,art
+Frida Kahlo,art
+Jackson Pollock,art
+Mark Rothko,art
+Andy Warhol,art
+Filippo Brunelleschi,architecture
+Leon Battista Alberti,polymath
+Andrea Palladio,architecture
+Christopher Wren,architecture
+Frank Lloyd Wright,architecture
+Le Corbusier,architecture
+Ludwig Mies van der Rohe,architecture
+Zaha Hadid,architecture
+Thomas Edison,invention
+Alexander Graham Bell,invention
+Guglielmo Marconi,invention
+Wright Brothers - Wilbur Wright,invention
+Wright Brothers - Orville Wright,invention
+Henry Ford,invention
+Rudolf Diesel,invention
+George Stephenson,invention
+James Watt,invention
+Alessandro Volta,physics
+André-Marie Ampère,physics
+Georg Ohm,physics
+Samuel Morse,invention
+Charles Goodyear,invention
+Louis Daguerre,invention
+George Eastman,invention
+John Logie Baird,invention
+Philo Farnsworth,invention
+Grace Hopper,computer science
+Donald Knuth,computer science
+Edsger Dijkstra,computer science
+Tony Hoare,computer science
+Dennis Ritchie,computer science
+Ken Thompson,computer science
+Bjarne Stroustrup,computer science
+Tim Berners-Lee,computer science
+Vint Cerf,computer science
+Robert Kahn,computer science
+Claude Shannon,mathematics
+Norbert Wiener,mathematics
+John McCarthy,computer science
+Marvin Minsky,computer science
+Herbert Simon,computer science
+Allen Newell,computer science
+Judea Pearl,computer science
+Geoffrey Hinton,computer science
+Yann LeCun,computer science
+Yoshua Bengio,computer science
+Archytas,polymath
+Hero of Alexandria,engineering
+Zhang Heng,polymath
+Zu Chongzhi,mathematics
+Shen Kuo,polymath
+Guo Shoujing,astronomy
+Zhu Shijie,mathematics
+Takakazu Seki,mathematics
+Mozi,philosophy
+Mencius,philosophy
+Xunzi,philosophy
+Han Fei,philosophy
+Zhuangzi,philosophy
+Nagarjuna,philosophy
+Dignaga,philosophy
+Dharmakirti,philosophy
+Adi Shankara,philosophy
+Ramanuja,philosophy
+Madhvacharya,philosophy
+Chanakya,polymath
+Panini,linguistics
+Patanjali,philosophy
+Charaka,medicine
+Sushruta,medicine
+Varahamihira,polymath
+Al-Kindi,polymath
+Al-Farabi,polymath
+Al-Razi,polymath
+Ibn Sina - Avicenna,polymath
+Al-Ghazali,philosophy
+Ibn Rushd - Averroes,polymath
+Ibn Khaldun,polymath
+Jabir ibn Hayyan,chemistry
+Al-Battani,astronomy
+Abu Rayhan al-Biruni,polymath
+Alhazen - Ibn al-Haytham,polymath
+Maimonides,polymath
+Moses Mendelssohn,philosophy
+Baruch Spinoza,philosophy
+Martin Buber,philosophy
+Emmanuel Levinas,philosophy

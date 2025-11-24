@@ -1,0 +1,200 @@
+{
+  "task": "generate a scv list of people who meet this definition of genius while adhereing to csv_compilation_guidelines",
+  "term": "genius",
+  "etymology": "Derived from the Latin 'genius' (originally denoting a guardian spirit or innate disposition, and later evolving through French and English to signify exceptional talent).",
+  "main_definition": "Refers to an individual exhibiting extraordinary intellectual capacity, creative originality, or specialized aptitude that transcends ordinary human achievement, demonstrated through paradigm-shifting contributions that endure across time and influence societal progress or cultural evolution.",
+  "operational_criteria": {
+    "achievement_based_inclusion": {
+      "description": "Primary criterion emphasizing verifiable and lasting impact rather than psychometric scores, which are historically contingent and culturally biased.",
+      "threshold_indicators": [
+        "Foundational theories or methods still utilized in contemporary practice",
+        "Nobel-level recognition or equivalent honors (Fields Medal, Turing Award, MacArthur 'Genius' Grant)",
+        "Cultural works demonstrating 50+ year longevity and continued relevance",
+        "Inventions that fundamentally redefined technological or methodological capabilities",
+        "Philosophical frameworks that shaped discourse across multiple generations",
+        "Synthesis or integration of previously disparate domains yielding new fields of inquiry"
+      ],
+      "domains_of_manifestation": {
+        "primary_emphasis": "STEM fields (science, technology, engineering, mathematics) where paradigm shifts are most readily measurable, alongside balanced consideration of non-STEM domains through metrics like citation networks, influence on subsequent thinkers, or cultural resonance in humanities and arts",
+        "extended_domains": [
+          "Philosophy and logical systems",
+          "Arts and literature (time-tested cultural significance, not transient popularity)",
+          "Invention and practical innovation",
+          "Social/political thought (transformative frameworks with multigenerational impact, including ethical dimensions from prophets or moral philosophers)"
+        ]
+      }
+    },
+    "psychometric_limitations": {
+      "note": "IQ scores and standardized tests are NOT used as inclusion criteria due to:",
+      "reasons": [
+        "Historical anachronism: IQ testing emerged only in 1905; retroactive estimation for earlier figures involves untestable assumptions",
+        "Flynn Effect: IQ norms shift ~3 points/decade, making cross-era comparisons invalid",
+        "Cultural bias: Western tests may not capture non-Western forms of intelligence or achievement",
+        "Reductionism: Tests ignore emotional intelligence, domain-specific expertise, creative divergence, and practical wisdom",
+        "Survivorship bias: Historical records favor literate elites, not necessarily highest cognitive performers"
+      ],
+      "appropriate_use": "Psychometric data may supplement but never substitute for achievement-based assessment in contemporary cohorts where standardized testing is available and culturally appropriate"
+    },
+    "multidimensional_traits": {
+      "description": "Genius typically involves multiple interacting capacities, though no single trait is necessary or sufficient:",
+      "cognitive_dimensions": [
+        "High fluid intelligence: Novel reasoning in unfamiliar contexts",
+        "Divergent thinking: Generating multiple creative solutions",
+        "Integrative synthesis: Connecting disparate domains (polymathy)",
+        "Pattern recognition: Perceiving non-obvious relationships",
+        "Abstract reasoning: Operating at high levels of conceptual complexity"
+      ],
+      "behavioral_dimensions": [
+        "Perseverance and sustained focus (deliberate practice over years/decades)",
+        "Intellectual courage: Challenging prevailing paradigms despite social cost",
+        "Intrinsic motivation: Driven by curiosity rather than external rewards",
+        "High energy and productivity: Prolific output across lifespan"
+      ],
+      "environmental_factors": [
+        "Access to education, mentorship, and intellectual communities",
+        "Historical timing: Opportunities to address open problems in mature fields",
+        "Cultural support for specific domains (e.g., Renaissance patronage of arts)",
+        "Freedom from material constraints enabling sustained focus"
+      ],
+      "neurodiversity_correlations": {
+        "note": "Associations observed but not deterministic:",
+        "examples": [
+          "Autism spectrum: Enhanced pattern recognition, detail focus, systemizing",
+          "Bipolar disorder: Elevated creative output during hypomanic states, emotional depth",
+          "ADHD: Hyperfocus in areas of interest, divergent thinking",
+          "Synesthesia: Cross-modal processing enabling novel conceptual connections"
+        ],
+        "mechanism_hypotheses": "Altered dopamine pathways, reduced latent inhibition (filtering fewer stimuli), atypical neural connectivity"
+      },
+      "adversity_and_suffering": {
+        "complex_relationship": "Moderate adversity may catalyze genius by providing emotional depth, motivation, or perspective, but severe trauma more often impairs function. Relationship is domain-specific and non-linear.",
+        "examples": [
+          "Beethoven's deafness intensifying compositional focus",
+          "Frida Kahlo's physical suffering informing artistic expression",
+          "Ramanujan's poverty driving intense mathematical ambition"
+        ],
+        "critical_note": "Suffering is neither necessary nor sufficient; many geniuses emerge from stable, supportive environments. Post-hoc narratives may romanticize hardship."
+      }
+    }
+  },
+  "exclusion_criteria": {
+    "not_genius": [
+      "High performers without original contributions: Individuals with excellent technical skills or knowledge retention who do not generate novel insights (e.g., valedictorians who never publish original research)",
+      "Transient celebrities: Viral influencers, popular entertainers, or athletes whose impact does not endure beyond their active career or demonstrate paradigm-shifting innovation",
+      "Prodigies without mature achievement: Early-onset talent (child prodigies) who do not sustain impact into adulthood",
+      "Experts through practice alone: Mastery achieved via 10,000-hour deliberate practice without creative innovation (distinction from Ericsson's 'expert performance' framework)",
+      "Regionally recognized figures: Contributions that are culturally specific without broader cross-cultural or temporal influence",
+      "Groups or collaborative entities: Achievements attributed to collectives rather than individual contributions (e.g., bands or teams like the Beatles or the Wright Brothers)"
+    ]
+  },
+  "distinctions_from_related_concepts": {
+    "genius_vs_prodigy": "Prodigy denotes early-onset exceptional ability (e.g., Mozart composing at age 5); genius requires sustained paradigm-shifting contribution across lifespan. Many prodigies do not become geniuses; many geniuses were not childhood prodigies.",
+    "genius_vs_expert": "Expert refers to domain mastery through deliberate practice (Ericsson, 1993); genius adds creative originality that redefines the domain itself rather than achieving mastery within existing frameworks.",
+    "genius_vs_savant": "Savant describes extraordinary ability in narrow domain (often with neurodevelopmental conditions) without necessarily creative innovation or broad impact (e.g., calendar calculation without novel mathematical theory).",
+    "genius_vs_polymath": "Polymath indicates contributions across multiple domains; genius emphasizes transformative depth. A genius may be monomaniacal (Ramanujan in mathematics); a polymath may lack genius-level impact in any single field."
+  },
+  "historical_and_cultural_context": {
+    "social_construction": "Genius is a historically contingent label, not an objective biological category. Who is recognized as genius reflects:",
+    "bias_sources": [
+      "Gender bias: Systematic underrepresentation of women due to historical exclusion from education, professional networks, and credit for collaborative work (e.g., Rosalind Franklin's DNA work initially uncredited)",
+      "Cultural bias: Western canons privilege European achievements; non-Western polymaths (e.g., Al-Khwarizmi, Aryabhata) often underrecognized despite foundational contributions",
+      "Socioeconomic bias: Genius requires opportunity; countless potential geniuses never accessed education or resources to actualize capacity",
+      "Temporal bias: Contemporary figures lack historical distance for impact assessment; medieval scholars lacked publication infrastructure for widespread recognition"
+    ],
+    "evolutionary_trajectory": {
+      "ancient_conception": "Greek notion of 'daimon' or divine inspiration; genius as external force possessing the individual (e.g., Socratic divine voice)",
+      "renaissance_shift": "Genius as innate individual attribute; 'universal man' ideal (e.g., Leonardo as archetype)",
+      "enlightenment_rationalization": "Emphasis on reason and method; genius as product of disciplined intellect (e.g., Newton's 'standing on shoulders of giants')",
+      "romantic_elevation": "19th-century cult of genius; artist/scientist as tortured visionary transcending society (e.g., Beethoven, Nietzsche)",
+      "modern_synthesis": "Cognitive science perspective: Genius as interaction of innate capacity (genetics, neurobiology), environmental opportunity (education, resources), and deliberate effort (sustained practice, intrinsic motivation)"
+    },
+    "reference": "McMahon, D. (2013). Divine Fury: A History of Genius. Basic Books. — Traces conceptual evolution from ancient divine possession to modern talent frameworks."
+  },
+  "methodological_considerations": {
+    "for_empirical_studies": {
+      "recommended_approach": "Multi-source triangulation combining:",
+      "data_sources": [
+        "Biographical evidence of lasting contributions (publications, patents, artworks with documented impact)",
+        "Peer recognition metrics (awards, citations, critical acclaim sustained over decades)",
+        "Historical assessments by domain experts (retrospective evaluation of paradigm shifts)",
+        "Cross-cultural validation (contributions recognized beyond originating culture)"
+      ],
+      "avoid": [
+        "Relying solely on IQ estimates for historical figures",
+        "Conflating fame or wealth with genius (correlation does not imply causation)",
+        "Ignoring systemic barriers that prevented marginalized groups from demonstrating genius",
+        "Applying contemporary standards anachronistically to pre-modern figures"
+      ]
+    },
+    "sample_selection_criteria": {
+      "for_datasets_like_neuresthetics_study": {
+        "inclusion_threshold": "Individuals must meet at least TWO of the following:",
+        "criteria": [
+          "Foundational work still taught or used in the field today",
+          "Top-tier recognition (Nobel, Fields Medal, Turing Award, or equivalent)",
+          "Cultural/artistic works with documented 50+ year enduring influence",
+          "Inventions that created new technological paradigms (not incremental improvements)",
+          "Philosophical frameworks cited across multiple generations of scholarship",
+          "Demonstrable polymathy with significant contributions to 3+ distinct domains"
+        ],
+        "diversity_imperatives": [
+          "Actively seek non-Western figures (minimum 25-30% of sample)",
+          "Include women despite historical underrepresentation (target 15-20% where records allow)",
+          "Represent pre-modern eras (ancient through medieval, minimum 20%)",
+          "Balance STEM with humanities/arts to avoid disciplinary bias"
+        ],
+        "uncertainty_handling": [
+          "For historical figures with incomplete records, use conservative inclusion (requires stronger evidence of impact)",
+          "Code certainty levels for all traits (e.g., handedness certainty 0.5-1.0)",
+          "Run sensitivity analyses excluding low-certainty cases"
+        ],
+        "contemporary_handling": "For contemporary figures lacking 50+ year distance, use provisional inclusion based on expert consensus, citation trajectories, or projected impact via historiometric methods"
+      }
+    }
+  },
+  "contemporary_relevance": {
+    "implications_for_cognitive_enhancement": {
+      "description": "If genius correlates with optimizable neural architectures (e.g., PCC-CC efficiency), understanding trait profiles may inform:",
+      "applications": [
+        "Educational interventions targeting integrative thinking (ambidexterity training, coherent schema formation)",
+        "Neuroplasticity protocols for enhancing cross-hemispheric coordination",
+        "Talent identification systems recognizing diverse forms of genius potential",
+        "Mitigating systemic barriers (ensuring marginalized groups access genius-enabling environments)"
+      ],
+      "cautions": [
+        "Avoid genetic determinism: Genius is not reducible to heritable traits",
+        "Recognize environmental primacy: Even high innate capacity requires opportunity and effort",
+        "Ethical concerns: Interventions must not reinforce existing inequalities or create cognitive stratification"
+      ]
+    },
+    "future_evolution": {
+      "ai_collaboration_era": "Concept of genius may shift as AI augments or automates aspects of discovery. Future genius may involve:",
+      "speculative_criteria": [
+        "Human-AI synthesis: Ability to leverage computational tools for paradigm shifts",
+        "Meta-cognition: Designing frameworks for machine creativity",
+        "Ethical stewardship: Guiding technology's societal impact",
+        "Cross-species collaboration: Integrating non-human intelligence (e.g., animal cognition research, alien contact)"
+      ]
+    }
+  },
+  "summary_for_operational_use": {
+    "one_sentence_definition": "Genius is an individual whose paradigm-shifting contributions in science, philosophy, arts, or invention demonstrate extraordinary integrative cognition and endure across generations, transcending ordinary achievement through verifiable and lasting impact.",
+    "practical_checklist_for_dataset_inclusion": [
+      "✓ Contributions still studied, cited, or used 50+ years later (or projected to be for contemporary figures)",
+      "✓ Recognition by peers/experts as foundational to their domain",
+      "✓ Evidence of creative originality, not just mastery of existing knowledge",
+      "✓ Impact extends beyond local/regional recognition to broader cultural or scientific influence",
+      "✗ Exclude if: High IQ without achievement, transient fame, technical skill without innovation, or insufficient historical record to verify impact"
+    ],
+    "csv_compilation_guidelines": {
+      "output": "in code block",
+      "format": "CSV",
+      "target": ">=300 which meet criteria",
+      "duplicate_handling": "Duplicate check and removal. After adding each name, check if it already exists in the list. If it does, skip adding it again.",
+      "columns": {
+        "name": "full name with no , or ' Replace with a safe alternative character, like a hyphen.",
+        "field": "primary field or polymath"
+      }
+    }
+  }
+}

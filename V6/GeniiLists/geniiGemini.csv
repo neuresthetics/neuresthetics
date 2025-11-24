@@ -1,0 +1,670 @@
+name,field
+Leonardo da Vinci,Polymath
+Albert Einstein,Physics
+Isaac Newton,Physics-Mathematics
+Galileo Galilei,Astronomy-Physics
+Marie Curie,Chemistry-Physics
+Charles Darwin,Biology
+Nikola Tesla,Engineering-Invention
+Socrates,Philosophy
+Plato,Philosophy
+Aristotle,Philosophy-Logic
+Immanuel Kant,Philosophy
+René Descartes,Philosophy-Mathematics
+Gottfried Wilhelm Leibniz,Mathematics-Philosophy
+Ludwig van Beethoven,Music
+Wolfgang Amadeus Mozart,Music
+William Shakespeare,Literature-Drama
+Michelangelo,Art-Sculpture
+Johann Sebastian Bach,Music
+Max Planck,Physics
+Niels Bohr,Physics
+Werner Heisenberg,Physics
+Paul Dirac,Physics
+Richard Feynman,Physics
+James Clerk Maxwell,Physics
+Michael Faraday,Physics
+Dénes Gábor,Engineering-Holography
+Alan Turing,Mathematics-Computer Science
+Ada Lovelace,Mathematics-Computer Science
+Euclid,Mathematics
+Archimedes,Mathematics-Engineering
+Carl Friedrich Gauss,Mathematics
+Bernhard Riemann,Mathematics
+Évariste Galois,Mathematics
+Kurt Gödel,Mathematics-Logic
+John von Neumann,Mathematics-Computer Science
+Claude Shannon,Mathematics-Information Theory
+Noam Chomsky,Linguistics
+Sigmund Freud,Psychology
+Carl Jung,Psychology
+B.F. Skinner,Psychology
+Jean Piaget,Psychology
+Avicenna,Medicine-Philosophy
+Al-Khwarizmi,Mathematics-Astronomy
+Ibn Khaldun,Sociology-Historiography
+Maimonides,Philosophy-Theology
+Averroes,Philosophy-Theology
+Confucius,Philosophy
+Lao Tzu,Philosophy
+Siddhartha Gautama-Buddha,Philosophy-Religion
+Jesus of Nazareth,Philosophy-Religion
+Muhammad,Philosophy-Religion
+Rumi,Poetry-Theology
+Homer,Literature-Poetry
+Virgil,Literature-Poetry
+Dante Alighieri,Literature-Poetry
+Miguel de Cervantes,Literature
+Fyodor Dostoevsky,Literature
+Leo Tolstoy,Literature
+Marcel Proust,Literature
+Virginia Woolf,Literature
+Franz Kafka,Literature
+Jorge Luis Borges,Literature
+Gabriel García Márquez,Literature
+Jane Austen,Literature
+Mary Shelley,Literature
+Gutenberg-Johannes,Invention-Printing
+Thomas Edison,Invention
+George Washington Carver,Botany-Invention
+Benjamin Franklin,Polymath-Invention
+Hippocrates,Medicine
+Galen,Medicine
+Andreas Vesalius,Anatomy-Medicine
+William Harvey,Medicine
+Louis Pasteur,Chemistry-Microbiology
+Robert Koch,Medicine-Microbiology
+Albert Sabin,Medicine-Virology
+Jonas Salk,Medicine-Virology
+Alexander Fleming,Medicine-Bacteriology
+Antoine Lavoisier,Chemistry
+Dmitri Mendeleev,Chemistry
+Linus Pauling,Chemistry-Peace
+Rosalind Franklin,Biophysics
+Barbara McClintock,Genetics
+Gregor Mendel,Genetics
+Francis Crick,Genetics-Molecular Biology
+James Watson,Genetics-Molecular Biology
+Blaise Pascal,Mathematics-Philosophy
+Pierre de Fermat,Mathematics
+Joseph-Louis Lagrange,Mathematics
+Leonhard Euler,Mathematics
+Srinivasa Ramanujan,Mathematics
+Henri Poincaré,Mathematics-Physics
+David Hilbert,Mathematics
+Eratosthenes,Geography-Mathematics
+Ptolemy,Astronomy-Geography
+Copernicus-Nicolaus,Astronomy
+Tycho Brahe,Astronomy
+Johannes Kepler,Astronomy
+Christiaan Huygens,Physics-Astronomy
+Blaise Pascal,Mathematics-Philosophy
+Hypatia,Mathematics-Astronomy
+Emmy Noether,Mathematics
+Sophie Germain,Mathematics
+Maria Gaetana Agnesi,Mathematics
+George Boole,Mathematics-Logic
+Bertrand Russell,Philosophy-Logic
+Alfred North Whitehead,Philosophy-Mathematics
+John Locke,Philosophy
+David Hume,Philosophy
+Jean-Jacques Rousseau,Philosophy
+Adam Smith,Economics
+Karl Marx,Sociology-Economics
+John Maynard Keynes,Economics
+Milton Friedman,Economics
+Hannah Arendt,Political Theory
+Michel Foucault,Philosophy-History
+Jacques Derrida,Philosophy
+Simone de Beauvoir,Philosophy-Feminism
+Harriet Tubman,Social Thought-Activism
+Mahatma Gandhi,Social Thought-Ethics
+Martin Luther King Jr-,Social Thought-Ethics
+Nelson Mandela,Social Thought-Ethics
+Mother Teresa,Social Thought-Ethics
+Alexander Graham Bell,Invention-Telephony
+Guglielmo Marconi,Invention-Radio
+Orville Wright,Invention-Aeronautics
+Wilbur Wright,Invention-Aeronautics
+Steve Jobs,Design-Technology
+Bill Gates,Technology-Software
+Ada Yonath,Chemistry-Crystallography
+Vannevar Bush,Engineering-Information Science
+Grace Hopper,Computer Science
+Donald Knuth,Computer Science-Mathematics
+Linus Torvalds,Software Engineering
+Tim Berners-Lee,Computer Science-WWW
+Hedy Lamarr,Invention-Communications
+Igor Stravinsky,Music
+Arnold Schoenberg,Music
+Claude Debussy,Music
+Duke Ellington,Music
+Louis Armstrong,Music
+Thelonious Monk,Music
+Miles Davis,Music
+Aretha Franklin,Music
+Ella Fitzgerald,Music
+Maria Callas,Music-Opera
+Frank Lloyd Wright,Architecture
+Le Corbusier,Architecture
+Ludwig Mies van der Rohe,Architecture
+Andrea Palladio,Architecture
+Filippo Brunelleschi,Architecture-Engineering
+Donatello,Sculpture
+Raphael,Art-Painting
+Sandro Botticelli,Art-Painting
+El Greco,Art-Painting
+Rembrandt,Art-Painting
+Jan van Eyck,Art-Painting
+Hieronymus Bosch,Art-Painting
+J-M-W Turner,Art-Painting
+Leonardo da Vinci,Polymath
+Pablo Picasso,Art-Painting-Sculpture
+Vincent van Gogh,Art-Painting
+Claude Monet,Art-Painting
+Paul Cézanne,Art-Painting
+Wassily Kandinsky,Art-Painting
+Henri Matisse,Art-Painting
+Georgia O-Keeffe,Art-Painting
+Frida Kahlo,Art-Painting
+Salvador Dalí,Art-Painting
+Akira Kurosawa,Film-Directing
+Alfred Hitchcock,Film-Directing
+Sergei Eisenstein,Film-Directing
+Orson Welles,Film-Directing
+Charlie Chaplin,Film-Acting-Directing
+Isadora Duncan,Dance-Choreography
+Martha Graham,Dance-Choreography
+George Balanchine,Dance-Choreography
+Vaslav Nijinsky,Dance-Choreography
+Marthinus Beijerinck,Microbiology
+Sergei Winogradsky,Microbiology
+Theodosius Dobzhansky,Genetics-Evolution
+Erwin Schrödinger,Physics-Biology
+Linnaeus-Carl,Botany-Taxonomy
+Humboldt-Alexander von,Geography-Natural History
+Rachel Carson,Ecology
+Jane Goodall,Primatology-Anthropology
+George Pólya,Mathematics-Pedagogy
+Alexander Grothendieck,Mathematics
+Mary Cartwright,Mathematics
+Olga Ladyzhenskaya,Mathematics
+Yuri Manin,Mathematics
+Andrei Kolmogorov,Mathematics
+Léon Walras,Economics
+Vilfredo Pareto,Sociology-Economics
+Paul Samuelson,Economics
+Elinor Ostrom,Economics-Political Science
+W-V-O Quine,Philosophy-Logic
+Saul Kripke,Philosophy-Logic
+Hilary Putnam,Philosophy-Logic
+Judith Butler,Philosophy-Gender Theory
+Ayn Rand,Philosophy-Literature
+Ralph Waldo Emerson,Philosophy-Literature
+Henry David Thoreau,Philosophy-Literature
+Walt Whitman,Poetry
+Emily Dickinson,Poetry
+T-S Eliot,Poetry
+Ezra Pound,Poetry
+W-B Yeats,Poetry
+W-H Auden,Poetry
+Pablo Neruda,Poetry
+Octavio Paz,Poetry
+Toni Morrison,Literature
+Chinua Achebe,Literature
+Wole Soyinka,Literature
+Naguib Mahfouz,Literature
+Rabindranath Tagore,Literature-Arts
+Kahlil Gibran,Literature-Poetry
+Deng Ming-Dao,Philosophy-Martial Arts
+Sun Tzu,Military Strategy-Philosophy
+Niccolò Machiavelli,Political Science
+Thomas More,Philosophy-Utopia
+Francis Bacon,Philosophy-Scientific Method
+Baruch Spinoza,Philosophy
+G-W-F Hegel,Philosophy
+Arthur Schopenhauer,Philosophy
+Friedrich Nietzsche,Philosophy
+Søren Kierkegaard,Philosophy
+Edmund Husserl,Philosophy
+Martin Heidegger,Philosophy
+Ludwig Wittgenstein,Philosophy-Logic
+Willard Libby,Chemistry-Radiocarbon Dating
+Dorothy Hodgkin,Chemistry-Crystallography
+Chien-Shiung Wu,Physics
+Lise Meitner,Physics
+Enrico Fermi,Physics
+Oppenheimer-J-Robert,Physics
+Andrei Sakharov,Physics-Activism
+Gell-Mann-Murray,Physics
+Stephen Hawking,Physics-Cosmology
+Roger Penrose,Mathematics-Physics
+Edward Witten,Physics-Mathematics
+Shing-Tung Yau,Mathematics
+Terence Tao,Mathematics
+William Thomson-Lord Kelvin,Physics-Engineering
+Rudolf Clausius,Physics
+Sadi Carnot,Physics-Thermodynamics
+Nikolaus Otto,Engineering-Invention
+Rudolf Diesel,Engineering-Invention
+Karl Benz,Engineering-Invention
+Elias Howe,Invention-Sewing Machine
+Samuel Morse,Invention-Telegraphy
+Eli Whitney,Invention-Cotton Gin
+Cyrus McCormick,Invention-Agricultural
+Marie Tharp,Geology-Cartography
+Alfred Wegener,Geology-Meteorology
+J- Tuzo Wilson,Geophysics
+Walter Alvarez,Geology-Physics
+Mary Leakey,Paleoanthropology
+Louis Leakey,Paleoanthropology
+Charles Lyell,Geology
+James Hutton,Geology
+Leon Battista Alberti,Polymath
+Isabella Bird,Exploration-Travel Writing
+Marco Polo,Exploration
+Ibn Battuta,Exploration-Geography
+Zheng He,Exploration
+Alexander von Humboldt,Polymath-Geography
+Goethe-Johann Wolfgang von,Polymath-Literature
+Buckminster Fuller,Design-Invention
+Elie Wiesel,Literature-Ethics
+Vaclav Havel,Literature-Politics
+Desmond Tutu,Ethics-Activism
+Shirin Ebadi,Law-Activism
+Tenzin Gyatso-Dalai Lama,Philosophy-Ethics
+Aung San Suu Kyi,Politics-Activism
+Helen Keller,Activism-Education
+Maria Montessori,Education-Pedagogy
+John Dewey,Education-Philosophy
+Paulo Freire,Education-Pedagogy
+Ivan Pavlov,Physiology-Psychology
+Santiago Ramón y Cajal,Neuroscience
+Charles Sherrington,Neuroscience
+Wilder Penfield,Neuroscience
+Eric Kandel,Neuroscience
+Elias James Corey,Chemistry
+Robert Burns Woodward,Chemistry
+Fritz Haber,Chemistry
+Theodore von Kármán,Engineering-Aerodynamics
+Robert Goddard,Engineering-Rockets
+Konstantin Tsiolkovsky,Engineering-Rockets
+Wernher von Braun,Engineering-Rockets
+Frank Whittle,Engineering-Jets
+Hans Bethe,Physics-Astrophysics
+Subrahmanyan Chandrasekhar,Astrophysics
+Edwin Hubble,Astronomy
+Vesto Slipher,Astronomy
+Henrietta Swan Leavitt,Astronomy
+Jocelyn Bell Burnell,Astrophysics
+Vera Rubin,Astronomy
+Karl Popper,Philosophy of Science
+Thomas Kuhn,Philosophy of Science
+Imre Lakatos,Philosophy of Science
+Stephen Jay Gould,Biology-Paleontology
+Richard Dawkins,Biology-Evolution
+Edward O- Wilson,Biology-Sociobiology
+Jacques Monod,Biology-Genetics
+François Jacob,Biology-Genetics
+Max Delbrück,Biology-Genetics
+Francis Bacon,Philosophy-Scientific Method
+Giovanni Boccaccio,Literature
+Geoffrey Chaucer,Literature
+Basho,Poetry
+Lady Murasaki Shikibu,Literature
+Li Po,Poetry
+Du Fu,Poetry
+Tiruvalluvar,Literature-Ethics
+Kalidasa,Literature-Drama
+Sana-i,Poetry-Sufism
+Farid ud-Din Attar,Poetry-Sufism
+Hafez,Poetry
+Jami,Poetry
+Nizami Ganjavi,Poetry
+Omar Khayyam,Mathematics-Poetry
+Ibn Sina,Medicine-Philosophy
+Al-Farabi,Philosophy-Music
+Al-Ghazali,Philosophy-Theology
+Ibn Rushd,Philosophy-Theology
+Averroes,Philosophy-Theology
+Wu Cheng'en,Literature
+Cao Xueqin,Literature
+Lu Xun,Literature
+Jorge Amado,Literature
+Gabriel Mistral,Literature-Poetry
+Clarice Lispector,Literature
+Octavio Paz,Poetry
+Derek Walcott,Poetry
+Seamus Heaney,Poetry
+Czesław Miłosz,Poetry
+Wisława Szymborska,Poetry
+Robert Frost,Poetry
+e-e cummings,Poetry
+Langston Hughes,Poetry
+James Baldwin,Literature-Activism
+Zora Neale Hurston,Literature-Anthropology
+Gabriel Marcell,Philosophy-Existentialism
+Edith Stein,Philosophy-Theology
+Hannah Arendt,Political Theory
+Turing-Alan,Mathematics-Computer Science
+Bohr-Niels,Physics
+Curie-Marie,Chemistry-Physics
+Einstein-Albert,Physics
+Newton-Isaac,Physics-Mathematics
+Plato,Philosophy
+Confucius,Philosophy
+Da Vinci-Leonardo,Polymath
+Aristotle,Philosophy-Logic
+Shakespeare-William,Literature-Drama
+Bach-Johann Sebastian,Music
+Michelangelo,Art-Sculpture
+Goethe-Johann Wolfgang von,Polymath-Literature
+Galilei-Galileo,Astronomy-Physics
+Darwin-Charles,Biology
+Tesla-Nikola,Engineering-Invention
+Socrates,Philosophy
+Kant-Immanuel,Philosophy
+Descartes-René,Philosophy-Mathematics
+Leibniz-Gottfried Wilhelm,Mathematics-Philosophy
+Beethoven-Ludwig van,Music
+Mozart-Wolfgang Amadeus,Music
+Planck-Max,Physics
+Heisenberg-Werner,Physics
+Dirac-Paul,Physics
+Feynman-Richard,Physics
+Maxwell-James Clerk,Physics
+Faraday-Michael,Physics
+Euclid,Mathematics
+Archimedes,Mathematics-Engineering
+Gauss-Carl Friedrich,Mathematics
+Riemann-Bernhard,Mathematics
+Galois-Évariste,Mathematics
+Gödel-Kurt,Mathematics-Logic
+Von Neumann-John,Mathematics-Computer Science
+Shannon-Claude,Mathematics-Information Theory
+Chomsky-Noam,Linguistics
+Freud-Sigmund,Psychology
+Jung-Carl,Psychology
+Avicenna,Medicine-Philosophy
+Al-Khwarizmi,Mathematics-Astronomy
+Ibn Khaldun,Sociology-Historiography
+Maimonides,Philosophy-Theology
+Averroes,Philosophy-Theology
+Homer,Literature-Poetry
+Virgil,Literature-Poetry
+Dante Alighieri,Literature-Poetry
+Cervantes-Miguel de,Literature
+Dostoevsky-Fyodor,Literature
+Tolstoy-Leo,Literature
+Proust-Marcel,Literature
+Woolf-Virginia,Literature
+Kafka-Franz,Literature
+Borges-Jorge Luis,Literature
+García Márquez-Gabriel,Literature
+Austen-Jane,Literature
+Shelley-Mary,Literature
+Gutenberg-Johannes,Invention-Printing
+Edison-Thomas,Invention
+Carver-George Washington,Botany-Invention
+Franklin-Benjamin,Polymath-Invention
+Hippocrates,Medicine
+Galen,Medicine
+Vesalius-Andreas,Anatomy-Medicine
+Harvey-William,Medicine
+Pasteur-Louis,Chemistry-Microbiology
+Koch-Robert,Medicine-Microbiology
+Sabin-Albert,Medicine-Virology
+Salk-Jonas,Medicine-Virology
+Fleming-Alexander,Medicine-Bacteriology
+Lavoisier-Antoine,Chemistry
+Mendeleev-Dmitri,Chemistry
+Pauling-Linus,Chemistry-Peace
+Franklin-Rosalind,Biophysics
+McClintock-Barbara,Genetics
+Mendel-Gregor,Genetics
+Crick-Francis,Genetics-Molecular Biology
+Watson-James,Genetics-Molecular Biology
+Pascal-Blaise,Mathematics-Philosophy
+Fermat-Pierre de,Mathematics
+Lagrange-Joseph-Louis,Mathematics
+Euler-Leonhard,Mathematics
+Ramanujan-Srinivasa,Mathematics
+Poincaré-Henri,Mathematics-Physics
+Hilbert-David,Mathematics
+Copernicus-Nicolaus,Astronomy
+Kepler-Johannes,Astronomy
+Huygens-Christiaan,Physics-Astronomy
+Pascal-Blaise,Mathematics-Philosophy
+Noether-Emmy,Mathematics
+Germain-Sophie,Mathematics
+Agnesi-Maria Gaetana,Mathematics
+Boole-George,Mathematics-Logic
+Russell-Bertrand,Philosophy-Logic
+Whitehead-Alfred North,Philosophy-Mathematics
+Locke-John,Philosophy
+Hume-David,Philosophy
+Rousseau-Jean-Jacques,Philosophy
+Smith-Adam,Economics
+Marx-Karl,Sociology-Economics
+Keynes-John Maynard,Economics
+Friedman-Milton,Economics
+Arendt-Hannah,Political Theory
+Foucault-Michel,Philosophy-History
+Derrida-Jacques,Philosophy
+De Beauvoir-Simone,Philosophy-Feminism
+Tubman-Harriet,Social Thought-Activism
+Gandhi-Mahatma,Social Thought-Ethics
+King Jr-Martin Luther,Social Thought-Ethics
+Mandela-Nelson,Social Thought-Ethics
+Bell-Alexander Graham,Invention-Telephony
+Marconi-Guglielmo,Invention-Radio
+Wright-Orville,Invention-Aeronautics
+Wright-Wilbur,Invention-Aeronautics
+Jobs-Steve,Design-Technology
+Gates-Bill,Technology-Software
+Yonath-Ada,Chemistry-Crystallography
+Bush-Vannevar,Engineering-Information Science
+Hopper-Grace,Computer Science
+Knuth-Donald,Computer Science-Mathematics
+Torvalds-Linus,Software Engineering
+Berners-Lee-Tim,Computer Science-WWW
+Lamarr-Hedy,Invention-Communications
+Stravinsky-Igor,Music
+Schoenberg-Arnold,Music
+Debussy-Claude,Music
+Wright-Frank Lloyd,Architecture
+Le Corbusier,Architecture
+Mies van der Rohe-Ludwig,Architecture
+Palladio-Andrea,Architecture
+Brunelleschi-Filippo,Architecture-Engineering
+Donatello,Sculpture
+Raphael,Art-Painting
+Botticelli-Sandro,Art-Painting
+El Greco,Art-Painting
+Rembrandt,Art-Painting
+Van Eyck-Jan,Art-Painting
+Bosch-Hieronymus,Art-Painting
+Turner-J-M-W,Art-Painting
+Picasso-Pablo,Art-Painting-Sculpture
+Van Gogh-Vincent,Art-Painting
+Monet-Claude,Art-Painting
+Cézanne-Paul,Art-Painting
+Kandinsky-Wassily,Art-Painting
+Matisse-Henri,Art-Painting
+O-Keeffe-Georgia,Art-Painting
+Kahlo-Frida,Art-Painting
+Dalí-Salvador,Art-Painting
+Kurosawa-Akira,Film-Directing
+Hitchcock-Alfred,Film-Directing
+Eisenstein-Sergei,Film-Directing
+Welles-Orson,Film-Directing
+Chaplin-Charlie,Film-Acting-Directing
+Duncan-Isadora,Dance-Choreography
+Graham-Martha,Dance-Choreography
+Balanchine-George,Dance-Choreography
+Nijinsky-Vaslav,Dance-Choreography
+Beijerinck-Marthinus,Microbiology
+Winogradsky-Sergei,Microbiology
+Dobzhansky-Theodosius,Genetics-Evolution
+Schrödinger-Erwin,Physics-Biology
+Linnaeus-Carl,Botany-Taxonomy
+Carson-Rachel,Ecology
+Goodall-Jane,Primatology-Anthropology
+Pólya-George,Mathematics-Pedagogy
+Grothendieck-Alexander,Mathematics
+Cartwright-Mary,Mathematics
+Ladyzhenskaya-Olga,Mathematics
+Manin-Yuri,Mathematics
+Kolmogorov-Andrei,Mathematics
+Walras-Léon,Economics
+Pareto-Vilfredo,Sociology-Economics
+Samuelson-Paul,Economics
+Ostrom-Elinor,Economics-Political Science
+Quine-W-V-O,Philosophy-Logic
+Kripke-Saul,Philosophy-Logic
+Putnam-Hilary,Philosophy-Logic
+Butler-Judith,Philosophy-Gender Theory
+Rand-Ayn,Philosophy-Literature
+Emerson-Ralph Waldo,Philosophy-Literature
+Thoreau-Henry David,Philosophy-Literature
+Whitman-Walt,Poetry
+Dickinson-Emily,Poetry
+Eliot-T-S,Poetry
+Pound-Ezra,Poetry
+Yeats-W-B,Poetry
+Auden-W-H,Poetry
+Neruda-Pablo,Poetry
+Paz-Octavio,Poetry
+Morrison-Toni,Literature
+Achebe-Chinua,Literature
+Soyinka-Wole,Literature
+Mahfouz-Naguib,Literature
+Tagore-Rabindranath,Literature-Arts
+Gibran-Kahlil,Literature-Poetry
+Sun Tzu,Military Strategy-Philosophy
+Machiavelli-Niccolò,Political Science
+More-Thomas,Philosophy-Utopia
+Bacon-Francis,Philosophy-Scientific Method
+Spinoza-Baruch,Philosophy
+Hegel-G-W-F,Philosophy
+Schopenhauer-Arthur,Philosophy
+Nietzsche-Friedrich,Philosophy
+Kierkegaard-Søren,Philosophy
+Husserl-Edmund,Philosophy
+Heidegger-Martin,Philosophy
+Wittgenstein-Ludwig,Philosophy-Logic
+Libby-Willard,Chemistry-Radiocarbon Dating
+Hodgkin-Dorothy,Chemistry-Crystallography
+Wu-Chien-Shiung,Physics
+Meitner-Lise,Physics
+Fermi-Enrico,Physics
+Oppenheimer-J-Robert,Physics
+Sakharov-Andrei,Physics-Activism
+Gell-Mann-Murray,Physics
+Hawking-Stephen,Physics-Cosmology
+Penrose-Roger,Mathematics-Physics
+Witten-Edward,Physics-Mathematics
+Yau-Shing-Tung,Mathematics
+Tao-Terence,Mathematics
+Thomson-William-Lord Kelvin,Physics-Engineering
+Clausius-Rudolf,Physics
+Carnot-Sadi,Physics-Thermodynamics
+Otto-Nikolaus,Engineering-Invention
+Diesel-Rudolf,Engineering-Invention
+Benz-Karl,Engineering-Invention
+Howe-Elias,Invention-Sewing Machine
+Morse-Samuel,Invention-Telegraphy
+Whitney-Eli,Invention-Cotton Gin
+McCormick-Cyrus,Invention-Agricultural
+Tharp-Marie,Geology-Cartography
+Wegener-Alfred,Geology-Meteorology
+Wilson-J- Tuzo,Geophysics
+Alvarez-Walter,Geology-Physics
+Leakey-Mary,Paleoanthropology
+Leakey-Louis,Paleoanthropology
+Lyell-Charles,Geology
+Hutton-James,Geology
+Alberti-Leon Battista,Polymath
+Bird-Isabella,Exploration-Travel Writing
+Polo-Marco,Exploration
+Battuta-Ibn,Exploration-Geography
+He-Zheng,Exploration
+Fuller-Buckminster,Design-Invention
+Wiesel-Elie,Literature-Ethics
+Havel-Vaclav,Literature-Politics
+Tutu-Desmond,Ethics-Activism
+Ebadi-Shirin,Law-Activism
+Gyatso-Tenzin-Dalai Lama,Philosophy-Ethics
+Suu Kyi-Aung San,Politics-Activism
+Keller-Helen,Activism-Education
+Montessori-Maria,Education-Pedagogy
+Dewey-John,Education-Philosophy
+Freire-Paulo,Education-Pedagogy
+Pavlov-Ivan,Physiology-Psychology
+Ramón y Cajal-Santiago,Neuroscience
+Sherrington-Charles,Neuroscience
+Penfield-Wilder,Neuroscience
+Kandel-Eric,Neuroscience
+Corey-Elias James,Chemistry
+Woodward-Robert Burns,Chemistry
+Haber-Fritz,Chemistry
+Von Kármán-Theodore,Engineering-Aerodynamics
+Goddard-Robert,Engineering-Rockets
+Tsiolkovsky-Konstantin,Engineering-Rockets
+Von Braun-Wernher,Engineering-Rockets
+Whittle-Frank,Engineering-Jets
+Bethe-Hans,Physics-Astrophysics
+Chandrasekhar-Subrahmanyan,Astrophysics
+Hubble-Edwin,Astronomy
+Slipher-Vesto,Astronomy
+Leavitt-Henrietta Swan,Astronomy
+Burnell-Jocelyn Bell,Astrophysics
+Rubin-Vera,Astronomy
+Popper-Karl,Philosophy of Science
+Kuhn-Thomas,Philosophy of Science
+Lakatos-Imre,Philosophy of Science
+Gould-Stephen Jay,Biology-Paleontology
+Dawkins-Richard,Biology-Evolution
+Wilson-Edward O-,Biology-Sociobiology
+Monod-Jacques,Biology-Genetics
+Jacob-François,Biology-Genetics
+Delbrück-Max,Biology-Genetics
+Bacon-Francis,Philosophy-Scientific Method
+Boccaccio-Giovanni,Literature
+Chaucer-Geoffrey,Literature
+Basho,Poetry
+Shikibu-Lady Murasaki,Literature
+Po-Li,Poetry
+Fu-Du,Poetry
+Tiruvalluvar,Literature-Ethics
+Kalidasa,Literature-Drama
+Sana-i,Poetry-Sufism
+Attar-Farid ud-Din,Poetry-Sufism
+Hafez,Poetry
+Jami,Poetry
+Ganjavi-Nizami,Poetry
+Khayyam-Omar,Mathematics-Poetry
+Sina-Ibn,Medicine-Philosophy
+Al-Farabi,Philosophy-Music
+Al-Ghazali,Philosophy-Theology
+Ibn Rushd,Philosophy-Theology
+Averroes,Philosophy-Theology
+Cheng'en-Wu,Literature
+Xueqin-Cao,Literature
+Xun-Lu,Literature
+Amado-Jorge,Literature
+Mistral-Gabriel,Literature-Poetry
+Lispector-Clarice,Literature
+Paz-Octavio,Poetry
+Walcott-Derek,Poetry
+Heaney-Seamus,Poetry
+Miłosz-Czesław,Poetry
+Szymborska-Wisława,Poetry
+Frost-Robert,Poetry
+Cummings-e-e,Poetry
+Hughes-Langston,Poetry
+Baldwin-James,Literature-Activism
+Hurston-Zora Neale,Literature-Anthropology
+Marcell-Gabriel,Philosophy-Existentialism
+Stein-Edith,Philosophy-Theology
+Arendt-Hannah,Political Theory

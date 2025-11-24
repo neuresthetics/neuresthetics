@@ -1,0 +1,501 @@
+name,field,frequency
+Averroes,philosophy-theology,6
+Maimonides,philosophy,6
+Michel Foucault,philosophy,6
+Al-Khwarizmi,mathematics,5
+Albert Einstein,physics,5
+Archimedes,mathematics,5
+Aristotle,philosophy-logic,5
+Avicenna,medicine-philosophy,5
+Blaise Pascal,mathematics,5
+Chien-Shiung Wu,physics,5
+Dante Alighieri,literature,5
+David Hume,philosophy,5
+Donna Haraway,science studies/philosophy,5
+Euclid,mathematics,5
+Francis Bacon,philosophy,5
+Hannah Arendt,philosophy,5
+Hippocrates,medicine,5
+Homer,literature,5
+Lise Meitner,physics,5
+Michelangelo,art,5
+Nelson Mandela,politics,5
+Noam Chomsky,linguistics,5
+Pierre Bourdieu,sociology,5
+Plato,philosophy,5
+Raphael,art,5
+Richard Feynman,physics,5
+Rosalind Franklin,biology,5
+Socrates,philosophy,5
+Thomas Kuhn,science studies/history,5
+Tim Berners-Lee,computer science,5
+Ada Lovelace,mathematics,4
+Adam Smith,economics,4
+Al-Farabi,philosophy,4
+Alan Turing,computer science,4
+Alexander Graham Bell,invention,4
+Barbara McClintock,genetics,4
+Baruch Spinoza,philosophy,4
+Bernhard Riemann,mathematics,4
+Bertrand Russell,philosophy,4
+Carl Friedrich Gauss,mathematics,4
+Charles Darwin,biology,4
+Claude Debussy,music,4
+Claude Monet,art,4
+Confucius,philosophy,4
+Dmitri Mendeleev,chemistry,4
+Donatello,art,4
+Emmy Noether,mathematics,4
+Enrico Fermi,physics,4
+Erwin Schrödinger,physics,4
+Frida Kahlo,art,4
+Friedrich Nietzsche,philosophy,4
+Fyodor Dostoevsky,literature,4
+Galen,medicine,4
+Galileo Galilei,physics,4
+Georgia O-Keeffe,art,4
+Grace Hopper,computer science,4
+Hypatia,mathematics,4
+Ibn Khaldun,sociology-historiography,4
+Ibn Sina,polymath,4
+Igor Stravinsky,music,4
+Immanuel Kant,philosophy,4
+Imre Lakatos,philosophy of science,4
+Isaac Newton,polymath,4
+James Clerk Maxwell,physics,4
+Jane Austen,literature,4
+Jean Piaget,psychology,4
+Johann Sebastian Bach,music,4
+Johannes Kepler,astronomy,4
+John Locke,philosophy,4
+Jurgen Habermas,sociology/philosophy,4
+Karl Marx,philosophy,4
+Kurt Gödel,mathematics,4
+Leo Tolstoy,literature,4
+Leonardo da Vinci,polymath,4
+Ludwig Wittgenstein,philosophy,4
+Ludwig van Beethoven,music,4
+Marie Curie,physics,4
+Max Planck,physics,4
+Michael Faraday,physics,4
+Niels Bohr,physics,4
+Nikola Tesla,invention,4
+Omar Khayyam,mathematics,4
+Pablo Picasso,art,4
+Paul Feyerabend,science studies/history,4
+Rembrandt,art,4
+René Descartes,philosophy,4
+Sigmund Freud,psychology,4
+Simone de Beauvoir,philosophy,4
+Stephen Hawking,physics,4
+Steve Jobs,invention,4
+Subrahmanyan Chandrasekhar,astrophysics,4
+Sun Tzu,military strategy-philosophy,4
+Thomas Edison,invention,4
+Virgil,literature,4
+Virginia Woolf,literature,4
+Werner Heisenberg,physics,4
+William Shakespeare,literature,4
+Wolfgang Amadeus Mozart,music,4
+Ada Yonath,chemistry,3
+Akira Kurosawa,film,3
+Al-Ghazali,philosophy-theology,3
+Alfred North Whitehead,philosophy-mathematics,3
+Andrew Wiles,mathematics,3
+Anthony Giddens,sociology,3
+Antoine Lavoisier,chemistry,3
+Arthur Schopenhauer,philosophy,3
+B.F. Skinner,psychology,3
+Bill Gates,technology-software,3
+Bruno Latour,philosophy/sociology,3
+Carl Jung,psychology,3
+Carl Sagan,astronomy,3
+Caroline Herschel,astronomy,3
+Charles Tilly,sociology,3
+Chinua Achebe,literature,3
+Claude Shannon,mathematics-information theory,3
+David Hilbert,mathematics,3
+Demis Hassabis,computer science,3
+Donald Knuth,computer science-mathematics,3
+Dorothy Hodgkin,chemistry,3
+Emmanuelle Charpentier,biology,3
+Ferdinand de Saussure,linguistics,3
+Fernand Braudel,history,3
+Frances Arnold,chemistry,3
+Francis Crick,biology,3
+Franz Kafka,literature,3
+Gabriel García Márquez,literature,3
+George Orwell,literature,3
+Gottfried Wilhelm Leibniz,polymath,3
+Hafez,poetry,3
+Hedy Lamarr,invention,3
+Henri Poincaré,mathematics,3
+Henry Ford,invention,3
+Ibn Battuta,exploration,3
+Immanuel Wallerstein,sociology,3
+Jacques Derrida,philosophy,3
+James Joyce,literature,3
+James Watson,biology,3
+Jane Goodall,biology,3
+Jean-Jacques Rousseau,philosophy,3
+Jennifer Doudna,biology,3
+John McCarthy,computer science,3
+John von Neumann,mathematics,3
+Jonas Salk,medicine,3
+Judith Butler,philosophy-gender theory,3
+Karen Barad,science studies/philosophy,3
+Karl Popper,philosophy of science,3
+Katherine Johnson,mathematics,3
+Le Corbusier,architecture,3
+Leonhard Euler,mathematics,3
+Linus Pauling,chemistry-peace,3
+Louis Pasteur,biology,3
+Mahatma Gandhi,political thought,3
+Martin Heidegger,philosophy,3
+Martin Luther King Jr.,social thought,3
+Marvin Minsky,computer science,3
+Mary Douglas,anthropology,3
+Mary Shelley,literature,3
+Michael Polanyi,philosophy/science,3
+Miguel de Cervantes,literature,3
+Miles Davis,music,3
+Milton Friedman,economics,3
+Niccolò Machiavelli,political thought,3
+Paul Dirac,physics,3
+Pythagoras,mathematics,3
+Richard Wagner,music,3
+Roger Penrose,mathematics-physics,3
+Rumi,literature,3
+Salvador Dalí,art,3
+Samuel Morse,invention,3
+Simon Schaffer,science studies/history,3
+Srinivasa Ramanujan,mathematics,3
+Steven Shapin,science studies/history,3
+Sushruta,medicine,3
+Terence Tao,mathematics,3
+Theda Skocpol,sociology,3
+Thomas Aquinas,philosophy,3
+Toni Morrison,literature,3
+Victor Turner,anthropology,3
+Vincent van Gogh,art,3
+Voltaire,philosophy,3
+Willard Libby,chemistry,3
+William Harvey,medicine,3
+Abraham Lincoln,politics,2
+Abraham Maslow,psychology,2
+Akira Yoshino,chemistry,2
+Al-Biruni,polymath,2
+Al-Razi,medicine,2
+Alexander Fleming,medicine-bacteriology,2
+Alexander Grothendieck,mathematics,2
+Alexander Koyre,science studies/history,2
+Alfred Adler,psychology,2
+Alfred Binet,psychology,2
+Alfred Hitchcock,film-directing,2
+Alhazen,optics,2
+Amartya Sen,economics/ethics,2
+Amos Tversky,psychology,2
+Anaximander,philosophy,2
+Andreas Vesalius,anatomy-medicine,2
+Andrei Kolmogorov,mathematics,2
+Antonie van Leeuwenhoek,biology,2
+Arendt-Hannah,political theory,2
+Aretha Franklin,music,2
+Arnold Schoenberg,music,2
+Arthur Schlesinger Jr.,history,2
+Aryabhata,mathematics,2
+Auguste Rodin,art,2
+Augustine of Hippo,philosophy,2
+Ayn Rand,philosophy-literature,2
+Bacon-Francis,philosophy-scientific method,2
+Basho,poetry,2
+Benjamin Franklin,polymath,2
+Brahmagupta,mathematics,2
+Byung-Chul Han,philosophy/cultural criticism,2
+Caravaggio,art,2
+Carl Rogers,psychology,2
+Charaka,medicine,2
+Charles Dickens,literature,2
+Charles Taylor,philosophy,2
+Cicero,philosophy,2
+Clara Barton,humanitarianism,2
+Claude Levi-Strauss,anthropology,2
+Clifford Geertz,anthropology,2
+Copernicus-Nicolaus,astronomy,2
+Cornel West,philosophy/cultural criticism,2
+Craig Venter,biology,2
+Daniel Kahneman,psychology,2
+David Lindberg,science studies/history,2
+David Noble,science studies/history,2
+Derek Parfit,philosophy/ethics,2
+Desmond Tutu,ethics-activism,2
+Donald MacKenzie,science studies/sociology,2
+Dorothy Crowfoot Hodgkin,chemistry,2
+Duke Ellington,music,2
+E. E. Evans-Pritchard,anthropology,2
+Edith Stein,philosophy-theology,2
+Edmund Husserl,philosophy,2
+Edmund Leach,anthropology,2
+Edward Gibbon,history,2
+Edward Grant,science studies/history,2
+Edward Jenner,medicine,2
+Edward Witten,physics-mathematics,2
+Edwin Hubble,astronomy,2
+El Greco,art-painting,2
+Eli Whitney,invention,2
+Elinor Ostrom,economics-political science,2
+Elizabeth Blackburn,biology,2
+Ella Fitzgerald,music,2
+Elon-Musk,technology,2
+Emile Durkheim,sociology,2
+Emily Dickinson,poetry,2
+Emmanuel Le Roy Ladurie,history,2
+Epictetus,philosophy,2
+Epicurus,philosophy,2
+Eric Kandel,neuroscience,2
+Evelyn Fox Keller,science studies/history,2
+Florence Nightingale,nursing,2
+Frank Lloyd Wright,architecture,2
+Frank Wilczek,physics,2
+Franz Schubert,music,2
+Fredrik Barth,anthropology,2
+Freeman Dyson,physics,2
+Fritz Haber,chemistry,2
+Gell-Mann-Murray,physics,2
+Genghis Khan,military strategy,2
+Geoffrey Chaucer,literature,2
+Geoffrey Hinton,artificial intelligence,2
+George Boole,mathematics-logic,2
+George Washington,politics,2
+George Washington Carver,biology,2
+Georges Duby,history,2
+Giordano Bruno,philosophy,2
+Giovanni Boccaccio,literature,2
+Giuseppe Verdi,music,2
+Goethe-Johann Wolfgang von,polymath-literature,2
+Gordon Moore,electrical engineering/business,2
+Gregor Mendel,biology,2
+Grigori Perelman,mathematics,2
+Guglielmo Marconi,invention-radio,2
+Gutenberg-Johannes,invention-printing,2
+Hans Bethe,physics-astrophysics,2
+Hans Eysenck,psychology,2
+Helen Longino,science studies/philosophy,2
+Henri Matisse,art-painting,2
+Henrietta Swan Leavitt,astronomy,2
+Heraclitus,philosophy,2
+Herbert Simon,psychology,2
+Hilary Putnam,philosophy-logic,2
+Homi Bhabha,literature/anthropology,2
+Hua Tuo,medicine,2
+Ibn Rushd,philosophy-theology,2
+Ibn al-Nafis,medicine,2
+Irene Joliot-Curie,chemistry,2
+Ivan Pavlov,physiology-psychology,2
+J.M.W. Turner,art,2
+Jacob Burckhardt,history,2
+Jacques Le Goff,history,2
+James Coleman,sociology,2
+Jami,poetry,2
+Jean-Paul Sartre,philosophy,2
+Jocelyn Bell Burnell,astrophysics,2
+Johann Wolfgang von Goethe,polymath,2
+Johannes Brahms,music,2
+Johannes Gutenberg,invention,2
+John B. Goodenough,chemistry/engineering,2
+John Bardeen,physics/electrical engineering,2
+John Dewey,education-philosophy,2
+John Dupré,science studies/philosophy,2
+John Hedley Brooke,science studies/history,2
+John Maynard Keynes,economics,2
+John Milton,literature,2
+John Stuart Mill,philosophy,2
+Joseph Lister,medicine,2
+Joseph-Louis Lagrange,mathematics,2
+Julius Caesar,military strategy/politics,2
+Kalidasa,literature-drama,2
+Katharine Park,science studies/history,2
+Langston Hughes,poetry,2
+Lawrence Kohlberg,psychology,2
+Leopold von Ranke,history,2
+Li Shizhen,medicine,2
+Linnaeus-Carl,botany-taxonomy,2
+Linus Torvalds,software engineering,2
+Londa Schiebinger,science studies/history,2
+Lorraine Daston,science studies/history,2
+Louis Armstrong,music,2
+Lucien Febvre,history,2
+M. Stanley Whittingham,chemistry,2
+Mae Jemison,engineering,2
+Manuel Castells,sociology,2
+Marc Bloch,history,2
+Marcel Proust,literature,2
+Marco Polo,exploration,2
+Marcus Aurelius,philosophy,2
+Margaret Rossiter,science studies/history,2
+Maria Callas,music-opera,2
+Maria Gaetana Agnesi,mathematics,2
+Mario Biagioli,science studies/history,2
+Mark Twain,literature,2
+Martha Nussbaum,philosophy/ethics,2
+Mary Jackson,mathematics/engineering,2
+Maryam Mirzakhani,mathematics,2
+Mother Teresa,social thought-ethics,2
+Nancy Cartwright,science studies/philosophy,2
+Nick Bostrom,philosophy/futurism,2
+Nicolaus Copernicus,astronomy,2
+Niklas Luhmann,sociology,2
+Nikolaus Otto,engineering-invention,2
+Octavio Paz,poetry,2
+Oppenheimer-J-Robert,physics,2
+Orson Welles,film-directing,2
+Pamela Long,science studies/history,2
+Parmenides,philosophy,2
+Pascal-Blaise,mathematics-philosophy,2
+Paul Edwards,science studies/history,2
+Paul Samuelson,economics,2
+Paz-Octavio,poetry,2
+Peter Debye,chemistry,2
+Peter Galison,science studies/history,2
+Peter Singer,philosophy/ethics,2
+Philip Kitcher,science studies/philosophy,2
+Pierre Duhem,science studies/history,2
+Pierre de Fermat,mathematics,2
+Plotinus,philosophy,2
+Ptolemy,astronomy,2
+Pyotr Ilyich Tchaikovsky,music,2
+R.G. Collingwood,philosophy/history,2
+Rachel Carson,biology,2
+Randall Collins,sociology,2
+Ray Kurzweil,artificial intelligence/futurism,2
+Richard Dawkins,biology-evolution,2
+Rita Levi-Montalcini,biology,2
+Robert Boyle,chemistry,2
+Robert Burns Woodward,chemistry,2
+Robert Frost,poetry,2
+Robert Goddard,engineering-rockets,2
+Robert Koch,medicine-microbiology,2
+Robert Merton,sociology,2
+Robert Noyce,electrical engineering,2
+Robert Putnam,sociology,2
+Ronald Numbers,science studies/history,2
+Rudolf Clausius,physics,2
+Sana-i,poetry-sufism,2
+Sandra Harding,science studies/philosophy,2
+Saul Kripke,philosophy-logic,2
+Seneca,philosophy,2
+Seymour Martin Lipset,political science/sociology,2
+Siddhartha Gautama,philosophy,2
+Slavoj Zizek,philosophy/psychoanalysis,2
+Sophie Germain,mathematics,2
+Steven Weinberg,physics,2
+Søren Kierkegaard,philosophy,2
+Thomas Hughes,science studies/history,2
+Thomas Jefferson,political thought,2
+Thomas More,philosophy,2
+Thomas Nagel,philosophy,2
+Tiruvalluvar,literature-ethics,2
+Trevor Pinch,science studies/sociology,2
+Tu Youyou,medicine,2
+Tycho Brahe,astronomy,2
+Vera Rubin,astronomy,2
+Vilfredo Pareto,sociology-economics,2
+W-V-O Quine,philosophy-logic,2
+Walt Whitman,poetry,2
+Wiebe Bijker,science studies/sociology,2
+William James,philosophy,2
+William of Ockham,philosophy,2
+Winston Churchill,politics,2
+Wright Brothers,invention,2
+Yann LeCun,artificial intelligence,2
+Yoshua Bengio,artificial intelligence,2
+Zeno of Citium,philosophy,2
+Zhang Heng,invention,2
+Zheng He,exploration,2
+Zora Neale Hurston,literature-anthropology,2
+bell hooks,philosophy/feminism,2
+Évariste Galois,mathematics,2
+A.R. Radcliffe-Brown,anthropology,1
+Aaron Ciechanover,chemistry,1
+Abdus Salam,physics,1
+Abu al-Qasim al-Zahrawi,medicine,1
+Achebe-Chinua,literature,1
+Adam Przeworski,political science,1
+Adele Goldberg,linguistics/cognitive science,1
+Adi-Shamir,cryptography,1
+Agnesi-Maria Gaetana,mathematics,1
+Ahmed Zewail,chemistry,1
+Akshay Venkatesh,mathematics,1
+Al-Baladhuri,history,1
+Al-Masudi,history/geography,1
+Al-Tabari,history,1
+Alain Badiou,philosophy,1
+Alain Touraine,sociology,1
+Alan Gewirth,philosophy/ethics,1
+Alan Hodgkin,neuroscience,1
+Alan-Baker,mathematics,1
+Alasdair MacIntyre,philosophy/ethics,1
+Albert Hofman,chemistry,1
+Albert Sabin,medicine-virology,1
+Albert Schweitzer,medicine/humanitarianism,1
+Alberti-Leon Battista,polymath,1
+Albrecht von Haller,medicine,1
+Aldous-Huxley,literature,1
+Aleksandr Prokhorov,physics,1
+Alessandro Volta,physics,1
+Alexander the Great,military strategy,1
+Alexander von Humboldt,polymath-geography,1
+Alexander-Hamilton,politics,1
+Alexander-the-Great,military-strategy,1
+Alexei Abrikosov,physics,1
+Alfred Gell,anthropology,1
+Alfred Kroeber,anthropology,1
+Alfred Nobel,chemistry/invention,1
+Alfred Schutz,sociology/philosophy,1
+Alfred Stepan,political science,1
+Alfred Wegener,geology-meteorology,1
+Alhazen Ibn al-Haytham,optics,1
+Allan MacLeod Cormack,medicine,1
+Allen Newell,psychology/computer science,1
+Alvarez-Walter,geology-physics,1
+Amado-Jorge,literature,1
+Amedeo Avogadro,chemistry,1
+Anderson localization,physics,1
+Andrea Ghez,astronomy,1
+Andrea Palladio,architecture,1
+Andrei Sakharov,physics-activism,1
+Andrei-Tarkovsky,film,1
+Andrew Huxley,neuroscience,1
+Andrew Ng,artificial intelligence,1
+Andrew-Ng,ai,1
+Andy Grove,electrical engineering/business,1
+Andy-Warhol,art,1
+Angela Davis,philosophy/political activism,1
+Angela-Merkel,politics,1
+Anna Freud,psychology,1
+Anna Tsing,anthropology,1
+Annemarie Mol,sociology/science studies,1
+Annie Jump Cannon,astronomy,1
+Annie-Jump-Cannon,astronomy,1
+Anthony Leggett,physics,1
+Antoni Gaudi,architecture,1
+Antonin-Scalia,law,1
+Antonio Gramsci,philosophy/political science,1
+Apollonius of Perga,mathematics,1
+Appian,history,1
+Arend Lijphart,political science,1
+Arieh Warshel,chemistry,1
+Arjun Appadurai,anthropology,1
+Arnold Toynbee,history,1
+Arnold van Gennep,anthropology,1
+Arrian,history,1
+Artemisia Gentileschi,art,1
+Arthur Eddington,astronomy/physics,1
+Arthur McDonald,physics,1
+Arthur Samuel,artificial intelligence,1
+Arthur Schawlow,physics,1
+Arvid Carlsson,neuroscience,1
+Ashoka,political thought,1
+Ashurbanipal,political thought,1
+Atreya,medicine,1
+Attar-Farid ud-Din,poetry-sufism,1
