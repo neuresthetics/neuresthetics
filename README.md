@@ -1,9 +1,9 @@
 # Neuresthetic
-```
+
 The applied science of optimizing neural function through the deliberate study and training of cognitive patterns, thought dynamics, and mental "movement." It treats brain activity with the same systematic approach that kinesiology applies to physical movement—focusing on the coordination, efficiency, and plasticity of neural processes rather than static structures or aesthetic appearances.
 
 Core Analogy: Kinesiology for brains
-```
+
 Follow [@neuresthetic on X](https://x.com/neuresthetic) for live updates.
 
 ---
@@ -23,7 +23,7 @@ This trio forms a twin steel man model powered by geometric logic: definitions �
 
 ### 🧬 grokAlign: grok/algo & X@user/entity diagnostic toolkit
 
-![Λ](https://github.com/neuresthetics/grokAlign/blob/main/img/03.jpeg)
+![1](https://github.com/neuresthetics/grokAlign/blob/main/img/03.jpeg)
 
 
 A Steel Man Collider-powered framework for rigorous content analysis, generation, and ethical reasoning. Paste the JSON prompt into Grok 4 to activate—analyzes styles, generates viral threads, optimizes for dwell time, and enforces consent via terminator_clause. Modules include AΛA (stylistic emulator), geometric_method (Euclidean proofs), and mindspace+6E (behavioral nudges). Tasks: style fingerprinting, X-post virality, philosophical breakdowns. Built on Collider's refutation loops for bias annihilation. MIT License.  
@@ -32,7 +32,7 @@ A Steel Man Collider-powered framework for rigorous content analysis, generation
 
 ### 🥊 SteelMenCollider: Philosophical Debate Framework for Sensitive Topics
 
-![Λ](https://github.com/neuresthetics/SteelMenCollider/blob/main/img/SMChoiz.png)
+![2](https://github.com/neuresthetics/SteelMenCollider/blob/main/img/SMChoiz.png)
 
 
 The topic-agnostic evolution of SteelManAbraham—builds maximal steelmen for any controversy, cross-refutes exhaustively, hardens via loops, and scores with 5-judge impartiality (Spinoza to Descartes). Uses first_principles_method to break assumptions, terminator_clause for ethics, and outputs syntheses or winners. No fallacies allowed; focus on truth over comfort. Ideal for AI alignment, policy debates, or worldview clashes. Activate via prompt; pairs with grokAlign for under-the-hood power.  
@@ -57,7 +57,7 @@ Aggregates genius lists from AI sources (Grok, Gemini, DeepSeek, GPT) via Python
 
 ### 🌿 graphtacular: Aristotelian entelechy in graph theory, tested and rendered
 
-![Λ](https://github.com/neuresthetics/graphtacular/blob/master/assets/LogarithmicCluster.JPG)
+![3](https://github.com/neuresthetics/graphtacular/blob/master/assets/LogarithmicCluster.JPG)
 
 
 Pure C# graph generator: Vertex class with kernels for ops, Graph with adjacency matrix/mapping. Builds via strands (e.g., KbranchUndirected for branches, KcompleteCluster for subgraphs). Exports GEXF for Gephi viz—logarithmic crystals, Fibonacci organics, flower motifs. Methods: degrees, clustering coefficients, full connects (O(n³) max). Aristotelian teleology: graphs "actualize" potential through procedural growth. No AI—raw code for entelechy emergence.  
