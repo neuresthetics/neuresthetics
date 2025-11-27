@@ -2,10 +2,9 @@
 
 Core Analogy: Kinesiology for brains
 
-(Pronounced like "kinesthetic," but for nerves. 🎧 [Listen here](https://translate.google.com/?sl=auto&tl=en&text=neuresthetic&op=translate))
+Follow [@neuresthetic on X](https://x.com/neuresthetic) for live updates.
 
-V5 data out now:
-Access via [Zenodo](https://doi.org/10.5281/zenodo.17070095)
+## Featured Repositories
 
 # Neuresthetics: Neural Upgrades for Truth-Seekers 🧠🔥
 
