@@ -1,7 +1,5 @@
 # Neuresthetic
 
-The applied science of optimizing neural function through the deliberate study and training of cognitive patterns, thought dynamics, and mental "movement." It treats brain activity with the same systematic approach that kinesiology applies to physical movement—focusing on the coordination, efficiency, and plasticity of neural processes rather than static structures or aesthetic appearances.
-
 Core Analogy: Kinesiology for brains
 
 Follow [@neuresthetic on X](https://x.com/neuresthetic) for live updates.
@@ -15,7 +13,7 @@ Follow [@neuresthetic on X](https://x.com/neuresthetic) for live updates.
 Neuresthetics fuses neuroscience, philosophy, and graph theory into tools that shatter illusions and rebuild stronger. From ethical AI colliders to brain-network data, these repos evolve dialectical reasoning into superweapons for clarity. No fluff—pure, hand-forged rigor. Start with the evolutionary chain below, then dive into neurology and foundational graphs. logic isn't fragile ||| everything else is
 
 
-# Evolutionary Steel Man Chain: From Covenant to Universal Collider ⚖️
+## Evolutionary Steel Man Chain: From Covenant to Universal Collider ⚖️
 
 
 This trio forms a twin steel man model powered by geometric logic: definitions → axioms → proofs → syntheses. It starts with **SteelManAbraham** as the seed—topic-specific, covenant-challenging prototype. This laid the axiomatic foundation, inspiring **SteelMenCollider** as the topic-agnostic upgrade: scalable, fallacy-proof debate engine. Finally, **grokAlign** integrates it under the hood, adding X-algo optimization and behavioral resonance for real-world deployment. Together: deconstruct, collide, align.
