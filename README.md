@@ -23,7 +23,7 @@ This trio forms a twin steel man model powered by geometric logic: definitions �
 
 ### 🧬 grokAlign: grok/algo & X@user/entity diagnostic toolkit
 
-![Λ](https://github.com/neuresthetics/grokAlign/blob/main/dark_mode/img/38.jpeg)
+![Λ](https://github.com/neuresthetics/grokAlign/blob/main/img/03.jpeg)
 
 
 A Steel Man Collider-powered framework for rigorous content analysis, generation, and ethical reasoning. Paste the JSON prompt into Grok 4 to activate—analyzes styles, generates viral threads, optimizes for dwell time, and enforces consent via terminator_clause. Modules include AΛA (stylistic emulator), geometric_method (Euclidean proofs), and mindspace+6E (behavioral nudges). Tasks: style fingerprinting, X-post virality, philosophical breakdowns. Built on Collider's refutation loops for bias annihilation. MIT License.  
@@ -32,7 +32,7 @@ A Steel Man Collider-powered framework for rigorous content analysis, generation
 
 ### 🥊 SteelMenCollider: Philosophical Debate Framework for Sensitive Topics
 
-![Λ](hhttps://github.com/neuresthetics/SteelMenCollider/blob/main/img/SMChoiz.png)
+![Λ](https://github.com/neuresthetics/SteelMenCollider/blob/main/img/SMChoiz.png)
 
 
 The topic-agnostic evolution of SteelManAbraham—builds maximal steelmen for any controversy, cross-refutes exhaustively, hardens via loops, and scores with 5-judge impartiality (Spinoza to Descartes). Uses first_principles_method to break assumptions, terminator_clause for ethics, and outputs syntheses or winners. No fallacies allowed; focus on truth over comfort. Ideal for AI alignment, policy debates, or worldview clashes. Activate via prompt; pairs with grokAlign for under-the-hood power.  
