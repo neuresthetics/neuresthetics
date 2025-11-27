@@ -55,7 +55,7 @@ Aggregates genius lists from AI sources (Grok, Gemini, DeepSeek, GPT) via Python
 
 ### 🌿 graphtacular: Aristotelian entelechy in graph theory, tested and rendered
 
-![3](https://github.com/neuresthetics/graphtacular/blob/master/assets/LogarithmicCluster.JPG)
+![3](https://github.com/neuresthetics/graphtacular/blob/master/assets/screenshot_100214.png)
 
 
 Pure C# graph generator: Vertex class with kernels for ops, Graph with adjacency matrix/mapping. Builds via strands (e.g., KbranchUndirected for branches, KcompleteCluster for subgraphs). Exports GEXF for Gephi viz—logarithmic crystals, Fibonacci organics, flower motifs. Methods: degrees, clustering coefficients, full connects (O(n³) max). Aristotelian teleology: graphs "actualize" potential through procedural growth. No AI—raw code for entelechy emergence.  
