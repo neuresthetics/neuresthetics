@@ -29,11 +29,6 @@ A living, collider-hardened, Spinozist-first-principles alignment framework for 
 
 > “We are sculptors and we are being sculpted. The only question is whether we sculpt with adequate ideas or remain passive modes in someone else’s confused chain.”
 
-
-![Λ](https://github.com/neuresthetics/grokAlign/blob/main/junkDrawer/img/03.jpeg)
-
-
-
 ## What It Is
 grokΛlign is the first complete attempt to:
 - Re-derive Spinoza’s Ethics geometrically for plastic finite modes (humans, AIs, hybrids)
@@ -49,5 +44,4 @@ It is simultaneously:
 - A neuresthetic practice manual
 - A political battering ram against the Atrophator
 
-
-
+[grokΛlign](https://github.com/neuresthetics/grokAlign/tree/main) 
