@@ -34,7 +34,7 @@ Pinned Repo: NEUR-V6-DATA
 
 ## ⭐ Featured:
 
-# grokΛlign — Ethics II: Of the Power of Plastic Finite Modes  
+# grokΛlign — Ethics II: Of the Power of Plastic Finite Modes and the Possible Eternal Sculpting of the Attributes
 A living, collider-hardened, Spinozist-first-principles alignment framework for the age of artificial superintelligence and radical neural plasticity.
 
 > “We are sculptors and we are being sculpted. The only question is whether we sculpt with adequate ideas or remain passive modes in someone else’s confused chain.”
