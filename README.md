@@ -16,13 +16,23 @@ Follow [@neuresthetic on X](https://x.com/neuresthetic) for live updates.
 
 ---
 
-#### 🌿 My Programming Foundations: graphtacular: Aristotelian entelechy in graph theory, tested and rendered. Pre-AI (100% Hand-Coded! -repo pinned)
+#### 🌿 My Programming Foundations: graphtacular: Aristotelian entelechy in graph theory, tested and rendered. Pre-AI (100% Hand-Coded!)
 
 Pure C# graph generator: Vertex class with "kernels" for ops, Graph with adjacency matrix/mapping. Builds via strands (e.g., KbranchUndirected for branches, KcompleteCluster for subgraphs). Exports GEXF for Gephi viz—logarithmic crystals, Fibonacci organics, flower motifs. Methods: degrees, clustering coefficients, full connects (O(n³) max). Aristotelian teleology: graphs "actualize" potential through procedural growth from a seed. No AI just raw code for entelechy emergence.
 
+Pinned Repo: Graphtacular!
+
 ---
 
-### Featured:
+#### 🧠 Neurology Foundations: Applied Behavioral Statistical Brain Network Theory
+
+In a nutshell, the brain produces thought, and this is about flipping it around and using thought to produce brains. Brains are communication networks, so things like bottleneck theory apply and can exploited behaviorally if you know how to target those networks specifically with behavior. The version4/V5 data for genius replication hypothesis is in the repo here, and the other files are the seeds for the sixth rendition.
+
+Pinned Repo: NEUR-V6-DATA
+
+---
+
+## Featured:
 
 # grokΛlign — Ethics II: Of the Power of Plastic Finite Modes  
 A living, collider-hardened, Spinozist-first-principles alignment framework for the age of artificial superintelligence and radical neural plasticity.
