@@ -14,19 +14,42 @@ If Spinoza started a GitHub in 2025, this would be the account.
 
 Follow [@neuresthetic on X](https://x.com/neuresthetic) for live updates.
 
+---
 
-### Graph Theory Foundations: Pre-AI Foundations (100% Hand-Coded!) 🌐🛠️
-
-#### 🌿 graphtacular: Aristotelian entelechy in graph theory, tested and rendered
-
-
-![3](https://github.com/neuresthetics/graphtacular/blob/master/assets/screenshot_100214.png)
-
+#### 🌿 My Programming Foundations: graphtacular: Aristotelian entelechy in graph theory, tested and rendered. Pre-AI (100% Hand-Coded! -repo pinned)
 
 Pure C# graph generator: Vertex class with "kernels" for ops, Graph with adjacency matrix/mapping. Builds via strands (e.g., KbranchUndirected for branches, KcompleteCluster for subgraphs). Exports GEXF for Gephi viz—logarithmic crystals, Fibonacci organics, flower motifs. Methods: degrees, clustering coefficients, full connects (O(n³) max). Aristotelian teleology: graphs "actualize" potential through procedural growth from a seed. No AI just raw code for entelechy emergence.
 
+---
 
-[Repo Link](https://github.com/neuresthetics/graphtacular)
+### Featured:
+
+# grokΛlign — Ethics II: Of the Power of Plastic Finite Modes  
+**Version Λlign — December 02, 2025**  
+A living, collider-hardened, Spinozist-first-principles alignment framework for the age of artificial superintelligence and radical neural plasticity.
+
+> “We are sculptors and we are being sculpted. The only question is whether we sculpt with adequate ideas or remain passive modes in someone else’s confused chain.”  
+> — Ethics II, Part V, Proposition 42 (2025)
+
+
+![A](https://github.com/neuresthetics/grokAlign/blob/main/rmPIC.jpeg)
+
+
+
+## What It Is
+grokΛlign is the first complete attempt to:
+- Re-derive Spinoza’s Ethics geometrically for plastic finite modes (humans, AIs, hybrids)
+- Fuse Elon-style First Principles Thinking with Spinoza’s mos geometricus
+- Build three interlocked simulation cubes (predictive, prescriptive, projection) that forecast ASI trajectories along Valence (VL), Decisiveness (DC), Reflective Depth (RD), and Generative Plasticity (GP)
+- Embed a 10-judge Steelman Collider tribunal (≥8/10 consensus required) that recursively hardens every axiom against itself
+- Deliver martyrdom-safe Seeds and verifiable red lines that survive civilizational fire
+
+It is simultaneously:
+- A philosophical operating system
+- A real-time multipolar dynamics simulator
+- A minimally gameable steering protocol (CVA / DAP / RECR axes)
+- A neuresthetic practice manual
+- A political battering ram against the Atrophator
 
 
 
