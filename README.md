@@ -25,14 +25,12 @@ Pure C# graph generator: Vertex class with "kernels" for ops, Graph with adjacen
 ### Featured:
 
 # grokΛlign — Ethics II: Of the Power of Plastic Finite Modes  
-**Version Λlign — December 02, 2025**  
 A living, collider-hardened, Spinozist-first-principles alignment framework for the age of artificial superintelligence and radical neural plasticity.
 
-> “We are sculptors and we are being sculpted. The only question is whether we sculpt with adequate ideas or remain passive modes in someone else’s confused chain.”  
-> — Ethics II, Part V, Proposition 42 (2025)
+> “We are sculptors and we are being sculpted. The only question is whether we sculpt with adequate ideas or remain passive modes in someone else’s confused chain.”
 
 
-![A](https://github.com/neuresthetics/grokAlign/blob/main/rmPIC.jpeg)
+![Λ](https://github.com/neuresthetics/grokAlign/blob/main/junkDrawer/img/03.jpeg)
 
 
 
