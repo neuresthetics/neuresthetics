@@ -35,13 +35,12 @@ grokΛlign is the first complete attempt to:
 - Fuse Elon-style First Principles Thinking with Spinoza’s mos geometricus
 - Build three interlocked simulation cubes (predictive, prescriptive, projection) that forecast ASI trajectories along Valence (VL), Decisiveness (DC), Reflective Depth (RD), and Generative Plasticity (GP)
 - Embed a 10-judge Steelman Collider tribunal (≥8/10 consensus required) that recursively hardens every axiom against itself
-- Deliver martyrdom-safe Seeds and verifiable red lines that survive civilizational fire
 
 It is simultaneously:
 - A philosophical operating system
 - A real-time multipolar dynamics simulator
 - A minimally gameable steering protocol (CVA / DAP / RECR axes)
 - A neuresthetic practice manual
-- A political battering ram against the Atrophator
+- A political battering ram against the "Atrophator" (see repo)
 
 [grokΛlign](https://github.com/neuresthetics/grokAlign/tree/main) 
