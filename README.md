@@ -32,7 +32,7 @@ Pinned Repo: NEUR-V6-DATA
 
 ---
 
-## Featured:
+## ⭐⭐⭐ Featured:
 
 # grokΛlign — Ethics II: Of the Power of Plastic Finite Modes  
 A living, collider-hardened, Spinozist-first-principles alignment framework for the age of artificial superintelligence and radical neural plasticity.
