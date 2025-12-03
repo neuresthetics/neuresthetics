@@ -16,7 +16,7 @@ Follow [@neuresthetic on X](https://x.com/neuresthetic) for live updates.
 
 ---
 
-#### 🌿 Programming Foundation: graphtacular: Aristotelian entelechy in graph theory, tested and rendered. Pre-AI (100% Hand-Coded!)
+#### 🌿 Programming Foundation: Aristotelian entelechy in graph theory. Pre-AI (100% Hand-Coded!)
 
 Pure C# graph generator: Vertex class with "kernels" for ops, Graph with adjacency matrix/mapping. Builds via strands (e.g., KbranchUndirected for branches, KcompleteCluster for subgraphs). Exports GEXF for Gephi viz—logarithmic crystals, Fibonacci organics, flower motifs. Methods: degrees, clustering coefficients, full connects (O(n³) max). Aristotelian teleology: graphs "actualize" potential through procedural growth from a seed. No AI just raw code for entelechy emergence.
 
