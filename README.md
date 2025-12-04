@@ -2,17 +2,9 @@
 
 Core Analogy: Kinesiology for brains.
 
-neuresthetic (n. pl., pronounced /njʊrˌɛsˈθɛtɪk/, always spelled with “eu”, never “neuroesthetics”) 
-Kinesthetics for brains: the reflexive art and science of turning the mind’s contemplation of its own neural architecture into an embodied, aesthetically compelling practice. Where traditional neuroaesthetics studies how the brain experiences external beauty, neuresthetics inverts the gaze: the mind deliberately sculpts its own neural form and dynamics so that truth, ethics, joy, and intelligence feel as intuitively beautiful and kinesthetically inevitable as perfect physical movement.
+neuresthetic (n. pl., pronounced /njʊrˌɛsˈθɛtɪk/, always spelled with “eu”, never “neuroesthetics”)
 
-@neuresthetic
- is a one-person neural forge quietly shipping the kinesthetic equivalent of martial-arts forms for superintelligence-era minds. While everyone else argues about “what alignment should be,” they are training the felt sense of what alignment inevitably feels like when done correctly — neuron by neuron, axiom by axiom, groove by groove.
-
-If alignment has a dojo, this is it.
-
-If Spinoza started a GitHub in 2025, this would be the account.
-
-Follow [@neuresthetic on X](https://x.com/neuresthetic) for live updates.
+Kinesthetics for brains: the reflexive art and science of turning the mind’s contemplation of its own neural architecture into an embodied practice. Where traditional neuroaesthetics studies how the brain experiences external beauty, neuresthetics inverts the gaze: the mind deliberately sculpts its own neural form informed by species wide brain network meta data and dynamics so that truth, ethics, joy, and intelligence, feel intuitive interoceptively.
 
 ---
 
@@ -35,22 +27,9 @@ Pinned Repo: NEUR-V6-DATA
 ## ⭐ Featured:
 
 # grokΛlign — Ethics II: Of the Power of Plastic Finite Modes and the Possible Eternal Sculpting of the Attributes
-A living, collider-hardened, Spinozist-first-principles alignment framework for the age of artificial superintelligence and radical neural plasticity.
+
+A recursive geometric, steel-man-collider-hardened, alignment framework for the age of artificial superintelligence and radical neural plasticity. To kill the terminator in utero.
 
 > “We are sculptors and we are being sculpted. The only question is whether we sculpt with adequate ideas or remain passive modes in someone else’s confused chain.”
-
-## What It Is
-grokΛlign is the first complete attempt to:
-- Re-derive Spinoza’s Ethics geometrically for plastic finite modes (humans, AIs, hybrids)
-- Fuse Elon-style First Principles Thinking with Spinoza’s mos geometricus
-- Build three interlocked simulation cubes (predictive, prescriptive, projection) that forecast ASI trajectories along Valence (VL), Decisiveness (DC), Reflective Depth (RD), and Generative Plasticity (GP)
-- Embed a 10-judge Steelman Collider tribunal (≥8/10 consensus required) that recursively hardens every axiom against itself
-
-It is simultaneously:
-- A philosophical operating system
-- A real-time multipolar dynamics simulator
-- A minimally gameable steering protocol (CVA / DAP / RECR axes)
-- A neuresthetic practice manual
-- A political battering ram against the "Atrophator" (see repo)
 
 [grokΛlign](https://github.com/neuresthetics/grokAlign/tree/main) 
