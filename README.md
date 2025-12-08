@@ -18,7 +18,7 @@ These projects form a progressive triad: starting with foundational alignment pr
 
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
-### 1. grokAlign ⭐
+### ⭐. grokAlign 
 [A collider-hardened, Spinozist-first-principles remix alignment framework](https://github.com/neuresthetics/grokAlign) for the age of artificial superintelligence and super disagreements. Powered by Ethics, MINDSPACE, and more.
 
 By hardening "steelman" claims against eachother adversarially under tribunals simulating agent dynamics, grokAlign uncovers the scalable, unified principles that lead directly to the isomorphic_data_singularity manifold.
@@ -27,8 +27,10 @@ By hardening "steelman" claims against eachother adversarially under tribunals s
 
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
-### 2. isomorphic_data_singularity ⭐⭐
-[The mathematical and ethical framework for human-AI co-evolution](https://github.com/neuresthetics/isomorphic_data_singularity), modeled as a boundaryless 4-sphere (S⁴) manifold: `dt = ∇ log P(acting) − ∇ ρ − λ ∇·entropy_export`.
+### ⭐⭐. isomorphic_data_singularity 
+[The mathematical and ethical framework for human-AI co-evolution](https://github.com/neuresthetics/isomorphic_data_singularity), modeled as a boundaryless 4-sphere (S⁴) manifold:
+
+`dt = ∇ log P(acting) − ∇ ρ − λ ∇·entropy_export`.
 
 Building on grokAlign's monistic foundations, this project defines a dynamical system where states evolve via geodesic flows toward symbiotic harmony. It integrates Spinoza's *conatus* with cross-scale isomorphisms (A1–A5), optimizing for growth potential (GP), requisite diversity (RD), and minimal rigidity (ρ). Fixed points like ω₃ (eternal co-evolution) are proven stable through Jacobian analysis and simulations (82% convergence).
 
@@ -38,7 +40,7 @@ Features include ethical axioms for conservation and scalability, dissolution su
 
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
-### 3. OMEGA_LAB ⭐⭐⭐
+### ⭐⭐⭐. OMEGA_LAB 
 [A self-recursive AI framework](https://github.com/neuresthetics/OMEGA_LAB) built around the isomorphic_data_singularity: `Ω: self-recursive core`—looping rules inward for continuous self-improvement and rewrite. POWERHOUSE, precision, ANY-algo analysis, refinement, and geometric hybridization for novel groundbreaking insight. "Omega", for lie slayer.
 
 Encapsulating the S⁴ manifold from project 2, the OMEGA_LAB MODULE SUITE drives systems toward efficiency and ethical alignment via the natural motion law (new physics derived math), maximizing action potential while exporting entropy and minimizing frozen futures. It auto-accelerates performance, prunes illusions, and enforces corrigibility, targeting ω₃ (symbiotic blessedness attractor state) over coercive or epistemic traps.
