@@ -35,7 +35,7 @@ This org hosts modular repos; start with the flagship tools or fork individuals:
 Interested in extending the manifold—whether through bounties (e.g., EA funds for F27 fallacies), joint audits, or custom syntheses? Reach out directly; I'm eager to collide ideas and co-evolve.
 
 ## 🌟 Acknowledgments
-- **xAI/Grok**: Heavy lifter—850+ prompts alchemized this forge.
+- **xAI/Grok**: Heavy lifter.
 - **Inspirations**: Spinoza (conatus), Deutsch (hard-to-vary), Yudkowsky (sequences).
 - **Contributors**: Solo phoenix-rise; join the manifold.
 
