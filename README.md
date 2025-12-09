@@ -29,6 +29,7 @@ This org hosts modular repos; start with the flagship tools or fork individuals:
 | [grokAlign](https://github.com/neuresthetics/grokAlign) | Spinozist alignment remixer: Bias audits via conatus axioms and causal loops. |
 | [graphtacular](https://github.com/neuresthetics/graphtacular) | Graph-based entelechy modeling (pre-AI motifs, GEXF export). |
 | [grokipedia-truth-audit](https://github.com/neuresthetics/grokipedia-truth-audit) | Fallacy filters and truth evaluators for xAI content. |
+| [NEURNEUR-V6-DATA](https://github.com/neuresthetics/NEUR-V6-DATA) | Fallacy filters and truth evaluators for xAI content. |
 
 
 ## 🤝 Let's Collaborate
