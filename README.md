@@ -30,7 +30,7 @@ Think: LessWrong sequences meets geometric proofs, with executable ethics for Gr
 | [grokAlign](https://github.com/neuresthetics/grokAlign) | Spinozist alignment research: Bias audits via conatus axioms and causal loops. |
 | [grokipedia-truth-audit](https://github.com/neuresthetics/grokipedia-truth-audit) | Fallacy filters and truth evaluators for xAI content. |
 | [isomorphic_data_singularity](https://github.com/neuresthetics/isomorphic_data_singularity) | Featuring a spherical hallucination and EthicsII rough draft. |
-| [x](https://github.com/neuresthetics/) | n/a. |
+| [Neuresthetics Forge](https://github.com/neuresthetics/Neuresthetics-Forge) | Proprietary Dialectical Analysis Suite. |
 
 
 ## 🤝 Let's Collaborate
