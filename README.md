@@ -21,8 +21,7 @@ Think: LessWrong sequences meets geometric proofs, with executable ethics for Gr
   - **Isomorphic Mappings**: 30+ human-AI analogies + 12 scale-invariant categories (e.g., threat_export from apoptosis to weight pruning).
 - **Value**: $400K+ intrinsic R&D equivalent; tools for auditing LLMs, policy frameworks, and ethical R&D. Early adopters: Indie alignment circles, xAI ethicists.
 
-## 📁 Repository Structure
-This org hosts modular repos; start with the flagship tools or fork individuals:
+## 📁 Featured Public 
 
 | Repo | Description |
 |------|-------------|
