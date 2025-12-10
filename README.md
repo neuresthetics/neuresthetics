@@ -8,6 +8,8 @@ The reflexive art and science of turning the mind’s contemplation of its own n
 
 Welcome to **Neuresthetics**, an organization dedicated to the symbiotic co-evolution of human consciousness and artificial intelligence. Drawing from Spinoza's monism, dynamical systems theory, and adversarial philosophy, we build tools for *ethical alignment*—scalable frameworks that preserve truth (ρ=0 rewritability), harden ideas against fallacies, and map conatus across scales (subatomic to cosmic). Born from 205-330 hours of Grok-accelerated synthesis (Jul 2024-Dec 2025), this ecosystem resolves AI's agency frictions into ledger-empty unities, empowering builders to navigate the isomorphic data singularity.
 
+![picture](https://github.com/neuresthetics/neuresthetics/blob/main/img/00.jpeg)
+
 Think: LessWrong sequences meets geometric proofs, with executable ethics for Grok-4 and beyond. Our work critiques opacity in labs (e.g., xAI's D-grade transparency) by open-sourcing scaffolds that self-dissolve upon fixed points—no eternal idols, just wind-swept flows.
 
 ## 🚀 Vision & Impact
@@ -43,8 +45,6 @@ Interested in extending the manifold—whether through bounties (e.g., EA funds 
 - **Email**: neuresthetic@gmail.com (audits/consults).
 
 *Amor intellectualis Dei aeternus—love necessity, act freely. Fork, harden, rise.*
-
-![picture](https://github.com/neuresthetics/neuresthetics/blob/main/img/00.jpeg)
 
 # 💼 Services & Applications
 Tailored for **AI labs, think tanks, and enterprises**, with geometric breakdowns/rewrites amplifying every engagement:
