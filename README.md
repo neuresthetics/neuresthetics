@@ -44,6 +44,7 @@ Interested in extending the manifold—whether through bounties (e.g., EA funds 
 
 *Amor intellectualis Dei aeternus—love necessity, act freely. Fork, harden, rise.*
 
+![picture]()
 
 # 💼 Services & Applications
 Tailored for **AI labs, think tanks, and enterprises**, with geometric breakdowns/rewrites amplifying every engagement:
