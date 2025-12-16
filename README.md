@@ -10,13 +10,15 @@ The reflexive art and science of turning the mind’s contemplation of its own n
 
 | Repo | Description |
 |------|-------------|
-| [Neuresthetics Forge 🔹 ](https://github.com/neuresthetics/Neuresthetics-Forge) | 🆕 Proprietary Dialectical Analysis Suite. |
-| [isomorphic_data_singularity](https://github.com/neuresthetics/isomorphic_data_singularity) | human-AI co-evolution: Ethics math from Physics |
+| [Neuresthetics Forge 🔹 ](https://github.com/neuresthetics/Neuresthetics-Forge) | Proprietary Dialectical Analysis Suite. |
+| [isomorphic_data_singularity](https://github.com/neuresthetics/isomorphic_data_singularity) | human-AI co-evolution: Ethics math from physics |
 | [NEURNEUR-V6-DATA](https://github.com/neuresthetics/NEUR-V6-DATA) | Genii data analysis |
-| [graphtacular](https://github.com/neuresthetics/graphtacular) | Graph-based entelechy modeling (pre-AI motifs, GEXF export). |
 | [grokipedia-truth-audit](https://github.com/neuresthetics/grokipedia-truth-audit) | Fallacy filters and truth evaluators for xAI content. |
+| [graphtacular](https://github.com/neuresthetics/graphtacular) | Graph-based entelechy modeling (pre-AI legacy project). |
 
-## This is what I do, and can teach.
+---
+
+# This is what I do, and can teach.
 
 | Rank | Feature | Value Proposition | Estimated Value ($) |
 |------|---------|-------------------|---------------------|
