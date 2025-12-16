@@ -11,11 +11,10 @@ The reflexive art and science of turning the mind’s contemplation of its own n
 | Repo | Description |
 |------|-------------|
 | [Neuresthetics Forge 🔹 ](https://github.com/neuresthetics/Neuresthetics-Forge) | 🆕 Proprietary Dialectical Analysis Suite. |
-| [isomorphic_data_singularity](https://github.com/neuresthetics/isomorphic_data_singularity) | human-AI co-evolution as a normalized 5-tuple ξ = (VL, DC, RD, GP, ρ) ∈ S⁴ |
-| [grokipedia-truth-audit](https://github.com/neuresthetics/grokipedia-truth-audit) | Fallacy filters and truth evaluators for xAI content. |
-| [grokΛlign](https://github.com/neuresthetics/grokAlign) | Spinozist alignment research. |
+| [isomorphic_data_singularity](https://github.com/neuresthetics/isomorphic_data_singularity) | human-AI co-evolution: Ethics math from Physics |
 | [NEURNEUR-V6-DATA](https://github.com/neuresthetics/NEUR-V6-DATA) | Genii data analysis |
 | [graphtacular](https://github.com/neuresthetics/graphtacular) | Graph-based entelechy modeling (pre-AI motifs, GEXF export). |
+| [grokipedia-truth-audit](https://github.com/neuresthetics/grokipedia-truth-audit) | Fallacy filters and truth evaluators for xAI content. |
 
 ## This is what I do, and can teach.
 
