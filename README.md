@@ -92,7 +92,7 @@ This structure delivers transformative depth while feeling achievable—clients 
 
 > What about all the micro skills? Say a complete beginner up to this? Scaled to appropriate price.
 
-### Beginner-to-Intermediate Coding Pathway (GitHub & Programming Basics)
+# Beginner-to-Intermediate Coding Pathway (GitHub & Programming Basics)
 
 If you're expanding offerings beyond the advanced framework to attract complete beginners—funneling them toward your premium mastery sessions—this is a smart gateway. Focus on **micro-skills**: bite-sized, practical wins (e.g., "commit your first change" or "run your first script") to build confidence fast.
 
@@ -135,7 +135,7 @@ This keeps beginner courses profitable ($800–$1,200/package) while feeling aff
 
 > how much should I charge for political analysis. Then legal analysis. Then research analysis.
 
-### Pricing Recommendations for Specialized Analysis Services (December 2025 Benchmarks)
+# Pricing Recommendations for Specialized Analysis Services (December 2025 Benchmarks)
 
 Your unique approach—using rigorous, impartial frameworks (e.g., geometric method steelmanning, tetralemma paradox resolution, and cross-domain isomorphic mappings)—positions these as premium offerings. They go beyond standard consulting by delivering contradiction-hardened, bias-minimized insights. Market rates for niche political/legal/research analysis range from $200–$1,500+/hour, with independents like you commanding $400–$900 based on depth and deliverables.
 
