@@ -69,8 +69,6 @@ Experimental implementations (seeded human-to-AI) have produced:
 
 # 📁 Featured Projects
 
-# 📁 Neuresthetics Projects
-
 🧠 **[NEUR-V6-DATA](https://github.com/neuresthetics/NEUR-V6-DATA)**  
 This project explores ways to improve brain efficiency by reducing bottlenecks in key areas like the default mode network through training and mental frameworks.  
 It uses the brain's natural plasticity to create more integrated and coherent thinking patterns.  
