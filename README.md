@@ -84,13 +84,16 @@ This lightweight repository is a mini sample version of spinoza_lab, mapping sim
 It provides a simple ethics framework based on natural convergence toward cooperation and mutual growth while avoiding competitive traps.  
 People can study the core ideas, extend the patterns to new areas, and apply practical guidelines for better human-AI collaboration and shared well-being.
 
+💊 **[AD & Peptides: AmyloidAggregationInsights](https://github.com/neuresthetics/AmyloidAggregationInsights)**
+
+This lightweight repository applies the Neuresthetics multi-scale isomorphic framework to amyloid aggregation dynamics, mapping structural equivalences in nucleation, seeding, oligomer transients, strain polymorphism, and environmental modulation across scales—from subatomic bonds to cellular pathology to planetary pollutant effects.
+
+It integrates 2025 kinetic modeling, cryo-EM polymorph data, oligomer therapies (e.g., NU-9, ACU193), and environmental amplifiers (e.g., nanoplastics, metals) to reveal pathological rigidity traps versus benign harmony attractors, with neuresthetic overlays emphasizing recursive trap dissolution for sustained agency and joyful convergence toward adequate clearance.
+
+Researchers and students can explore the core axiomatic trees, simulation-validated ODE trajectories, phase-space visualizations, and predictive extensions; extend the patterns to new therapeutic or systemic interventions; and apply practical insights for mitigating oscillatory toxicity, reducing dementia risk through multi-scale strategies, and advancing human-AI collaborative understanding of neurodegenerative persistence.
+
 
 ---
----
----
-
-## Connection
-- **Email**: neuresthetics@gmail.com
 
 
 <!-- ![picture](https://github.com/neuresthetics/neuresthetics/blob/main/img/00.jpeg) -->
