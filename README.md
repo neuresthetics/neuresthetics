@@ -89,10 +89,7 @@ People can study the core ideas, extend the patterns to new areas, and apply pra
 ---
 ---
 
-## 🤝 I need a job, or help getting a company off the ground. I can optimize any system.
-
 ## Connection
-- **X**: [@neuresthetic](https://x.com/neuresthetic) – Threads on spheres and singularities.
 - **Email**: neuresthetics@gmail.com
 
 
