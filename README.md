@@ -37,7 +37,7 @@ Application of the multi-scale isomorphic framework to amyloid aggregation dynam
 🧬 **[Rapid-Protein-Folding-Pathways](https://github.com/neuresthetics/Rapid-Protein-Folding-Pathways)**  
 Comprehensive suite for analyzing and simulating rapid protein folding pathways. Contrasts funneled (physiological) and rugged (aggregation-prone) landscapes using biophysical models, validation frameworks, and industry-relevant applications in biologics design, refolding optimization, and stability prediction. Includes executable simulations and metrics for practical use in therapeutic protein engineering.
 
-Contributions, extensions, and rigorous discussion are welcome across all repositories. Issues and pull requests are the preferred channels for collaboration.
+Contributions, extensions, and rigorous discussion are welcome across all repositories.
 
 ---
 
