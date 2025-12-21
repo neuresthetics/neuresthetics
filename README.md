@@ -34,7 +34,7 @@ Lightweight mapping of persistent structural patterns across scales—from subat
 💊 **[amyloid_aggregation_insights](https://github.com/neuresthetics/AmyloidAggregationInsights)**  
 Application of the multi-scale isomorphic framework to amyloid aggregation dynamics. Maps nucleation, seeding, oligomer transients, strain polymorphism, and environmental modulators across levels, integrating 2025 kinetic and structural data. Highlights pathological rigidity traps versus benign clearance pathways, with extensions to therapeutic and systemic interventions.
 
-🧬 **[rapid_protein_folding-pathways](https://github.com/neuresthetics/Rapid-Protein-Folding-Pathways)**  
+🧬 **[rapid_protein_folding_pathways](https://github.com/neuresthetics/Rapid-Protein-Folding-Pathways)**  
 Comprehensive suite for analyzing and simulating rapid protein folding pathways. Contrasts funneled (physiological) and rugged (aggregation-prone) landscapes using biophysical models, validation frameworks, and industry-relevant applications in biologics design, refolding optimization, and stability prediction. Includes executable simulations and metrics for practical use in therapeutic protein engineering.
 
 Contributions, extensions, and rigorous discussion are welcome across all repositories.
