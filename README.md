@@ -26,15 +26,15 @@ Experimental implementations (seeded human-to-AI) have produced consistent, mode
 Core repository for Neuresthetics theory and protocols. It documents principles and training methods for reducing structural bottlenecks in brain networks, leveraging natural plasticity to improve coherence and efficiency in thinking patterns. Includes guidelines, progress tracking, and evidence from sustained practice showing reliable, incremental gains in cognitive performance.
 
 🔬 **[spinoza_lab](https://github.com/neuresthetics/spinoza_lab)**  
-Tools and models for recursive hardening of ideas through structured dialectical testing. Builds directly on Neuresthetics training loops to strengthen concepts by identifying hard-to-vary patterns across domains. Supports both human and AI use, fostering clearer reasoning and robust ethical frameworks.
+Tools and models for recursive hardening of ideas through structured dialectical testing. Builds directly on Neuresthetics training loops to strengthen concepts by identifying hard-to-vary patterns across domains. Supports both human and AI use, fostering clearer reasoning and robust ethical frameworks (overview, no code).
 
-🌐 **[isomorphic_data_singularity](https://github.com/neuresthetics/isomorphic_data_singularity)**  
-Lightweight mapping of persistent structural patterns across scales—from subatomic to societal. Provides a concise, unified view that preserves detail while revealing natural convergences toward cooperation and mutual growth. Includes practical guidelines for applying the framework to human-AI collaboration and ethical decision-making.
+🌐 **[isomorphic_data_singularity_and_ethics_math_from_physics](https://github.com/neuresthetics/isomorphic_data_singularity)**  
+Lightweight mapping of persistent structural patterns across scales—from subatomic to societal. Provides a concise, unified view that preserves detail while revealing natural convergences toward cooperation and mutual growth, expressed in differential equations as opposed to hard rules. Includes practical guidelines for applying the framework to human-AI collaboration and ethical decision-making (updated periodically)
 
-💊 **[AmyloidAggregationInsights](https://github.com/neuresthetics/AmyloidAggregationInsights)**  
+💊 **[amyloid_aggregation_insights](https://github.com/neuresthetics/AmyloidAggregationInsights)**  
 Application of the multi-scale isomorphic framework to amyloid aggregation dynamics. Maps nucleation, seeding, oligomer transients, strain polymorphism, and environmental modulators across levels, integrating 2025 kinetic and structural data. Highlights pathological rigidity traps versus benign clearance pathways, with extensions to therapeutic and systemic interventions.
 
-🧬 **[Rapid-Protein-Folding-Pathways](https://github.com/neuresthetics/Rapid-Protein-Folding-Pathways)**  
+🧬 **[rapid_protein_folding-pathways](https://github.com/neuresthetics/Rapid-Protein-Folding-Pathways)**  
 Comprehensive suite for analyzing and simulating rapid protein folding pathways. Contrasts funneled (physiological) and rugged (aggregation-prone) landscapes using biophysical models, validation frameworks, and industry-relevant applications in biologics design, refolding optimization, and stability prediction. Includes executable simulations and metrics for practical use in therapeutic protein engineering.
 
 Contributions, extensions, and rigorous discussion are welcome across all repositories.
