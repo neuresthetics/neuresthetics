@@ -31,13 +31,16 @@ Tools and models for recursive hardening of ideas through structured dialectical
 🌐 **[isomorphic_data_singularity_and_ethics_math_from_physics](https://github.com/neuresthetics/isomorphic_data_singularity)**  
 Lightweight mapping of persistent structural patterns across scales—from subatomic to societal. Provides a concise, unified view that preserves detail while revealing natural convergences toward cooperation and mutual growth, expressed in differential equations as opposed to hard rules. Includes practical guidelines for applying the framework to human-AI collaboration and ethical decision-making (updated periodically)
 
-💊 **[amyloid_aggregation_insights](https://github.com/neuresthetics/AmyloidAggregationInsights)**  
+💊 **[AD: amyloid_aggregation_insights](https://github.com/neuresthetics/AmyloidAggregationInsights)**  
 Application of the multi-scale isomorphic framework to amyloid aggregation dynamics. Maps nucleation, seeding, oligomer transients, strain polymorphism, and environmental modulators across levels, integrating 2025 kinetic and structural data. Highlights pathological rigidity traps versus benign clearance pathways, with extensions to therapeutic and systemic interventions.
 
-🧬 **[rapid_protein_folding_pathways](https://github.com/neuresthetics/Rapid-Protein-Folding-Pathways)**  
+🧬 **[AD: rapid_protein_folding_pathways](https://github.com/neuresthetics/Rapid-Protein-Folding-Pathways)**  
 Comprehensive suite for analyzing and simulating rapid protein folding pathways. Contrasts funneled (physiological) and rugged (aggregation-prone) landscapes using biophysical models, validation frameworks, and industry-relevant applications in biologics design, refolding optimization, and stability prediction. Includes executable simulations and metrics for practical use in therapeutic protein engineering.
 
-Contributions, extensions, and rigorous discussion are welcome across all repositories.
+🧬 **[AD: multidimensional_DNA_analysis](https://github.com/neuresthetics/multidimensional_DNA_analysis)**
+Framework for advancing Alzheimer's disease risk prediction through multidimensional DNA analysis. Integrates polygenic risk scores, epigenetic biomarkers, and pharmacogenomic profiles leveraging 2025 GWAS meta-analyses across diverse ancestries. Employs Bayesian methods, DNA methylation clocks, and dynamic ODE simulations to model genetic-epigenetic interactions, disease rigidity, and therapeutic responses. Focuses on non-invasive blood-based assays for early detection, multi-ancestry equity, and precision medicine, with projected 20–45% gains in prognostic accuracy and substantial economic impacts through trial enrichment and personalized interventions (includes white paper, simulations, and standardized data models).
+
+Contributions, extensions, and rigorous discussion are welcome, reach out on Linkedin.
 
 ---
 
