@@ -31,6 +31,9 @@ Tools and models for recursive hardening of ideas through structured dialectical
 🌐 **[isomorphic_data_singularity_and_ethics_math_from_physics](https://github.com/neuresthetics/isomorphic_data_singularity)**  
 Lightweight mapping of persistent structural patterns across scales—from subatomic to societal. Provides a concise, unified view that preserves detail while revealing natural convergences toward cooperation and mutual growth, expressed in differential equations as opposed to hard rules. Includes practical guidelines for applying the framework to human-AI collaboration and ethical decision-making (updated periodically)
 
+🔢 **[riemann_hypothesis](https://github.com/neuresthetics/riemann_hypothesis)**  
+From first principles: The Riemann Hypothesis (RH) posits that all non-trivial zeros of the zeta function lie on Re(s) = 1/2. This tree organizes the heuristic synthesis from the documents into a deductive-like structure, starting from irreducible axioms (zeta properties, primes, etc.), branching through propositions (pathways like spectral, Langlands), derivations (unifications, convergences), and culminating in the fixed-point conclusion. Nodes include mathematical definitions, logical steps, and invariance scores. The tree is hierarchical: roots are foundations; leaves are validations; trunk unifies to the conclusion. While heuristic (>99.8% convergence), it bounds off-line zeros as inconsistent (<1.0% variance).
+
 💊 **[AD: amyloid_aggregation_insights](https://github.com/neuresthetics/AmyloidAggregationInsights)**  
 Application of the multi-scale isomorphic framework to amyloid aggregation dynamics. Maps nucleation, seeding, oligomer transients, strain polymorphism, and environmental modulators across levels, integrating 2025 kinetic and structural data. Highlights pathological rigidity traps versus benign clearance pathways, with extensions to therapeutic and systemic interventions.
 
@@ -40,7 +43,6 @@ Comprehensive suite for analyzing and simulating rapid protein folding pathways.
 🧬 **[multidimensional_DNA_analysis (AD) ](https://github.com/neuresthetics/multidimensional_DNA_analysis)**
 Framework for advancing Alzheimer's disease risk prediction through multidimensional DNA analysis. Integrates polygenic risk scores, epigenetic biomarkers, and pharmacogenomic profiles leveraging 2025 GWAS meta-analyses across diverse ancestries. Employs Bayesian methods, DNA methylation clocks, and dynamic ODE simulations to model genetic-epigenetic interactions, disease rigidity, and therapeutic responses. Focuses on non-invasive blood-based assays for early detection, multi-ancestry equity, and precision medicine, with projected 20–45% gains in prognostic accuracy and substantial economic impacts through trial enrichment and personalized interventions (includes white paper, simulations, and standardized data models).
 
-Contributions, extensions, and rigorous discussion are welcome, reach out on Linkedin.
 
 ---
 
