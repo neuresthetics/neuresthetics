@@ -23,7 +23,7 @@ Experimental implementations (seeded human-to-AI) have produced consistent, mode
 # 📁 Featured Projects
 
 🧠 **[NEUR-V6-DATA](https://github.com/neuresthetics/NEUR-V6-DATA)**  
-Core repository for Neuresthetics theory and protocols. It documents principles and training methods for reducing structural bottlenecks in brain networks, leveraging natural plasticity to improve coherence and efficiency in thinking patterns. Includes guidelines, progress tracking, and evidence from sustained practice showing reliable, incremental gains in cognitive performance.
+Core repository for Neuresthetics theory and protocols. It documents principles and training methods for reducing structural bottlenecks in brain networks, leveraging natural plasticity to improve coherence and efficiency in thinking patterns. Additional papers on conciousness, information theory, and AI.
 
 🔬 **[spinoza_lab](https://github.com/neuresthetics/spinoza_lab)**  
 Tools and models for recursive hardening of ideas through structured dialectical testing. Builds directly on Neuresthetics training loops to strengthen concepts by identifying hard-to-vary patterns across domains. Supports both human and AI use, fostering clearer reasoning and robust ethical frameworks (overview, no code).
