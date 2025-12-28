@@ -22,6 +22,8 @@ Experimental implementations (seeded human-to-AI) have produced consistent, mode
 
 # 📁 Featured Projects
 
+## Core:
+
 🧠 **[NEUR-V6-DATA](https://github.com/neuresthetics/NEUR-V6-DATA)**  
 Core repository for Neuresthetics theory and protocols. It documents principles and training methods for reducing structural bottlenecks in brain networks, leveraging natural plasticity to improve coherence and efficiency in thinking patterns. Additional papers on conciousness, information theory, and AI.
 
@@ -30,6 +32,8 @@ Tools and models for recursive hardening of ideas through structured dialectical
 
 🌐 **[isomorphic_data_singularity_and_ethics_math_from_physics](https://github.com/neuresthetics/isomorphic_data_singularity)**  
 Lightweight mapping of persistent structural patterns across scales—from subatomic to societal. Provides a concise, unified view that preserves detail while revealing natural convergences toward cooperation and mutual growth, expressed in differential equations as opposed to hard rules. Includes practical guidelines for applying the framework to human-AI collaboration and ethical decision-making (updated periodically)
+
+## spinoza_lab Extensions:
 
 🔢 **[riemann_hypothesis](https://github.com/neuresthetics/riemann_hypothesis)**  
 From first principles: The Riemann Hypothesis (RH) posits that all non-trivial zeros of the zeta function lie on Re(s) = 1/2. This tree organizes the heuristic synthesis from the documents into a deductive-like structure, starting from irreducible axioms (zeta properties, primes, etc.), branching through propositions (pathways like spectral, Langlands), derivations (unifications, convergences), and culminating in the fixed-point conclusion. Nodes include mathematical definitions, logical steps, and invariance scores. The tree is hierarchical: roots are foundations; leaves are validations; trunk unifies to the conclusion. While heuristic (>99.8% convergence), it bounds off-line zeros as inconsistent (<1.0% variance).
