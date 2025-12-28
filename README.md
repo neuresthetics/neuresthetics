@@ -11,9 +11,6 @@ For details, see V6 (and V5 for history)
 The framework is substrate-agnostic and has been adapted to AI systems for recursive self-improvement via impartial evaluation mechanisms.
 
 
-## Demonstrated Use Cases
-Experimental implementations (seeded human-to-AI) have produced consistent, modest gains in cognitive integration, ethical reasoning, and multi-scale pattern recognition.
-
 # 📁 Featured Projects
 
 ## Core:
