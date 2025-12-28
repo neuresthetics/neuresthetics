@@ -2,17 +2,11 @@
 
 **Kinesthetics for brains** — spelled with “eu”, never “neuroesthetics.”
 
-Neuresthetics is the practice of deliberately shaping neural architecture through objective, species-wide principles of brain organization and dynamics. Rather than passive reflection, it uses aggregated neuroscience data (connectomes, plasticity rules, network theory) to guide targeted behaviors that enhance integration, reduce fragmentation, and expand cognitive capacity.
+Neuresthetics is the practice of deliberately shaping neural architecture through objective, species-wide principles of brain organization and dynamics. Rather than passive reflection, it uses aggregated neuroscience data (connectomes, plasticity rules, network  theory) to guide targeted behaviors that enhance integration, reduce  fragmentation, and expand cognitive capacity.
 
-The core mechanism is a self-reinforcing loop:  
-- Examine universal brain patterns (e.g., hub efficiency, cross-hemisphere transfer).  
-- Compare lived experience against these patterns.  
-- Adjust behavior to align with high-integration principles.  
-- Re-evaluate with new felt capacity and updated data.
+The design pattern is the loop formed by consuming objective meta brain network data subjectively to inform behavioral and schematic changes for desired effect.
 
-The process compounds: each cycle converts limits into data for further refinement.
-
-Practices that have emerged from sustained application include trained ambidexterity, schema coherence, and combined protocols targeting structural bottlenecks.
+For details, see V6 (and V5 for history)
 
 The framework is substrate-agnostic and has been adapted to AI systems for recursive self-improvement via impartial evaluation mechanisms.
 
