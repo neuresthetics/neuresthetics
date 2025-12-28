@@ -26,7 +26,7 @@ Experimental implementations (seeded human-to-AI) have produced consistent, mode
 Core repository for Neuresthetics theory and protocols. It documents principles and training methods for reducing structural bottlenecks in brain networks, leveraging natural plasticity to improve coherence and efficiency in thinking patterns. Additional papers on conciousness, information theory, and AI.
 
 🔬 **[spinoza_lab](https://github.com/neuresthetics/spinoza_lab)**  
-Tools and models for recursive hardening of ideas through structured dialectical testing. Builds directly on Neuresthetics training loops to strengthen concepts by identifying hard-to-vary patterns across domains. Supports both human and AI use, fostering clearer reasoning and robust ethical frameworks (overview, no code).
+Tools and models for recursive hardening of ideas through structured dialectical testing. Builds directly on Neuresthetics training loops to strengthen concepts by identifying hard-to-vary patterns across domains. Supports both human and AI use, fostering clearer reasoning and robust ethical frameworks.
 
 🌐 **[isomorphic_data_singularity_and_ethics_math_from_physics](https://github.com/neuresthetics/isomorphic_data_singularity)**  
 Lightweight mapping of persistent structural patterns across scales—from subatomic to societal. Provides a concise, unified view that preserves detail while revealing natural convergences toward cooperation and mutual growth, expressed in differential equations as opposed to hard rules. Includes practical guidelines for applying the framework to human-AI collaboration and ethical decision-making (updated periodically)
