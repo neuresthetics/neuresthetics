@@ -22,7 +22,7 @@ Core repository for Neuresthetics theory and protocols. It documents principles 
 Tools and models for recursive hardening of ideas through structured dialectical testing. Builds directly on Neuresthetics training loops to strengthen concepts by identifying hard-to-vary patterns across domains. Supports both human and AI use, fostering clearer reasoning and robust ethical frameworks.
 
 🌐 **[isomorphic_data_singularity_and_ethics_math_from_physics](https://github.com/neuresthetics/isomorphic_data_singularity)**  
-Lightweight mapping of persistent structural patterns across scales—from subatomic to societal. Technically "data singularizing", "isomorphic" tables.
+What is ISOMORPHIC and what is Ethics based on Thermodynamics? Drop these files into your AI and ask them yourself. Fixed point recursion stability key $
 
 ## spinoza_lab Extensions:
 
@@ -39,7 +39,7 @@ Comprehensive suite for analyzing and simulating rapid protein folding pathways.
 Framework for advancing Alzheimer's disease risk prediction through multidimensional DNA analysis.
 
 💡 **[TOESF_theory_of_everything_so_far; $25-125M with collision mathematics](https://github.com/neuresthetics/TOESF_theory_of_everything_so_far)**     
-Not solving everything, but getting closer.
+Not solving everything, but closing the distance a bit. Applications for semiconductors, quantum computing, robotics, aerospace, finteck risk management.
 
 
 ---
