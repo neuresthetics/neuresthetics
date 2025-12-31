@@ -38,7 +38,7 @@ Comprehensive suite for analyzing and simulating rapid protein folding pathways.
 🧬 **[multidimensional_DNA_analysis (AD) ](https://github.com/neuresthetics/multidimensional_DNA_analysis)**    
 Framework for advancing Alzheimer's disease risk prediction through multidimensional DNA analysis.
 
-💡 **[TOESF_theory_of_everything_so_far; $25-125M with collision mathematics](https://github.com/neuresthetics/TOESF_theory_of_everything_so_far)**     
+💡 **[TOESF_theory_of_everything_so_far: collision mathematics](https://github.com/neuresthetics/TOESF_theory_of_everything_so_far)**     
 Not solving everything, but closing the distance a bit. Applications for semiconductors, quantum computing, robotics, aerospace, finteck risk management.
 
 
