@@ -21,8 +21,8 @@ Core repository for Neuresthetics theory and protocols. It documents principles 
 🔬 **[spinoza_lab](https://github.com/neuresthetics/spinoza_lab)**  
 Tools and models for recursive hardening of ideas through structured dialectical testing. Builds directly on Neuresthetics training loops to strengthen concepts by identifying hard-to-vary patterns across domains. Supports both human and AI use, fostering clearer reasoning and robust ethical frameworks.
 
-🌐 **[isomorphic_data_demonstration](https://github.com/neuresthetics/isomorphic_data_demonstration)**  
-In this logic lab: What is isomorphic? Corresponding or similar in form and relations across scale. The isomorphic lens aids understanding by mapping similar structures across contexts for clearer insights, proves useful for transferring knowledge between structures, like in category theory, and enhances creative reasoning by identifying patterns across scales in complex systems.
+<!-- 🌐 **[isomorphic_data_demonstration](https://github.com/neuresthetics/isomorphic_data_demonstration)**  
+In this logic lab: What is isomorphic? Corresponding or similar in form and relations across scale. The isomorphic lens aids understanding by mapping similar structures across contexts for clearer insights, proves useful for transferring knowledge between structures, like in category theory, and enhances creative reasoning by identifying patterns across scales in complex systems. -->
 
 ## spinoza_lab Extensions:
 
