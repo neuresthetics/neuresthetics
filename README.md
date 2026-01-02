@@ -24,7 +24,7 @@ Tools and models for recursive hardening of ideas through structured dialectical
 <!-- 🌐 **[isomorphic_data_demonstration](https://github.com/neuresthetics/isomorphic_data_demonstration)**  
 In this logic lab: What is isomorphic? Corresponding or similar in form and relations across scale. The isomorphic lens aids understanding by mapping similar structures across contexts for clearer insights, proves useful for transferring knowledge between structures, like in category theory, and enhances creative reasoning by identifying patterns across scales in complex systems. -->
 
-## spinoza_lab Extensions:
+## spinoza_lab Adventures:
 
 🔢 **[riemann_hypothesis](https://github.com/neuresthetics/riemann_hypothesis)**  
 From first principles: The Riemann Hypothesis (RH) posits that all non-trivial zeros of the zeta function lie on Re(s) = 1/2. This tree organizes the heuristic synthesis from the documents into a deductive-like structure, starting from irreducible axioms (zeta properties, primes, etc.), branching through propositions (pathways like spectral, Langlands), derivations (unifications, convergences), and culminating in the fixed-point conclusion.
