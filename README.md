@@ -29,19 +29,19 @@ BEGINNER FRIENDLY OPEN SOURCE An Aristotelian entelechy prompt in thestyle of G�
 The following repos are problem domain specific evolutions of neuresthetics powered spinoza_lab using architecture similar to or evolved from "seed".
 
 🔢 **[riemann_hypothesis](https://github.com/neuresthetics/riemann_hypothesis)**  
-From first principles: The Riemann Hypothesis (RH) posits that all non-trivial zeros of the zeta function lie on Re(s) = 1/2. This tree organizes the heuristic synthesis from the documents into a deductive-like structure, starting from irreducible axioms (zeta properties, primes, etc.), branching through propositions (pathways like spectral, Langlands), derivations (unifications, convergences), and culminating in the fixed-point conclusion.
+Today on, learning to do things by trying things you think you cannot do.This tree organizes the heuristic synthesis from the documents into a deductive-like structure, starting from irreducible axioms (zeta properties, primes, etc.), branching through propositions (pathways like spectral, Langlands), derivations (unifications, convergences), and culminating in the fixed-point conclusion.
 
 💊 **[alzheimer's disease: amyloid_aggregation_insights](https://github.com/neuresthetics/AmyloidAggregationInsights)**  
 Application of the multi-scale isomorphic framework to amyloid aggregation dynamics.
 
-🧬 **[rapid_protein_folding_pathways](https://github.com/neuresthetics/Rapid-Protein-Folding-Pathways)**  
+🐉 **[rapid_protein_folding_pathways](https://github.com/neuresthetics/Rapid-Protein-Folding-Pathways)**  
 Comprehensive suite for analyzing and simulating rapid protein folding pathways.
 
 🧬 **[alzheimer's disease: multidimensional_DNA_analysis](https://github.com/neuresthetics/multidimensional_DNA_analysis)**    
 Framework for advancing Alzheimer's disease risk prediction through multidimensional DNA analysis.
 
-💡 **[theory_of_everything_so_far: "collision mathematics"](https://github.com/neuresthetics/TOESF_theory_of_everything_so_far)**     
-Today on, learning to do things by trying things you cannot do. Tinkering with "seed" like prompting in the axiomatic breakdown and buildup of the laws of nature.
+💡 **[theory_of_everything_so_far: Emergent Gravity from Statistical Manifolds Framework](https://github.com/neuresthetics/TOESF_theory_of_everything_so_far)**     
+Today on, learning to do things by trying things you think you cannot do.
 
 
 ---
