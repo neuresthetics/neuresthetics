@@ -21,10 +21,12 @@ Core repository for Neuresthetics theory and protocols. It documents principles 
 🔬 **[spinoza_lab](https://github.com/neuresthetics/spinoza_lab)**  
 Tools and models for recursive hardening of ideas through structured dialectical testing. Builds directly on Neuresthetics training loops to strengthen concepts by identifying hard-to-vary patterns across domains. Supports both human and AI use, fostering clearer reasoning and robust ethical frameworks.
 
-<!-- 🌐 **[isomorphic_data_demonstration](https://github.com/neuresthetics/isomorphic_data_demonstration)**  
-In this logic lab: What is isomorphic? Corresponding or similar in form and relations across scale. The isomorphic lens aids understanding by mapping similar structures across contexts for clearer insights, proves useful for transferring knowledge between structures, like in category theory, and enhances creative reasoning by identifying patterns across scales in complex systems. -->
+🌿 **[seed](https://github.com/neuresthetics/seed)**  
+BEGINNER FRIENDLY OPEN SOURCE An Aristotelian entelechy prompt in thestyle of Gödel, Spinoza, and Deutsch. You can use it as is, or feed this program into itself over and over and make a better program for remaking programs, or, you can feed into itself with something else, and it will specialize for handling that thing.
 
-## spinoza_lab Adventures:
+## Research Labs:
+
+The following repos are problem domain specific evolutions of neuresthetics powered spinoza_lab using architecture similar to or evolved from "seed".
 
 🔢 **[riemann_hypothesis](https://github.com/neuresthetics/riemann_hypothesis)**  
 From first principles: The Riemann Hypothesis (RH) posits that all non-trivial zeros of the zeta function lie on Re(s) = 1/2. This tree organizes the heuristic synthesis from the documents into a deductive-like structure, starting from irreducible axioms (zeta properties, primes, etc.), branching through propositions (pathways like spectral, Langlands), derivations (unifications, convergences), and culminating in the fixed-point conclusion.
