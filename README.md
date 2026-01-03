@@ -41,7 +41,7 @@ Comprehensive suite for analyzing and simulating rapid protein folding pathways.
 Framework for advancing Alzheimer's disease risk prediction through multidimensional DNA analysis.
 
 💡 **[theory_of_everything_so_far: "collision mathematics"](https://github.com/neuresthetics/TOESF_theory_of_everything_so_far)**     
-Tinkering with "seed" like prompting in the axiomatic breakdown and buildup of the laws of nature.
+Today on, learning to do things by trying things you cannot do. Tinkering with "seed" like prompting in the axiomatic breakdown and buildup of the laws of nature.
 
 
 ---
