@@ -18,6 +18,7 @@ The design pattern is a loop: **consuming objective data → guiding subjective 
 | **[NEUR-V6-DATA](https://github.com/neuresthetics/NEUR-V6-DATA)** | Core theory repository. | Protocols for reducing structural bottlenecks & improving cognitive coherence. |
 | **[spinoza_lab](https://github.com/neuresthetics/spinoza_lab)** | Recursive idea-hardening tools. | Structured dialectical testing to build robust, cross-domain concepts. |
 | **[seed](https://github.com/neuresthetics/seed)** | **BEGINNER FRIENDLY** - Entelechy prompt. | A self-improving AI program that can be fed any problem to specialize. |
+<!-- | **[steel_man_collider_s.e.](https://github.com/neuresthetics)** | core engine from seed  | scorched_earth_pipeline modular SMC from seed | -->
 
 ### Applied Research Labs
 *Problem-specific evolutions of the core framework.*
@@ -28,6 +29,7 @@ The design pattern is a loop: **consuming objective data → guiding subjective 
 | **[multidimensional_DNA_analysis](https://github.com/neuresthetics/multidimensional_DNA_analysis)** | Genomics | Framework for Alzheimer's disease risk prediction. |
 | **[Rapid-Protein-Folding-Pathways](https://github.com/neuresthetics/Rapid-Protein-Folding-Pathways)** | Biophysics | Simulation suite for analyzing protein folding. |
 | **[TOESF_theory_of_everything_so_far](https://github.com/neuresthetics/TOESF_theory_of_everything_so_far)** | Theoretical Physics | Emergent Gravity from Statistical Manifolds. |
+| **[sprouts](https://github.com/neuresthetics/sprouts)** | Seed branches. | A semi organized, semi documented, evolution of experiments. |
 
 ---
 *An intelligent hiring manager will see a candidate who doesn't just solve problems, but redesigns the problem-solving apparatus itself.*
