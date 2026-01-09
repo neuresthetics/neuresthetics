@@ -16,9 +16,9 @@ The design pattern is a loop: **consuming objective data → guiding subjective 
 | Project | Purpose | Key Concept |
 | :--- | :--- | :--- |
 | **[NEUR-V6-DATA](https://github.com/neuresthetics/NEUR-V6-DATA)** | Core theory repository. | Protocols for reducing structural bottlenecks & improving cognitive coherence. |
-| **[spinoza_lab](https://github.com/neuresthetics/spinoza_lab)** | Recursive idea-hardening tools. | Structured dialectical testing to build robust, cross-domain concepts. |
+| **[spinoza_lab](https://github.com/neuresthetics/spinoza_lab)** | Recursive idea-hardening tool experiments. | Structured dialectical testing to build robust, cross-domain concepts. |
 | **[seed](https://github.com/neuresthetics/seed)** | **BEGINNER FRIENDLY** - Entelechy prompt. | A self-improving AI program that can be fed any problem to specialize. |
-<!-- | **[steel_man_collider_s.e.](https://github.com/neuresthetics)** | core engine from seed  | scorched_earth_pipeline modular SMC from seed | -->
+| **[steel_man_collider_s.e.](https://github.com/neuresthetics)** | engine evolution from seed  | Steel Man SE: Recursive Axiomatic Steel Man Processing Framework with scorched_eath hallucination handling. |
 
 ### Applied Research Labs
 *Problem-specific evolutions of the core framework.*
