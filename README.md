@@ -84,7 +84,7 @@ This is where the system became **mechanical and iterative**.
 
 ---
 
-# **🧭 4. grokAlign — First Resonance Operator** 
+# **🧭 4. grokΛlign — First Resonance Operator** 
 
 (Repo link intentionally commented out)
 
