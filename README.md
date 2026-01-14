@@ -84,7 +84,7 @@ This is where the system became **mechanical and iterative**.
 
 ---
 
-# **🧭 4. grokΛlign — First Resonance Operator** 
+# **🧭 4. grokΛlign — Resonance Operator Experiment** 
 
 (Repo link intentionally commented out)
 
@@ -121,6 +121,7 @@ Inspired by Spinoza’s geometric method, this phase produced:
 - the first geometric logic structure  
 - the first structured steel‑man literal  
 - the first proto‑DSL for reasoning  
+- the "isomorphic method"
 
 This is where reasoning became **axiomatic, structured, and auditable**.
 
