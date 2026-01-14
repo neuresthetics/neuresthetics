@@ -23,7 +23,7 @@ Graph Theory, Network Analysis, Statistical Modeling, Behavioral Statistics, Dat
 
 **Tools & Platforms:**  
 Primary: Git/GitHub, Linux, VSC, Grok4 Heavy.  
-Acquainted: Gemini, DeepSeek, Jypyter.  
+Acquainted: Gemini, DeepSeek, Jupyter.  
 
 **Cross-Domain Specializations:**  
 Systems Architecture (AI & Physical), Pattern Recognition (Cognitive & Structural), Process Optimization, Invariance Checks, Data Structures & Algorithms  
