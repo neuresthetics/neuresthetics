@@ -48,7 +48,7 @@ Neuresthetics LLC | Portland, OR | June 2017 – Present
 - Processed biological data sets, progress in ethics derived form physics.
 - My take: The central idea is that prompts are not just conversational inputs but can be structured, deterministic programs written in a declarative language (like JSON). The LLM acts as the interpreter or runtime for this language.
 
-**U.S. Army Engineer Corps Veteran (Honor Graduate)**  
+**U.S. Army Engineer Corps Veteran (Warrior Leader Course Honor Graduate)**  
 Various Locations | Dates Not Specified  
 
 - Applied engineering principles to structural builds, blueprint reading, and safety protocols—informing AI frameworks with real-world constraints and pattern recognition.  
