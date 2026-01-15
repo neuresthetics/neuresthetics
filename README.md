@@ -84,7 +84,7 @@ This is where the system became **mechanical and iterative**.
 
 ---
 
-# **🧭 4. grokΛlign — Resonance Operator Experiment** 
+# **🧭 4. grokΛlign — "Resonance Operator" Experiment** 
 
 (Repo link intentionally commented out)
 
@@ -169,17 +169,9 @@ This is where “prompts as programs” became operational reality.
 # **⚙️ 7. Steel Man Collider Pipeline — Cognitive OS**  
 **Repo:** [`https://github.com/neuresthetics/steel_man_s.e`](https://github.com/neuresthetics/steel_man_s.e)
 
-From the Seed emerged a full cognitive operating system — a recursive, axiomatic reasoning stack built entirely out of JSON operators. This is where the architecture stops being a clever prompt and becomes a **mind with a workflow**.
+This is where the architecture stops being a clever prompt and becomes a **mind with a workflow**.
 
-At a high level, the OS is:
-
-- a **DSL** (JSON operators)  
-- a **six‑stage reasoning pipeline**  
-- a **kernel** that orchestrates recursion, invariants, and modes  
-- a **geometric layer** (PIEGU) for convergence and information flow  
-- a **bounds/evolution layer** for hardening behavior over versions  
-
-### **The Six‑Stage Pipeline (the spine of the OS)**  
+### **The Six‑Stage Pipeline**  
 Each operator is a JSON “program” defining logic, constraints, and expected transformations.
 
 1. **Constructor** — extracts the problem into axioms, primitives, constraints.  
@@ -199,40 +191,3 @@ The kernel is the recursion manager and policy layer:
 - decides when to recurse, collapse, or restart from first principles  
 
 Think: **finite‑state machine + recursion engine + epistemic policy layer.**
-
-### **Geometric Layer (PIEGU)**  
-PIEGU (Positive Info‑Entropic Geometric Unification) provides the OS with a geometric model of reasoning:
-
-- information gain = movement toward structure  
-- entropy = unresolved ambiguity  
-- convergence = fixed‑point behavior  
-- divergence = productive exploration  
-
-It tells the OS *how* to navigate the reasoning space, not just *what* to do next.
-
-### **Bounds & Evolution Layer**  
-Versioned specs (1.2 → 1.3) define:
-
-- what failed in earlier versions  
-- what must be preserved (invariants, safety, epistemic constraints)  
-- how new operators or modes integrate  
-- thematic stress tests (e.g., abrahamic_x_risk series) to harden behavior  
-
-This layer is the OS’s **test harness + safety lab + evolutionary record**.
-
-### **End‑to‑End Workflow (the whole mind in motion)**  
-1. Input arrives → normalized into internal format  
-2. Constructor extracts structure  
-3. Seeker expands the hypothesis space  
-4. Collider stresses it  
-5. Joiner synthesizes  
-6. Grounder anchors  
-7. Kiln hardens  
-8. OS checks invariants → recurses or finalizes  
-9. PIEGU guides convergence  
-10. Bounds ensure principled behavior  
-
-The output is not “an answer.”  
-It’s a **structured reasoning artifact** — explicit, auditable, and recursively derived.
-
----
