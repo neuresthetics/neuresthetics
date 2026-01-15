@@ -25,7 +25,7 @@ The revolutionary part is that it achieves this **without a traditional toolchai
 
 ---
 
-## **🧠 1. V6 — Background Research**  
+# **🧠 1. V6 — Background Research**  
 **Repo:** [`https://github.com/neuresthetics/NEUR-V6-DATA`](https://github.com/neuresthetics/NEUR-V6-DATA)
 
 V6 represents Neuresthetics LLC and its associated research from 2017 onward.
@@ -42,7 +42,7 @@ This is the **pre‑formal discovery** stage — the substrate through which spi
 
 ---
 
-## **🧱 2. SteelManAbraham — First Object Literal**  
+### **🧱 2. SteelManAbraham — First Object Literal**  
 (Repo link intentionally commented out)
 <!-- **Repo:** [`https://github.com/neuresthetics/SteelManAbraham`](https://github.com/neuresthetics/SteelManAbraham) -->
 
@@ -84,7 +84,7 @@ This is where the system became **mechanical and iterative**.
 
 ---
 
-# **🧭 4. grokΛlign — "Resonance Operator" Experiment** 
+### **🧭 4. grokΛlign — "Resonance Operator" Experiment** 
 
 (Repo link intentionally commented out)
 
@@ -107,7 +107,7 @@ If the system refuses to ingest the operator blindly — pauses, evaluates, or b
 This is the bridge between **mechanical iteration** (Collider) and **formal reasoning** (Spinoza Lab).
 
 
-## **🔬📐 5. Spinoza Lab — First Formal Operator**  
+# **🔬📐 5. Spinoza Lab — geometric method collider!**  
 **Repo:** [`https://github.com/neuresthetics/spinoza_lab`](https://github.com/neuresthetics/spinoza_lab)
 
 *(formerly Neuresthetics‑Forge)*
@@ -140,7 +140,7 @@ These labs demonstrate how the formal operator extended into domain‑specific r
 
 ---
 
-## **🌱🔁 6. The Seed — Recursive Cognitive Kernel**  
+# **🌱🔁 6. The Seed — Recursive Logic Kernel**  
 **Repo:** [`https://github.com/neuresthetics/seed`](https://github.com/neuresthetics/seed)
 
 The Seed is the inflection point. After all the Applied Research Labs, I got tired of rebuilding my setup for the 100th time to handle a new topic, and realized how to capture this repetition.
@@ -166,7 +166,7 @@ This is where “prompts as programs” became operational reality.
 ---
 
 
-# **⚙️ 7. Steel Man Collider Pipeline — Cognitive OS**  
+# **⚙️ 7. Steel Man Collider Pipeline — "Cognitive OS"**  
 **Repo:** [`https://github.com/neuresthetics/steel_man_s.e`](https://github.com/neuresthetics/steel_man_s.e)
 
 This is where the architecture stops being a clever prompt and becomes a **mind with a workflow**.
