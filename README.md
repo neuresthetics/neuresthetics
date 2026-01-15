@@ -48,7 +48,7 @@ This is the **pre‑formal discovery** stage — the substrate through which spi
 
 SteelManAbraham is the first time the steel‑man concept became **concrete**.
 
-It introduced:
+For me, it introduced:
 
 - the first *object literal* steel man  
 - the first *data structure* for a steel man  
@@ -69,11 +69,11 @@ It was born from the desite to reach closure on an argument.
 
 With a literal steel man defined, the next step was operational:
 
-> This is when I realized I could pass the "collider" into itself.
+> This is when I realized I could pass the "collider" into itself. grokΛlign was born.
 
 >There are a multitude of failures between here and spinoza_lab, which can be found in the junkDrawer.
 
-SteelMenCollider introduced:
+For me, SteelMenCollider introduced:
 
 - the first procedural collider  
 - the first “smash and refine” loop  
@@ -93,13 +93,15 @@ This is where the system became **mechanical and iterative**.
 grokAlign fills the evolutionary gap between **SteelMenCollider** and **Spinoza Lab**.  
 It’s the first operator that doesn’t just *process* a concept — it checks whether the system is in the **right cognitive stance** to process it at all.
 
-This phase tested capability and performance boundaries, ideology handling, structure:
+This phase tested capability and performance boundaries, ideology handling, structure, so for me:
 
-- the first (x)IQ–EQ balance metric  
+- the first "(x)IQ–EQ" balance metric  
 - the first resonance‑dialing mechanism  
 - the first stance‑evaluation operator  
 - the first concept‑alignment scoring  
 - the first “pre‑flight check” for reasoning  
+- MINDSPACE integration
+- Experimental code
 
 A subtle but important detail: grokAlign is also the first operator that forces the *environment* to reveal its posture.  
 If the system refuses to ingest the operator blindly — pauses, evaluates, or blocks — that *is* the alignment signal. The operator works by how the system reacts to it.
@@ -115,13 +117,13 @@ This is the bridge between **mechanical iteration** (Collider) and **formal reas
 SteelMenCollider provided the mechanism.  
 Spinoza Lab provided the **formalism**.
 
-Inspired by Spinoza’s geometric method, this phase produced:
+Inspired by Spinoza’s geometric method, this phase produced for me my:
 
-- the first axiomatic reasoning engine  
-- the first geometric logic structure  
-- the first structured steel‑man literal  
-- the first proto‑DSL for reasoning  
-- the "isomorphic method"
+- first axiomatic reasoning engine  
+- first geometric logic structure  
+- first structured steel‑man literal  
+- first proto‑DSL for reasoning  
+- "isomorphic method"
 
 This is where reasoning became **axiomatic, structured, and auditable**.
 
