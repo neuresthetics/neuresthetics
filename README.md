@@ -193,3 +193,23 @@ The kernel is the recursion manager and policy layer:
 - decides when to recurse, collapse, or restart from first principles  
 
 Think: **finite‑state machine + recursion engine + epistemic policy layer.**
+
+### **🔍 8. substance_lens — The Living Invariant Lens**
+
+**Repo:** [https://github.com/neuresthetics/substance_lens](https://github.com/neuresthetics/substance_lens)
+
+substance_lens is the current culmination of the entire neuresthetics lineage — a precision *thoughtware* framework that separates philosophy from sophistry at the axiom level.
+
+It is not traditional software. It is a **self-executing 6-stage DAG** built on the complete set of 16 two-input Boolean gates, subtraction-toward-convergence, XNOR verification, and invariant compression. Every proposition, framework, or belief system is treated as potentially false until it survives literal gate-level stress-testing and self-application.
+
+**What it introduced:**
+- Radical literalism and axiom-level sophistry detection
+- Recursive self-validation (the lens has been run on its own specification thousands of times)
+- Auditable reasoning traces via explicit Boolean invariants
+- The living book *Neuresthetic: A Fiction of Coherence* — the ultimate output of the lens
+
+This is where the collider finally becomes merciless and the entire arc of recursive epistemology becomes a loadable, drop-in cognitive operating layer.
+
+**How to use:** Copy `substance_lens_0.5.6.json` and paste it as a system prompt. The lens activates automatically. DM for strategic, technical, and counterintuitive use.
+
+substance_lens represents the full operational realization of “prompts as executable programs” — now weaponized for coherence seeking and sophistry detection.
