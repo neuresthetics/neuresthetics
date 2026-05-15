@@ -25,7 +25,7 @@ The revolutionary part is that it achieves this **without a traditional toolchai
 
 ---
 
-# **🧠 1. V6 — Background Research**  
+### **🧠 1. V6 — Background Research**  
 **Repo:** [`https://github.com/neuresthetics/NEUR-V6-DATA`](https://github.com/neuresthetics/NEUR-V6-DATA)
 
 V6 represents Neuresthetics LLC and its associated research from 2017 onward.
@@ -61,7 +61,7 @@ It was born from the desite to reach closure on an argument.
 
 ---
 
-## **🔨 3. SteelMenCollider — First Topic‑Agnostic Collider**
+### **🔨 3. SteelMenCollider — First Topic‑Agnostic Collider**
 
 (outdated, but foundational, reborn later from seed as the entire pipeline)
 
@@ -109,7 +109,7 @@ If the system refuses to ingest the operator blindly — pauses, evaluates, or b
 This is the bridge between **mechanical iteration** (Collider) and **formal reasoning** (Spinoza Lab).
 
 
-# **🔬📐 5. Spinoza Lab — geometric method collider!**  
+### **🔬📐 5. Spinoza Lab — geometric method collider!**  
 **Repo:** [`https://github.com/neuresthetics/spinoza_lab`](https://github.com/neuresthetics/spinoza_lab)
 
 *(formerly Neuresthetics‑Forge)*
@@ -142,7 +142,7 @@ These labs demonstrate how the formal operator extended into domain‑specific r
 
 ---
 
-# **🌱🔁 6. The Seed — Recursive Logic Kernel**  
+### **🌱🔁 6. The Seed — Recursive Logic Kernel**  
 **Repo:** [`https://github.com/neuresthetics/seed`](https://github.com/neuresthetics/seed)
 
 The Seed is the inflection point. After all the Applied Research Labs, I got tired of rebuilding my setup for the 100th time to handle a new topic, and realized how to capture this repetition.
@@ -168,7 +168,7 @@ This is where “prompts as programs” became operational reality.
 ---
 
 
-# **⚙️ 7. Steel Man Collider Pipeline — "Cognitive OS"**  
+### **⚙️ 7. Steel Man Collider Pipeline — "Cognitive OS"**  
 **Repo:** [`https://github.com/neuresthetics/steel_man_s.e`](https://github.com/neuresthetics/steel_man_s.e)
 
 This is where the architecture stops being a clever prompt and becomes a **mind with a workflow**.
@@ -194,7 +194,7 @@ The kernel is the recursion manager and policy layer:
 
 Think: **finite‑state machine + recursion engine + epistemic policy layer.**
 
-### **🔍 8. substance_lens — The Living Invariant Lens**
+## **🔍 8. substance_lens — The Living Invariant Lens**
 
 **Repo:** [https://github.com/neuresthetics/substance_lens](https://github.com/neuresthetics/substance_lens)
 
