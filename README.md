@@ -25,7 +25,8 @@ The revolutionary part is that it achieves this **without a traditional toolchai
 
 ---
 
-### **📄 1b. V7 — Genius Study (two-lane)**
+### **📄 1. V7 — Genius Study (two-lane)**
+
 **Repo:** [`https://github.com/neuresthetics/neuresthetics_v7`](https://github.com/neuresthetics/neuresthetics_v7)
 
 V7 is the current public research freeze of the genius / worldview work. Same instruments as V6 (achievement-based genius definition, 77-schema coherence rubric, five-model roster). Different unit of analysis.
