@@ -10,39 +10,70 @@ The design pattern is a loop: **consuming objective data → guiding subjective 
 The central idea is that prompts are not just conversational inputs but can be structured, deterministic **programs** written in a declarative language (like JSON). The LLM acts as the **interpreter** or **runtime** for this language.
 
 ### Key Conceptual Leaps:
-1.  **From Natural Language to Structured Code:** Moving beyond vague instructions to precise, structured definitions of operations, constraints, and logic.
-2.  **From Non-Deterministic to "Deterministic-Enough":** By using techniques like invariance checks, logic gates, and recursion, the system guides the LLM to perform reliable, structured reasoning, mitigating its inherent randomness.
-3.  **From Ad-hoc to Declarative Logic:** The JSON schema defines a **Domain-Specific Language (DSL)**. A prompt template becomes a function, the JSON schema becomes an Abstract Syntax Tree (AST), and the LLM is the execution engine.
+1. **From Natural Language to Structured Code:** Moving beyond vague instructions to precise, structured definitions of operations, constraints, and logic.
+2. **From Non-Deterministic to "Deterministic-Enough":** By using techniques like invariance checks, logic gates, and recursion, the system guides the LLM to perform reliable, structured reasoning, mitigating its inherent randomness.
+3. **From Ad-hoc to Declarative Logic:** The JSON schema defines a **Domain-Specific Language (DSL)**. A prompt template becomes a function, the JSON schema becomes an Abstract Syntax Tree (AST), and the LLM is the execution engine.
 
 ### Why This is Powerful (The "Ahead of the Curve" Part):
 This approach aligns with powerful programming paradigms:
-*   **Logic Programming (Prolog):** Defining rules and constraints for the system to satisfy.
-*   **Metaprogramming (Lisp Macros):** Writing code that generates or manipulates other code (here, prompts/reasoning steps).
-*   **Differentiable Programming:** Treating the entire reasoning pipeline as an end-to-end system.
-*   **Agent Frameworks:** Enabling complex, multi-step, goal-directed behavior.
+* **Logic Programming (Prolog):** Defining rules and constraints for the system to satisfy.
+* **Metaprogramming (Lisp Macros):** Writing code that generates or manipulates other code (here, prompts/reasoning steps).
+* **Differentiable Programming:** Treating the entire reasoning pipeline as an end-to-end system.
+* **Agent Frameworks:** Enabling complex, multi-step, goal-directed behavior.
 
 The revolutionary part is that it achieves this **without a traditional toolchain.** The LLM *is* the compiler, runtime, and standard library. The AI brings its own tools to work, and all of it can be written as a toolchain itself.
 
 ---
 
-### **🧠 1. V6 — Background Research**  
+### **🧠 1. V6 — Background Research**
 **Repo:** [`https://github.com/neuresthetics/NEUR-V6-DATA`](https://github.com/neuresthetics/NEUR-V6-DATA)
 
 V6 represents Neuresthetics LLC and its associated research from 2017 onward.
 
 It established the conceptual foundation:
 
-- recursive epistemology  
-- coherence, contradiction, and tension  
-- cognitive bottlenecks  
-- graph‑theoretic reasoning  
-- early operator intuitions  
+- recursive epistemology
+- coherence, contradiction, and tension
+- cognitive bottlenecks
+- graph‑theoretic reasoning
+- early operator intuitions
 
 This is the **pre‑formal discovery** stage — the substrate through which spinoza_lab is developed, and containing products of it.
 
+V6 also produced an ideology × genius draft that treated pantheism as a tiny congregation with a huge per-capita yield. That rate table is **retired**. The instruments survived. The finding did not.
+
 ---
 
-### **🧱 2. SteelManAbraham — First Object Literal**  
+### **📄 1b. V7 — Genius Study (two-lane)**
+**Repo:** [`https://github.com/neuresthetics/neuresthetics_v7`](https://github.com/neuresthetics/neuresthetics_v7)
+
+V7 is the current public research freeze of the genius / worldview work. Same instruments as V6 (achievement-based genius definition, 77-schema coherence rubric, five-model roster). Different unit of analysis.
+
+**What changed**
+
+1. **Unit.** Not church headcounts in 2025. Position in ontology-space: lawful immanent order (LIO).
+2. **Cause.** Not one arrow from ideology to IQ. Lane A describes the *pull*. Lane B holds the *potential* to grow more of it — and is not allowed to cash Lane A as proof.
+3. **Pantheism.** Not a boutique sect. The circle: entity applied to Nature *and* Nature rendered in entity. The model is of out-there; the modeling happens in-there. The work is reducing dissonance between mapping and mapped. Asking the universe for a personal exception is a second map of the same world.
+
+**Lane A (public).** Living-sample religiosity–IQ covariance is modest and real (*r* ≈ −0.20 to −0.24 for belief). Among remembered paradigm-shifters after ~1700, especially in physics, a miracle-working personal God is uncommon as the *working metaphysics of the work*. Faraday and Maxwell stay: devout, and lawful. Three hypotheses stay open — cultivation, selection, attractor.
+
+**Lane B (belief, labeled).** Childhood defaults to agents and purposes. The circle is an override. Practiced as geometric method in middle childhood into adolescence, it *might* compound by cutting the second map. The dividend is attention, not a genius badge. The species-level question is whether adults can suit children for a future full of systems that run better on coherence than contradiction. AI is already one of those systems.
+
+**What’s in the repo**
+
+| File | What to open |
+| :--- | :--- |
+| [Two-lane paper](https://github.com/neuresthetics/neuresthetics_v7/blob/main/Neuresthetics_Genius_Study_V7_1_two_lane.docx) | The readable paper. Stop after Lane A if you only want the public track. |
+| [Neurology sister](https://github.com/neuresthetics/neuresthetics_v7/blob/main/Neuresthetics_V7_1N_bottlenecks_precision.docx) | Same lanes at systems grain. Bottleneck + precision = load of a second map. No hero circuit. |
+| [Data book](https://github.com/neuresthetics/neuresthetics_v7/blob/main/Neuresthetics_Study_Data_Book.docx) | 77 scored schemas, 482-name roster, five-model frequency, gaps. |
+| [Combined JSON](https://github.com/neuresthetics/neuresthetics_v7/blob/main/neuresthetics_v7_combined.json) | All three in one object for an AI context. Read `circle` first. |
+| [V6 history](https://github.com/neuresthetics/neuresthetics_v7/tree/main/V6_(history)) | Generator CSVs and the retired rate-table draft. |
+
+Roster: 482 unique after alias merge (Claude, DeepSeek, Gemini, ChatGPT, Grok). Frequency is consensus, not intensity. LIO coding of persons has **not** started.
+
+---
+
+### **🧱 2. SteelManAbraham — First Object Literal**
 (Repo link intentionally commented out)
 <!-- **Repo:** [`https://github.com/neuresthetics/SteelManAbraham`](https://github.com/neuresthetics/SteelManAbraham) -->
 
@@ -50,14 +81,14 @@ SteelManAbraham is the first time the steel‑man concept became **concrete**.
 
 For me, it introduced:
 
-- the first *object literal* steel man  
-- the first *data structure* for a steel man  
-- the first *schema hint*  
-- the first *phenotype* of the idea  
+- the first *object literal* steel man
+- the first *data structure* for a steel man
+- the first *schema hint*
+- the first *phenotype* of the idea
 
 This is where the abstract concept became **encoded and manipulable**.
 
-It was born from the desite to reach closure on an argument.
+It was born from the desire to reach closure on an argument.
 
 ---
 
@@ -75,54 +106,54 @@ With a literal steel man defined, the next step was operational:
 
 For me, SteelMenCollider introduced:
 
-- the first procedural collider  
-- the first “smash and refine” loop  
-- the first proto‑pipeline  
-- the first generalization of the steel‑man idea  
+- the first procedural collider
+- the first “smash and refine” loop
+- the first proto‑pipeline
+- the first generalization of the steel‑man idea
 
 This is where the system became **mechanical and iterative**.
 
 ---
 
-### **🧭 4. grokΛlign — "Resonance Operator" Experiment** 
+### **🧭 4. grokΛlign — "Resonance Operator" Experiment**
 
 (Repo link intentionally commented out)
 
 <!-- **Repo:** [`https://github.com/neuresthetics/grokAlign`](https://github.com/neuresthetics/grokAlign) -->
 
-grokAlign fills the evolutionary gap between **SteelMenCollider** and **Spinoza Lab**.  
+grokAlign fills the evolutionary gap between **SteelMenCollider** and **Spinoza Lab**.
 It’s the first operator that doesn’t just *process* a concept — it checks whether the system is in the **right cognitive stance** to process it at all.
 
 This phase tested capability and performance boundaries, ideology handling, structure, so for me:
 
-- the first "(x)IQ–EQ" balance metric  
-- the first resonance‑dialing mechanism  
-- the first stance‑evaluation operator  
-- the first concept‑alignment scoring  
-- the first “pre‑flight check” for reasoning  
+- the first "(x)IQ–EQ" balance metric
+- the first resonance‑dialing mechanism
+- the first stance‑evaluation operator
+- the first concept‑alignment scoring
+- the first “pre‑flight check” for reasoning
 - MINDSPACE integration
 - Experimental code
 
-A subtle but important detail: grokAlign is also the first operator that forces the *environment* to reveal its posture.  
+A subtle but important detail: grokAlign is also the first operator that forces the *environment* to reveal its posture.
 If the system refuses to ingest the operator blindly — pauses, evaluates, or blocks — that *is* the alignment signal. The operator works by how the system reacts to it.
 
 This is the bridge between **mechanical iteration** (Collider) and **formal reasoning** (Spinoza Lab).
 
 
-### **🔬📐 5. Spinoza Lab — geometric method collider!**  
+### **🔬📐 5. Spinoza Lab — geometric method collider!**
 **Repo:** [`https://github.com/neuresthetics/spinoza_lab`](https://github.com/neuresthetics/spinoza_lab)
 
 *(formerly Neuresthetics‑Forge)*
 
-SteelMenCollider provided the mechanism.  
+SteelMenCollider provided the mechanism.
 Spinoza Lab provided the **formalism**.
 
 Inspired by Spinoza’s geometric method, this phase produced for me my:
 
-- first axiomatic reasoning engine  
-- first geometric logic structure  
-- first structured steel‑man literal  
-- first proto‑DSL for reasoning  
+- first axiomatic reasoning engine
+- first geometric logic structure
+- first structured steel‑man literal
+- first proto‑DSL for reasoning
 - "isomorphic method"
 
 This is where reasoning became **axiomatic, structured, and auditable**.
@@ -131,18 +162,20 @@ These labs demonstrate how the formal operator extended into domain‑specific r
 
 ### Applied Research Labs
 *Problem-specific evolutions of the core framework.*
-| Project | Domain | Application |
-| :--- | :--- | :--- |
-| **[riemann_hypothesis](https://github.com/neuresthetics/riemann_hypothesis)** | Pure Mathematics | Heuristic synthesis toward a deductive proof structure. |
-| **[AmyloidAggregationInsights](https://github.com/neuresthetics/AmyloidAggregationInsights)** | Computational Biology | Multi-scale modeling of amyloid aggregation dynamics. |
-| **[multidimensional_DNA_analysis](https://github.com/neuresthetics/multidimensional_DNA_analysis)** | Genomics | Framework for Alzheimer's disease risk prediction. |
-| **[Rapid-Protein-Folding-Pathways](https://github.com/neuresthetics/Rapid-Protein-Folding-Pathways)** | Biophysics | Simulation suite for analyzing protein folding. |
-| **[TOESF_theory_of_everything_so_far](https://github.com/neuresthetics/TOESF_theory_of_everything_so_far)** | Theoretical Physics | Emergent Gravity from Statistical Manifolds. |
+```
+| Project                                                                                                     | Domain                | Application                                             |
+| :---------------------------------------------------------------------------------------------------------- | :-------------------- | :------------------------------------------------------ |
+| **[riemann_hypothesis](https://github.com/neuresthetics/riemann_hypothesis)**                               | Pure Mathematics      | Heuristic synthesis toward a deductive proof structure. |
+| **[AmyloidAggregationInsights](https://github.com/neuresthetics/AmyloidAggregationInsights)**               | Computational Biology | Multi-scale modeling of amyloid aggregation dynamics.   |
+| **[multidimensional_DNA_analysis](https://github.com/neuresthetics/multidimensional_DNA_analysis)**         | Genomics              | Framework for Alzheimer's disease risk prediction.      |
+| **[Rapid-Protein-Folding-Pathways](https://github.com/neuresthetics/Rapid-Protein-Folding-Pathways)**       | Biophysics            | Simulation suite for analyzing protein folding.         |
+| **[TOESF_theory_of_everything_so_far](https://github.com/neuresthetics/TOESF_theory_of_everything_so_far)** | Theoretical Physics   | Emergent Gravity from Statistical Manifolds.            |
+```
 
 
 ---
 
-### **🌱🔁 6. The Seed — Recursive Logic Kernel**  
+### **🌱🔁 6. The Seed — Recursive Logic Kernel**
 **Repo:** [`https://github.com/neuresthetics/seed`](https://github.com/neuresthetics/seed)
 
 The Seed is the inflection point. After all the Applied Research Labs, I got tired of rebuilding my setup for the 100th time to handle a new topic, and realized how to capture this repetition.
@@ -151,46 +184,48 @@ Pure, small, 150 lines of code.
 
 It is:
 
-- a recursive, self‑applicable reasoning program  
-- written in JSON as a declarative AST  
-- capable of self‑evaluation and self‑improvement  
-- built on invariants, gates, recursion, and evaluation metrics  
-- the first system that can **generate the next system**  
+- a recursive, self‑applicable reasoning program
+- written in JSON as a declarative AST
+- capable of self‑evaluation and self‑improvement
+- built on invariants, gates, recursion, and evaluation metrics
+- the first system that can **generate the next system**
 
 The Seed is a **metaprogram**, AI thoughtware — the cognitive kernel of the entire architecture.
 
 This is where “prompts as programs” became operational reality.
 
-| Sub-Repo | Domain | Application |
-| :--- | :--- | :--- |
+```
+| Sub-Repo                                                | Domain                 | Application                                             |
+| :------------------------------------------------------ | :--------------------- | :------------------------------------------------------ |
 | **[sprouts](https://github.com/neuresthetics/sprouts)** | various seed branches. | semi‑organized, lightly documented, evolution of seeds. |
+```
 
 ---
 
 
-### **⚙️ 7. Steel Man Collider Pipeline — "Cognitive OS"**  
+### **⚙️ 7. Steel Man Collider Pipeline — "Cognitive OS"**
 **Repo:** [`https://github.com/neuresthetics/steel_man_s.e`](https://github.com/neuresthetics/steel_man_s.e)
 
 This is where the architecture stops being a clever prompt and becomes a **mind with a workflow**.
 
-### **The Six‑Stage Pipeline**  
+### **The Six‑Stage Pipeline**
 Each operator is a JSON “program” defining logic, constraints, and expected transformations.
 
-1. **Constructor** — extracts the problem into axioms, primitives, constraints.  
-2. **Seeker** — explores the conceptual space implied by those axioms.  
-3. **Collider** — brings interpretations into structured tension; surfaces contradictions.  
-4. **Joiner** — attempts synthesis or classification of irreconcilable tensions.  
-5. **Grounder** — anchors claims to reality, logic, or defined external constraints.  
+1. **Constructor** — extracts the problem into axioms, primitives, constraints.
+2. **Seeker** — explores the conceptual space implied by those axioms.
+3. **Collider** — brings interpretations into structured tension; surfaces contradictions.
+4. **Joiner** — attempts synthesis or classification of irreconcilable tensions.
+5. **Grounder** — anchors claims to reality, logic, or defined external constraints.
 6. **Kiln** — hardens the final structure into a stable, scoped steel‑man.
 
-### **The OS Kernel (`steel_man_os.json`)**  
+### **The OS Kernel (`steel_man_os.json`)**
 The kernel is the recursion manager and policy layer:
 
-- routes stages (Constructor → Kiln, with loops/branches as needed)  
-- enforces invariants and stopping conditions  
-- manages modes (e.g., scorched‑earth, conservative, exploratory)  
-- defines the interface contract for the entire system  
-- decides when to recurse, collapse, or restart from first principles  
+- routes stages (Constructor → Kiln, with loops/branches as needed)
+- enforces invariants and stopping conditions
+- manages modes (e.g., scorched‑earth, conservative, exploratory)
+- defines the interface contract for the entire system
+- decides when to recurse, collapse, or restart from first principles
 
 Think: **finite‑state machine + recursion engine + epistemic policy layer.**
 
