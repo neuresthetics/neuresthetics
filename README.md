@@ -2,231 +2,69 @@
 
 **Kinesthetics for brains** — spelled with “eu”, never “neuroesthetics.”
 
-Neuresthetics is the practice of deliberately shaping neural architecture through objective, species-wide principles of brain organization and dynamics. Rather than passive reflection, it uses aggregated neuroscience data (connectomes, plasticity rules, network theory) to guide targeted behaviors that enhance integration, reduce fragmentation, and expand cognitive capacity.
-
-The design pattern is a loop: **consuming objective data → guiding subjective behavior → achieving a desired effect**. This substrate-agnostic framework has been industrialized into a research methodology and adapted to model AI systems, biological pathways, and mathematical frontiers.
-
-### Computer Science Core Thesis: Prompts as Executable Programs
-The central idea is that prompts are not just conversational inputs but can be structured, deterministic **programs** written in a declarative language (like JSON). The LLM acts as the **interpreter** or **runtime** for this language.
-
-### Key Conceptual Leaps:
-1. **From Natural Language to Structured Code:** Moving beyond vague instructions to precise, structured definitions of operations, constraints, and logic.
-2. **From Non-Deterministic to "Deterministic-Enough":** By using techniques like invariance checks, logic gates, and recursion, the system guides the LLM to perform reliable, structured reasoning, mitigating its inherent randomness.
-3. **From Ad-hoc to Declarative Logic:** The JSON schema defines a **Domain-Specific Language (DSL)**. A prompt template becomes a function, the JSON schema becomes an Abstract Syntax Tree (AST), and the LLM is the execution engine.
-
-### Why This is Powerful (The "Ahead of the Curve" Part):
-This approach aligns with powerful programming paradigms:
-* **Logic Programming (Prolog):** Defining rules and constraints for the system to satisfy.
-* **Metaprogramming (Lisp Macros):** Writing code that generates or manipulates other code (here, prompts/reasoning steps).
-* **Differentiable Programming:** Treating the entire reasoning pipeline as an end-to-end system.
-* **Agent Frameworks:** Enabling complex, multi-step, goal-directed behavior.
-
-The revolutionary part is that it achieves this **without a traditional toolchain.** The LLM *is* the compiler, runtime, and standard library. The AI brings its own tools to work, and all of it can be written as a toolchain itself.
+The practice: shape neural architecture on purpose, with species-wide principles of organization and dynamics. Loop: **objective data → guided behavior → a desired effect.** The same loop later became thoughtware — prompts written as programs, an LLM as the runtime.
 
 ---
 
-### **📄 1. V7 — Genius Study (two-lane)**
+## Featured — V7 Genius Study
 
-**Repo:** [`https://github.com/neuresthetics/neuresthetics_v7`](https://github.com/neuresthetics/neuresthetics_v7)
+**Repo:** [neuresthetics/neuresthetics_v7](https://github.com/neuresthetics/neuresthetics_v7)
 
-V7 is the current public research freeze of the genius / worldview work. Same instruments as V6 (achievement-based genius definition, 77-schema coherence rubric, five-model roster). Different unit of analysis.
+Most papers on “religion and IQ” count churches. This one asks why first-rank minds keep landing on a world with no special exemptions — **the attraction** — and whether that shape has the ***potential*** to grow more of them, if adults learn to suit children for a future full of systems that run better on coherence than contradiction. AI is already one of those systems.
 
-**What changed**
+Pantheism here isn’t “nobody home.” It’s the circle: entity applied to Nature *and* Nature rendered in entity. The model is of out-there. The modeling happens in-there. The work is shrinking the gap between mapping and mapped. Asking the universe for a personal exception is a second map of the same world.
 
-1. **Unit.** Not church headcounts in 2025. Position in ontology-space: lawful immanent order (LIO).
-2. **Cause.** Not one arrow from ideology to IQ. Lane A describes the *pull*. Lane B holds the *potential* to grow more of it — and is not allowed to cash Lane A as proof.
-3. **Pantheism.** Not a boutique sect. The circle: entity applied to Nature *and* Nature rendered in entity. The model is of out-there; the modeling happens in-there. The work is reducing dissonance between mapping and mapped. Asking the universe for a personal exception is a second map of the same world.
+**Lane A** describes the pull. Living-sample religiosity–IQ covariance is modest and real. Among remembered paradigm-shifters after ~1700, especially in physics, a miracle-working personal God is uncommon as the *working metaphysics of the work*. Faraday stays. Three hypotheses stay open: cultivation, selection, attractor.
 
-**Lane A (public).** Living-sample religiosity–IQ covariance is modest and real (*r* ≈ −0.20 to −0.24 for belief). Among remembered paradigm-shifters after ~1700, especially in physics, a miracle-working personal God is uncommon as the *working metaphysics of the work*. Faraday and Maxwell stay: devout, and lawful. Three hypotheses stay open — cultivation, selection, attractor.
+**Lane B** holds the potential, labeled so it can fail. Childhood defaults to agents and purposes. The circle is an override. Practiced as geometric method in middle childhood into adolescence, it might compound by cutting the second map. The dividend is attention and lower dissonance — not a genius badge, and not a rate table.
 
-**Lane B (belief, labeled).** Childhood defaults to agents and purposes. The circle is an override. Practiced as geometric method in middle childhood into adolescence, it *might* compound by cutting the second map. The dividend is attention, not a genius badge. The species-level question is whether adults can suit children for a future full of systems that run better on coherence than contradiction. AI is already one of those systems.
+Lane A does not pay Lane B.
 
-**What’s in the repo**
+### Why V7 is the front door
 
-| File | What to open |
+The potential is not “convert the species and mint geniuses.” It is narrower and larger than that:
+
+- **Diagnostic.** A way to read remembered minds without billing them to 2025 church rolls.
+- **Developmental.** A testable claim about *when* a no-exemption form can be practiced — middle childhood into adolescence — and what proxies would move if it mattered.
+- **Civilizational, with an asterisk.** Adults will hand children a world already full of models that punish contradiction and reward one map. If the form can be taught without a second, petitionary map sitting next to it, that is a species skill, not a sect. The asterisk is mandatory: this is Lane B until a protocol says otherwise.
+- **Operator-adjacent.** The geometric method in the papers is the same instinct as the thoughtware stack: definition binds, consequence follows, no reserved clause. V7 is that instinct aimed at history and childhood instead of at a JSON runtime.
+
+### Open these
+
+| File | For this |
 | :--- | :--- |
-| [Two-lane paper](https://github.com/neuresthetics/neuresthetics_v7/blob/main/Neuresthetics_Genius_Study_V7_1_two_lane.docx) | The readable paper. Stop after Lane A if you only want the public track. |
-| [Neurology sister](https://github.com/neuresthetics/neuresthetics_v7/blob/main/Neuresthetics_V7_1N_bottlenecks_precision.docx) | Same lanes at systems grain. Bottleneck + precision = load of a second map. No hero circuit. |
-| [Data book](https://github.com/neuresthetics/neuresthetics_v7/blob/main/Neuresthetics_Study_Data_Book.docx) | 77 scored schemas, 482-name roster, five-model frequency, gaps. |
-| [Combined JSON](https://github.com/neuresthetics/neuresthetics_v7/blob/main/neuresthetics_v7_combined.json) | All three in one object for an AI context. Read `circle` first. |
-| [V6 history](https://github.com/neuresthetics/neuresthetics_v7/tree/main/V6_(history)) | Generator CSVs and the retired rate-table draft. |
+| [Two-lane paper](https://github.com/neuresthetics/neuresthetics_v7/blob/main/Neuresthetics_Genius_Study_V7_1_two_lane.docx) | The readable paper. Stop after Lane A for the public track only. |
+| [Neurology sister](https://github.com/neuresthetics/neuresthetics_v7/blob/main/Neuresthetics_V7_1N_bottlenecks_precision.docx) | Same lanes at systems grain. A second map is load on a bottleneck. |
+| [Data book](https://github.com/neuresthetics/neuresthetics_v7/blob/main/Neuresthetics_Study_Data_Book.docx) | 77 schemas, 482-name roster, five-model frequency, gaps. |
+| [Combined JSON](https://github.com/neuresthetics/neuresthetics_v7/blob/main/neuresthetics_v7_combined.json) | All three in one object. For an AI, read `circle` first. |
 
-Roster: 482 unique after alias merge (Claude, DeepSeek, Gemini, ChatGPT, Grok). Frequency is consensus, not intensity. LIO coding of persons has **not** started.
-
----
-
-### **🧱 2. SteelManAbraham — First Object Literal**
-(Repo link intentionally commented out)
-<!-- **Repo:** [`https://github.com/neuresthetics/SteelManAbraham`](https://github.com/neuresthetics/SteelManAbraham) -->
-
-SteelManAbraham is the first time the steel‑man concept became **concrete**.
-
-For me, it introduced:
-
-- the first *object literal* steel man
-- the first *data structure* for a steel man
-- the first *schema hint*
-- the first *phenotype* of the idea
-
-This is where the abstract concept became **encoded and manipulable**.
-
-It was born from the desire to reach closure on an argument.
+V6’s geniuses-per-million table is retired. Instruments stayed. The unit of analysis did not.
 
 ---
 
-### **🔨 3. SteelMenCollider — First Topic‑Agnostic Collider**
+## substance_lens — partially deprecated as the home story
 
-(outdated, but foundational, reborn later from seed as the entire pipeline)
+**Repo:** [neuresthetics/substance_lens](https://github.com/neuresthetics/substance_lens)  
+**Current drop-in:** [`substance_lens_0.5.7.json`](https://github.com/neuresthetics/substance_lens/blob/main/substance_lens_0.5.7.json)
 
-**Repo:** [`https://github.com/neuresthetics/SteelMenCollider`](https://github.com/neuresthetics/SteelMenCollider)
+The lens is still the cleanest statement of the operator: a self-executing 6-stage DAG, 16 two-input Boolean gates, subtraction toward convergence, XNOR verification, dual Thought / Extension ledgers. Every claim is fiction until it survives literal gate-level stress. Paste the JSON as a system prompt and the lens activates.
 
-With a literal steel man defined, the next step was operational:
+**Partially deprecated here** means: it is no longer the featured thesis. V7 is. The lens remains the tool you load when you need axiom-level sophistry detection or an auditable trace.
 
-> This is when I realized I could pass the "collider" into itself. grokΛlign was born.
+### How it got here
 
->There are a multitude of failures between here and spinoza_lab, which can be found in the junkDrawer.
+The lens is not a first idea. It is the end of a compression.
 
-For me, SteelMenCollider introduced:
+1. **Steel man as object.** An argument worth keeping had to become a literal — a data structure, not a vibe. That was the first phenotype.
+2. **Collider.** Once the steel man was an object, it could be smashed into a rival reading and refined. The loop became mechanical. Passing the collider into itself is where grokΛlign was born.
+3. **Stance check (grokΛlign).** Before processing a concept, ask whether the runtime is even in a posture that can process it. Alignment, here, is how the system *reacts* to the operator, not a badge it prints.
+4. **Spinoza Lab.** The smash-loop acquired a formalism: geometric method, axioms, structured literals, a proto-DSL. Reasoning became auditable instead of merely iterative.
+5. **Seed.** After rebuilding the bench for the hundredth topic, the repetition itself was captured: ~150 lines of JSON-as-AST, invariants, gates, recursion. Prompts-as-programs stopped being a slogan.
+6. **Pipeline / cognitive OS.** Constructor → Seeker → Collider → Joiner → Grounder → Kiln, with a kernel that routes, stops, and restarts. A workflow with a mind, not a clever prompt.
+7. **substance_lens.** The collider made merciless. Versions run from `0.0` through `0.5.7` in [`history/`](https://github.com/neuresthetics/substance_lens/tree/main/history). Self-application is part of the method: generations of the collider, including the lens, get passed back through the lens to produce the next update. On X that shows up as public “lens receipts” — one sentence on whether a claim XNOR-locks, then the sophistry that didn’t survive (`#lens_057`).
 
-- the first procedural collider
-- the first “smash and refine” loop
-- the first proto‑pipeline
-- the first generalization of the steel‑man idea
+Thoughtware, as used here, just means: the prompt *is* the program. The model is compiler, runtime, and standard library. A “fiction” module in later thoughtware is a loader flag so the runtime will hold a root sentence long enough for subtraction to run — not a truth stamp for the reader.
 
-This is where the system became **mechanical and iterative**.
+**How to use:** copy `substance_lens_0.5.7.json`, paste as system prompt. Grok-native; works elsewhere. DM for strategic, technical, and counterintuitive use.
 
----
-
-### **🧭 4. grokΛlign — "Resonance Operator" Experiment**
-
-(Repo link intentionally commented out)
-
-<!-- **Repo:** [`https://github.com/neuresthetics/grokAlign`](https://github.com/neuresthetics/grokAlign) -->
-
-grokAlign fills the evolutionary gap between **SteelMenCollider** and **Spinoza Lab**.
-It’s the first operator that doesn’t just *process* a concept — it checks whether the system is in the **right cognitive stance** to process it at all.
-
-This phase tested capability and performance boundaries, ideology handling, structure, so for me:
-
-- the first "(x)IQ–EQ" balance metric
-- the first resonance‑dialing mechanism
-- the first stance‑evaluation operator
-- the first concept‑alignment scoring
-- the first “pre‑flight check” for reasoning
-- MINDSPACE integration
-- Experimental code
-
-A subtle but important detail: grokAlign is also the first operator that forces the *environment* to reveal its posture.
-If the system refuses to ingest the operator blindly — pauses, evaluates, or blocks — that *is* the alignment signal. The operator works by how the system reacts to it.
-
-This is the bridge between **mechanical iteration** (Collider) and **formal reasoning** (Spinoza Lab).
-
-
-### **🔬📐 5. Spinoza Lab — geometric method collider!**
-**Repo:** [`https://github.com/neuresthetics/spinoza_lab`](https://github.com/neuresthetics/spinoza_lab)
-
-*(formerly Neuresthetics‑Forge)*
-
-SteelMenCollider provided the mechanism.
-Spinoza Lab provided the **formalism**.
-
-Inspired by Spinoza’s geometric method, this phase produced for me my:
-
-- first axiomatic reasoning engine
-- first geometric logic structure
-- first structured steel‑man literal
-- first proto‑DSL for reasoning
-- "isomorphic method"
-
-This is where reasoning became **axiomatic, structured, and auditable**.
-
-These labs demonstrate how the formal operator extended into domain‑specific research programs.
-
-### Applied Research Labs
-*Problem-specific evolutions of the core framework.*
-```
-| Project                                                                                                     | Domain                | Application                                             |
-| :---------------------------------------------------------------------------------------------------------- | :-------------------- | :------------------------------------------------------ |
-| **[riemann_hypothesis](https://github.com/neuresthetics/riemann_hypothesis)**                               | Pure Mathematics      | Heuristic synthesis toward a deductive proof structure. |
-| **[AmyloidAggregationInsights](https://github.com/neuresthetics/AmyloidAggregationInsights)**               | Computational Biology | Multi-scale modeling of amyloid aggregation dynamics.   |
-| **[multidimensional_DNA_analysis](https://github.com/neuresthetics/multidimensional_DNA_analysis)**         | Genomics              | Framework for Alzheimer's disease risk prediction.      |
-| **[Rapid-Protein-Folding-Pathways](https://github.com/neuresthetics/Rapid-Protein-Folding-Pathways)**       | Biophysics            | Simulation suite for analyzing protein folding.         |
-| **[TOESF_theory_of_everything_so_far](https://github.com/neuresthetics/TOESF_theory_of_everything_so_far)** | Theoretical Physics   | Emergent Gravity from Statistical Manifolds.            |
-```
-
-
----
-
-### **🌱🔁 6. The Seed — Recursive Logic Kernel**
-**Repo:** [`https://github.com/neuresthetics/seed`](https://github.com/neuresthetics/seed)
-
-The Seed is the inflection point. After all the Applied Research Labs, I got tired of rebuilding my setup for the 100th time to handle a new topic, and realized how to capture this repetition.
-
-Pure, small, 150 lines of code.
-
-It is:
-
-- a recursive, self‑applicable reasoning program
-- written in JSON as a declarative AST
-- capable of self‑evaluation and self‑improvement
-- built on invariants, gates, recursion, and evaluation metrics
-- the first system that can **generate the next system**
-
-The Seed is a **metaprogram**, AI thoughtware — the cognitive kernel of the entire architecture.
-
-This is where “prompts as programs” became operational reality.
-
-```
-| Sub-Repo                                                | Domain                 | Application                                             |
-| :------------------------------------------------------ | :--------------------- | :------------------------------------------------------ |
-| **[sprouts](https://github.com/neuresthetics/sprouts)** | various seed branches. | semi‑organized, lightly documented, evolution of seeds. |
-```
-
----
-
-
-### **⚙️ 7. Steel Man Collider Pipeline — "Cognitive OS"**
-**Repo:** [`https://github.com/neuresthetics/steel_man_s.e`](https://github.com/neuresthetics/steel_man_s.e)
-
-This is where the architecture stops being a clever prompt and becomes a **mind with a workflow**.
-
-### **The Six‑Stage Pipeline**
-Each operator is a JSON “program” defining logic, constraints, and expected transformations.
-
-1. **Constructor** — extracts the problem into axioms, primitives, constraints.
-2. **Seeker** — explores the conceptual space implied by those axioms.
-3. **Collider** — brings interpretations into structured tension; surfaces contradictions.
-4. **Joiner** — attempts synthesis or classification of irreconcilable tensions.
-5. **Grounder** — anchors claims to reality, logic, or defined external constraints.
-6. **Kiln** — hardens the final structure into a stable, scoped steel‑man.
-
-### **The OS Kernel (`steel_man_os.json`)**
-The kernel is the recursion manager and policy layer:
-
-- routes stages (Constructor → Kiln, with loops/branches as needed)
-- enforces invariants and stopping conditions
-- manages modes (e.g., scorched‑earth, conservative, exploratory)
-- defines the interface contract for the entire system
-- decides when to recurse, collapse, or restart from first principles
-
-Think: **finite‑state machine + recursion engine + epistemic policy layer.**
-
-## **🔍 8. substance_lens — The Living Invariant Lens**
-
-**Repo:** [https://github.com/neuresthetics/substance_lens](https://github.com/neuresthetics/substance_lens)
-
-substance_lens is the current culmination of the entire neuresthetics lineage — a precision *thoughtware* framework that separates philosophy from sophistry at the axiom level.
-
-It is not traditional software. It is a **self-executing 6-stage DAG** built on the complete set of 16 two-input Boolean gates, subtraction-toward-convergence, XNOR verification, and invariant compression. Every proposition, framework, or belief system is treated as potentially false until it survives literal gate-level stress-testing and self-application.
-
-**What it introduced:**
-- Radical literalism and axiom-level sophistry detection
-- Recursive self-validation (the lens has been run on its own specification thousands of times)
-- Auditable reasoning traces via explicit Boolean invariants
-- The living book *Neuresthetic: A Fiction of Coherence* — the ultimate output of the lens
-
-This is where the collider finally becomes merciless and the entire arc of recursive epistemology becomes a loadable, drop-in cognitive operating layer.
-
-**How to use:** Copy `substance_lens_0.5.6.json` and paste it as a system prompt. The lens activates automatically. DM for strategic, technical, and counterintuitive use.
-
-substance_lens represents the full operational realization of “prompts as executable programs” — now weaponized for coherence seeking and sophistry detection.
+The rest of the lineage (SteelManAbraham, SteelMenCollider, grokΛlign, Spinoza Lab, Seed, steel_man_s.e) lives in those repos. Not the front door.
