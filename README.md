@@ -25,25 +25,6 @@ The revolutionary part is that it achieves this **without a traditional toolchai
 
 ---
 
-### **🧠 1. V6 — Background Research**
-**Repo:** [`https://github.com/neuresthetics/NEUR-V6-DATA`](https://github.com/neuresthetics/NEUR-V6-DATA)
-
-V6 represents Neuresthetics LLC and its associated research from 2017 onward.
-
-It established the conceptual foundation:
-
-- recursive epistemology
-- coherence, contradiction, and tension
-- cognitive bottlenecks
-- graph‑theoretic reasoning
-- early operator intuitions
-
-This is the **pre‑formal discovery** stage — the substrate through which spinoza_lab is developed, and containing products of it.
-
-V6 also produced an ideology × genius draft that treated pantheism as a tiny congregation with a huge per-capita yield. That rate table is **retired**. The instruments survived. The finding did not.
-
----
-
 ### **📄 1b. V7 — Genius Study (two-lane)**
 **Repo:** [`https://github.com/neuresthetics/neuresthetics_v7`](https://github.com/neuresthetics/neuresthetics_v7)
 
