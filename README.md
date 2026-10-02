@@ -26,7 +26,7 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
 
 <table>
   <tr>
-    <td><a href="https://neuresthetics.github.io/restokit/"><img src="img/wide-restokit.jpg" width="100%" alt="RestoKit"></a></td>
+    <td><a href="https://neuresthetics.github.io/restokit/"><img src="img/wide-restokit-brand.jpg" width="100%" alt="The RestoKit logo, a sand house with a copper drying curve, on deep teal over a faint drying log"></a></td>
   </tr>
   <tr>
     <td>
@@ -74,14 +74,14 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
 
 <table>
   <tr>
-    <td><a href="https://github.com/neuresthetics/substance_lens"><img src="img/wide-substance-lens.jpg" width="100%" alt="A lens over an argument graph: surviving steps glow gold, cut steps are struck out with fallacy codes"></a></td>
+    <td><a href="https://neuresthetics.github.io/substance-lens/"><img src="img/wide-substance-lens.jpg" width="100%" alt="A lens over an argument graph: surviving steps glow gold, cut steps are struck out with fallacy codes"></a></td>
   </tr>
   <tr>
     <td>
-      <h3>🔍 <a href="https://github.com/neuresthetics/substance_lens">substance_lens</a></h3>
+      <h3>🔍 <a href="https://neuresthetics.github.io/substance-lens/">substance_lens</a></h3>
       A JSON prompt spec: paste it into a chat model, give it a claim, and it checks the argument step by step and scans both the claim and its strongest counter-case for 67 fallacies. Flags are judgments to verify, not proofs.<br><br>
       <sub>⚙️ <b>Runs on:</b> Any capable chat model · a prompt spec, built with Grok in mind; no code ships</sub><br>
-      📂 <a href="https://github.com/neuresthetics/substance_lens">repo</a>
+      🌐 <a href="https://neuresthetics.github.io/substance-lens/">page</a> · 📂 <a href="https://github.com/neuresthetics/substance_lens">repo</a>
     </td>
   </tr>
 </table>
@@ -122,14 +122,14 @@ The study, the book and split_load_sim are the three sides of the Neuresthetics 
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/neuresthetics/split_load_sim"><img src="img/short-split-load-sim.jpg" width="100%" alt="An exception_prior run from split_load_sim: a teal main map joined to an amber reserved map by one bottleneck edge"></a></td>
+    <td><a href="https://neuresthetics.github.io/split-load-sim/"><img src="img/short-split-load-sim.jpg" width="100%" alt="An exception_prior run from split_load_sim: a teal main map joined to an amber reserved map by one bottleneck edge"></a></td>
   </tr>
   <tr>
     <td>
-      <b>🧬 <a href="https://github.com/neuresthetics/split_load_sim">split_load_sim</a></b><br>
+      <b>🧬 <a href="https://neuresthetics.github.io/split-load-sim/">split_load_sim</a></b><br>
       <b>The bridge.</b> Graph-growth models that connect the study and the book, descended from <a href="https://github.com/neuresthetics/graphtacular">graphtacular</a> (2019). Model outputs, not findings.<br>
       <sub>⚙️ <b>Runs on:</b> No model · seeded Python graph models</sub><br>
-      <sub>📂 <a href="https://github.com/neuresthetics/split_load_sim">repo</a></sub>
+      <sub>🌐 <a href="https://neuresthetics.github.io/split-load-sim/">page</a> · 📂 <a href="https://github.com/neuresthetics/split_load_sim">repo</a></sub>
     </td>
   </tr>
 </table>
