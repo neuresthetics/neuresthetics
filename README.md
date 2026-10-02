@@ -71,4 +71,4 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
   <a href="https://neuresthetic.net"><img src="img/banner.jpg" width="100%" alt="Neuresthetics banner: a brain with light streaming out of it"></a>
 </p>
 
-<p align="center"><sub><i>Neuresthetics isn't brain art. We just use brain art anyway, because the brain photographs well.</i></sub></p>
+<p align="center"><sub><i>Neuresthetics isn't brain art. We just use brain art anyway, because it looks cool.</i></sub></p>
