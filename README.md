@@ -1,70 +1,89 @@
-# Neuresthetics
+<p align="center">
+  <a href="https://neuresthetic.net"><img src="img/banner.jpg" width="100%" alt="Neuresthetics banner: a brain with light streaming out of it"></a>
+</p>
 
-**Kinesthetics for brains** — spelled with “eu”, never “neuroesthetics.”
+<h1 align="center">🧠 Neuresthetics</h1>
 
-The practice: shape neural architecture on purpose, with species-wide principles of organization and dynamics. Loop: **objective data → guided behavior → a desired effect.** The same loop later became thoughtware — prompts written as programs, an LLM as the runtime.
+<p align="center">
+  <b>Jason Burns</b> · 📍 Portland, OR · 🌐 <a href="https://neuresthetic.net">neuresthetic.net</a>
+</p>
 
----
+<p align="center">
+  <a href="https://neuresthetic.net"><img src="https://img.shields.io/badge/neuresthetic.net-c9a227?style=for-the-badge&logo=googlechrome&logoColor=white" alt="neuresthetic.net"></a>
+  <img src="https://img.shields.io/badge/builder-tools_%2B_research-2d2d2d?style=for-the-badge" alt="builder: tools and research">
+  <img src="https://img.shields.io/badge/since-2017-3aa0ff?style=for-the-badge" alt="since 2017">
+</p>
 
-## Featured — V7 Genius Study
+> **Neuresthetics** is *kinesthetics for brains*: spelled with "eu," never "neuroesthetics." Plural, it's the practice: shaping how a mind is organized, on purpose. Singular, a **neuresthetic** is a result of that practice.
 
-**Repo:** [neuresthetics/neuresthetics_v7](https://github.com/neuresthetics/neuresthetics_v7)
+I build tools for people who work with their hands and their heads: 🛠️ field kits for restoration techs, 🗣️ a word board for kids learning to talk, and 📜 long-running research on how minds put order on the world. Neuresthetics started before AI. AI is one of the tools now, not the point.
 
-Most papers on “religion and IQ” count churches. This one asks why first-rank minds keep landing on a world with no special exemptions — **the attraction** — and whether that shape has the ***potential*** to grow more of them, if adults learn to suit children for a future full of systems that run better on coherence than contradiction. AI is already one of those systems.
+## 🚧 Projects
 
-Pantheism here isn’t “nobody home.” It’s the circle: entity applied to Nature *and* Nature rendered in entity. The model is of out-there. The modeling happens in-there. The work is shrinking the gap between mapping and mapped. Asking the universe for a personal exception is a second map of the same world.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://neuresthetics.github.io/restokit/"><img src="https://github.com/neuresthetics/resto_kit_public/raw/main/img/banner.jpg" width="100%" alt="RestoKit banner"></a>
+      <h3>💧 <a href="https://neuresthetics.github.io/restokit/">RestoKit</a></h3>
+      <img src="https://img.shields.io/badge/field_tool-water_·_mold_·_crawlspace-ff8a2a?style=flat-square" alt="field tool: water, mold, crawlspace"><br><br>
+      A voice-ready field kit for water, mold, and crawlspace restoration, grounded in IICRC S500 and S520. It holds the job flow and the rare edge cases so a tech doesn't have to.<br><br>
+      🔒 Full kit is private · <a href="https://github.com/neuresthetics/resto_kit_public">public repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://neuresthetics.github.io/anova/"><img src="https://github.com/neuresthetics/anova_language_dev_public/raw/main/docs/screenshots/landscape-1-home.png" width="100%" alt="ANOVA word board on a tablet"></a>
+      <h3>🗣️ <a href="https://neuresthetics.github.io/anova/">ANOVA Language</a></h3>
+      <img src="https://img.shields.io/badge/app-AAC_word_board-00bb55?style=flat-square" alt="app: AAC word board"> <img src="https://img.shields.io/badge/license-MIT-86bdff?style=flat-square" alt="MIT license"><br><br>
+      A free AAC word board for iPad and tablets. Buttons stay put, word levels grow, and it works offline. Plain HTML, CSS, and JavaScript.<br><br>
+      ▶️ <a href="https://neuresthetics.github.io/anova_language_dev_public/">Try the app</a> · <a href="https://github.com/neuresthetics/anova_language_dev_public">repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/neuresthetics/freedom_of_necessity"><img src="https://neuresthetics.github.io/assets/img/workbench.jpg" width="100%" alt="The workbench: monitors running the book's harness"></a>
+      <h3>📖 <a href="https://github.com/neuresthetics/freedom_of_necessity">Freedom of Necessity</a></h3>
+      <img src="https://img.shields.io/badge/book-axiom_by_axiom-d94fa3?style=flat-square" alt="book: axiom by axiom"><br><br>
+      A book written axiom by axiom, in the geometric style of Spinoza's Ethics, with a harness where a local model checks each entry against what it cites.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/neuresthetics/neuresthetics_v7"><img src="img/v7.jpg" width="100%" alt="Neuresthetics art: a glowing brain in a city of circuits"></a>
+      <h3>🔬 <a href="https://github.com/neuresthetics/neuresthetics_v7">V7 study</a></h3>
+      <img src="https://img.shields.io/badge/study-version_7-3aa0ff?style=flat-square" alt="study: version 7"><br><br>
+      The seventh version of the Neuresthetics study. Lane A describes what the public record shows. Lane B states a belief out loud and writes it so it can fail. Lane A doesn't depend on Lane B.
+    </td>
+  </tr>
+</table>
 
-**Lane A** describes the pull. Living-sample religiosity–IQ covariance is modest and real. Among remembered paradigm-shifters after ~1700, especially in physics, a miracle-working personal God is uncommon as the *working metaphysics of the work*. Faraday stays. Three hypotheses stay open: cultivation, selection, attractor.
+## 🧰 Smaller tools
 
-**Lane B** holds the potential, labeled so it can fail. Childhood defaults to agents and purposes. The circle is an override. Practiced as geometric method in middle childhood into adolescence, it might compound by cutting the second map. The dividend is attention and lower dissonance — not a genius badge, and not a rate table.
+<table>
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <a href="https://github.com/neuresthetics/steel_man_s.e"><img src="https://github.com/neuresthetics/steel_man_s.e/raw/main/img/gold.png" width="100%" alt="Steel Man OS art"></a><br>
+      <b>⚙️ <a href="https://github.com/neuresthetics/steel_man_s.e">steel_man_s.e</a></b><br>
+      <sub>Rebuilds an argument into its strongest form, in stages.</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <a href="https://github.com/neuresthetics/seed"><img src="https://github.com/neuresthetics/seed/raw/main/img/seed.png" width="100%" alt="Seed art: glowing leaves"></a><br>
+      <b>🌱 <a href="https://github.com/neuresthetics/seed">seed</a></b><br>
+      <sub>A small JSON kernel that builds a reasoning framework for any topic.</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <a href="https://github.com/neuresthetics/graphtacular"><img src="https://github.com/neuresthetics/graphtacular/raw/master/assets/FlowerFractal.JPG" width="100%" alt="Graphtacular: a flower fractal graph"></a><br>
+      <b>🌸 <a href="https://github.com/neuresthetics/graphtacular">graphtacular</a></b><br>
+      <sub>A C# graph engine where each vertex runs its own instructions. Built before AI.</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <h1>🔍</h1>
+      <b><a href="https://github.com/neuresthetics/substance_lens">substance_lens</a></b><br>
+      <sub>A JSON framework for AI chats. Every claim is unproven until it passes the logic-gate checks.</sub>
+    </td>
+  </tr>
+</table>
 
-Lane A does not pay Lane B.
+## 🪖 Background
 
-### Why V7 is the front door
+Army veteran with a background in carpentry and restoration.
 
-The potential is not “convert the species and mint geniuses.” It is narrower and larger than that:
-
-- **Diagnostic.** A way to read remembered minds without billing them to 2025 church rolls.
-- **Developmental.** A testable claim about *when* a no-exemption form can be practiced — middle childhood into adolescence — and what proxies would move if it mattered.
-- **Civilizational, with an asterisk.** Adults will hand children a world already full of models that punish contradiction and reward one map. If the form can be taught without a second, petitionary map sitting next to it, that is a species skill, not a sect. The asterisk is mandatory: this is Lane B until a protocol says otherwise.
-- **Operator-adjacent.** The geometric method in the papers is the same instinct as the thoughtware stack: definition binds, consequence follows, no reserved clause. V7 is that instinct aimed at history and childhood instead of at a JSON runtime.
-
-### Open these
-
-| File | For this |
-| :--- | :--- |
-| [Two-lane paper](https://github.com/neuresthetics/neuresthetics_v7/blob/main/Neuresthetics_Genius_Study_V7_1_two_lane.docx) | The readable paper. Stop after Lane A for the public track only. |
-| [Neurology sister](https://github.com/neuresthetics/neuresthetics_v7/blob/main/Neuresthetics_V7_1N_bottlenecks_precision.docx) | Same lanes at systems grain. A second map is load on a bottleneck. |
-| [Data book](https://github.com/neuresthetics/neuresthetics_v7/blob/main/Neuresthetics_Study_Data_Book.docx) | 77 schemas, 482-name roster, five-model frequency, gaps. |
-| [Combined JSON](https://github.com/neuresthetics/neuresthetics_v7/blob/main/neuresthetics_v7_combined.json) | All three in one object. For an AI, read `circle` first. |
-
-V6’s geniuses-per-million table is retired. Instruments stayed. The unit of analysis did not.
-
----
-
-## substance_lens — partially deprecated as the home story
-
-**Repo:** [neuresthetics/substance_lens](https://github.com/neuresthetics/substance_lens)  
-**Current drop-in:** [`substance_lens_0.5.7.json`](https://github.com/neuresthetics/substance_lens/blob/main/substance_lens_0.5.7.json)
-
-The lens is still the cleanest statement of the operator: a self-executing 6-stage DAG, 16 two-input Boolean gates, subtraction toward convergence, XNOR verification, dual Thought / Extension ledgers. Every claim is fiction until it survives literal gate-level stress. Paste the JSON as a system prompt and the lens activates.
-
-**Partially deprecated here** means: it is no longer the featured thesis. V7 is. The lens remains the tool you load when you need axiom-level sophistry detection or an auditable trace.
-
-### How it got here
-
-The lens is not a first idea. It is the end of a compression.
-
-1. **Steel man as object.** An argument worth keeping had to become a literal — a data structure, not a vibe. That was the first phenotype.
-2. **Collider.** Once the steel man was an object, it could be smashed into a rival reading and refined. The loop became mechanical. Passing the collider into itself is where grokΛlign was born.
-3. **Stance check (grokΛlign).** Before processing a concept, ask whether the runtime is even in a posture that can process it. Alignment, here, is how the system *reacts* to the operator, not a badge it prints.
-4. **Spinoza Lab.** The smash-loop acquired a formalism: geometric method, axioms, structured literals, a proto-DSL. Reasoning became auditable instead of merely iterative.
-5. **Seed.** After rebuilding the bench for the hundredth topic, the repetition itself was captured: ~150 lines of JSON-as-AST, invariants, gates, recursion. Prompts-as-programs stopped being a slogan.
-6. **Pipeline / cognitive OS.** Constructor → Seeker → Collider → Joiner → Grounder → Kiln, with a kernel that routes, stops, and restarts. A workflow with a mind, not a clever prompt.
-7. **substance_lens.** The collider made merciless. Versions run from `0.0` through `0.5.7` in [`history/`](https://github.com/neuresthetics/substance_lens/tree/main/history). Self-application is part of the method: generations of the collider, including the lens, get passed back through the lens to produce the next update. On X that shows up as public “lens receipts” — one sentence on whether a claim XNOR-locks, then the sophistry that didn’t survive (`#lens_057`).
-
-Thoughtware, as used here, just means: the prompt *is* the program. The model is compiler, runtime, and standard library. A “fiction” module in later thoughtware is a loader flag so the runtime will hold a root sentence long enough for subtraction to run — not a truth stamp for the reader.
-
-**How to use:** copy `substance_lens_0.5.7.json`, paste as system prompt. Grok-native; works elsewhere. DM for strategic, technical, and counterintuitive use.
-
-The rest of the lineage (SteelManAbraham, SteelMenCollider, grokΛlign, Spinoza Lab, Seed, steel_man_s.e) lives in those repos. Not the front door.
+<p align="center">
+  <a href="https://neuresthetic.net"><img src="https://img.shields.io/badge/🌐_neuresthetic.net-0a0a0a?style=for-the-badge" alt="neuresthetic.net"></a>
+</p>
