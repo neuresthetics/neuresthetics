@@ -14,6 +14,22 @@
 
 I build tools for people who work with their hands and their heads: 🛠️ field kits for restoration techs, 🗣️ a word board for kids learning to talk, and 📜 long-running research on how minds put order on the world. Neuresthetics started before AI. AI is one of the tools now, not the point.
 
+## ⚙️ How it's built
+
+**Local models.** A Linux tower with a 20 GB GPU and 64 GB RAM runs Ollama with Qwen 27B, in a standard and an uncensored build, at 16K context. A stock 14B is being added for model-swap runs. The tower works through unattended job queues, for days if needed, for an adversarial argument harness: the models draft the strongest case for each side, code checks every cite against word-for-word source excerpts, and runs are rescored and repeated across seeds and model swaps to see how much of a result comes from the model.
+
+**Grok.** Grok Bot (an xAI assistant) runs a set of project bots for coding, audits, writing support, and fetching the word-for-word sources those cite checks use.
+
+| Project | Runs on | For what |
+|---|---|---|
+| RestoKit | Commercial cloud models | The kit is a JSON file loaded into the Grok app or a Grok Bot. |
+| ANOVA Language | No model | Plain HTML, CSS and JavaScript, offline, no network calls. |
+| Grokipedia Truth Audit | Grok | A model reads each sentence of saved snapshots against a fallacy catalogue; scripts verify quotes and check citations. Every flag is a model's judgment. |
+| Genius Study | Grok | Grok Bot agents draft person records from web search and direct reads of the cited pages. Drafts are unreviewed; no results yet. |
+| Freedom of Necessity | Local | Qwen 27B checks each entry against what it cites; the argument harness is being built for it. |
+| split_load_sim | No model | Seeded Python graph models. Model outputs, not findings. |
+| Graphtacular | No model | C#, 2019, before AI. |
+
 ## 🛠️ Tools
 
 <sub>Made to be useful to other people.</sub>
