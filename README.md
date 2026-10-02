@@ -35,34 +35,34 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/neuresthetics/freedom_of_necessity"><img src="img/card-book.jpg" width="100%" alt="Freedom of Necessity"></a>
-      <h3>📖 <a href="https://github.com/neuresthetics/freedom_of_necessity">Freedom of Necessity</a></h3>
+      <a href="https://neuresthetics.github.io/book/"><img src="img/card-book.jpg" width="100%" alt="Freedom of Necessity"></a>
+      <h3>📖 <a href="https://neuresthetics.github.io/book/">Freedom of Necessity</a></h3>
       <img src="https://img.shields.io/badge/book-axiom_by_axiom-d94fa3?style=flat-square" alt="book-axiom by axiom"><br><br>
       A book written axiom by axiom in the geometric style of Spinoza's Ethics. A local model checks each entry against what it cites.<br><br>
-      🌐 <a href="https://neuresthetics.github.io/tech-philosophy/">page</a> · 📂 <a href="https://github.com/neuresthetics/freedom_of_necessity">repo</a>
+      🌐 <a href="https://neuresthetics.github.io/book/">page</a> · 📂 <a href="https://github.com/neuresthetics/freedom_of_necessity">repo</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/neuresthetics/neuresthetics_genius_study"><img src="img/card-v7.jpg" width="100%" alt="Neuresthetics Genius Study"></a>
-      <h3>🔬 <a href="https://github.com/neuresthetics/neuresthetics_genius_study">Genius Study</a></h3>
+      <a href="https://neuresthetics.github.io/study/"><img src="img/card-v7.jpg" width="100%" alt="Neuresthetics Genius Study"></a>
+      <h3>🔬 <a href="https://neuresthetics.github.io/study/">Genius Study</a></h3>
       <img src="https://img.shields.io/badge/study-v8_in_progress-3aa0ff?style=flat-square" alt="study-v8 in progress"><br><br>
       The Neuresthetics study of lawful order and remembered genius, with one home for every version. Lane A describes the public record. Lane B states a belief so it can fail.<br><br>
-      🌐 <a href="https://neuresthetics.github.io/tech-philosophy/">page</a> · 📂 <a href="https://github.com/neuresthetics/neuresthetics_genius_study">repo</a>
+      🌐 <a href="https://neuresthetics.github.io/study/">page</a> · 📂 <a href="https://github.com/neuresthetics/neuresthetics_genius_study">repo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/neuresthetics/grokipedia-truth-audit"><img src="img/card-grokipedia.jpg" width="100%" alt="Grokipedia Truth Audit"></a>
-      <h3>🔎 <a href="https://github.com/neuresthetics/grokipedia-truth-audit">Grokipedia Truth Audit</a></h3>
+      <a href="https://neuresthetics.github.io/grokipedia/"><img src="img/card-grokipedia.jpg" width="100%" alt="Grokipedia Truth Audit"></a>
+      <h3>🔎 <a href="https://neuresthetics.github.io/grokipedia/">Grokipedia Truth Audit</a></h3>
       <img src="https://img.shields.io/badge/audit-fallacy_·_citation_checks-c9a227?style=flat-square" alt="audit-fallacy · citation checks"><br><br>
       Reproducible audits of Grokipedia articles, done on saved snapshots with the data and scripts to check them. So far: 58 circumcision-related articles and the Spinoza article.<br><br>
-      📂 <a href="https://github.com/neuresthetics/grokipedia-truth-audit">repo</a>
+      🌐 <a href="https://neuresthetics.github.io/grokipedia/">page</a> · 📂 <a href="https://github.com/neuresthetics/grokipedia-truth-audit">repo</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/neuresthetics/graphtacular"><img src="img/card-graphtacular.jpg" width="100%" alt="Graphtacular"></a>
-      <h3>🕸️ <a href="https://github.com/neuresthetics/graphtacular">Graphtacular</a></h3>
+      <a href="https://neuresthetics.github.io/graphtacular/"><img src="img/card-graphtacular.jpg" width="100%" alt="Graphtacular"></a>
+      <h3>🕸️ <a href="https://neuresthetics.github.io/graphtacular/">Graphtacular</a></h3>
       <img src="https://img.shields.io/badge/early_code-C%23_·_2019-9b59ff?style=flat-square" alt="early code-C# · 2019"><br><br>
       A C# graph engine from 2019 where each vertex grows the graph from a shared instruction list, like a genome. Rendered in Gephi. Built before AI.<br><br>
-      📂 <a href="https://github.com/neuresthetics/graphtacular">repo</a>
+      🌐 <a href="https://neuresthetics.github.io/graphtacular/">page</a> · 📂 <a href="https://github.com/neuresthetics/graphtacular">repo</a>
     </td>
   </tr>
 </table>
