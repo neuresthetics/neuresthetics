@@ -72,12 +72,15 @@ These four are parts of one larger project. The Genius Study collects sourced re
 ```mermaid
 flowchart TD
   G["🕸️ Graphtacular<br/>C# graph engine, 2019"]
-  S["🧬 split_load_sim<br/>graph-growth models"]
-  ST["🔬 Genius Study<br/>v8, no results yet"]
+  S["🧬 split_load_sim<br/>graph-growth models<br/>model outputs, not findings"]
+  ST["🔬 Neuresthetics Genius Study<br/>v8, no results yet"]
   B["📖 Freedom of Necessity<br/>the book"]
-  G -->|"strand idea: seed vertex + shared strand"| S
-  S -->|"tests Lane B's assumptions inside a model"| ST
-  S -->|"draws on axioms A2 and A3"| B
+  r1(["strand idea:<br/>seed vertex + shared strand"])
+  r2(["tests Lane B's assumptions<br/>inside a model"])
+  r3(["draws on axioms<br/>A2 and A3"])
+  G --- r1 --> S
+  S --- r2 --> ST
+  S --- r3 --> B
 ```
 
 <table>
