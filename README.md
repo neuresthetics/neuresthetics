@@ -42,7 +42,7 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
 
 <table>
   <tr>
-    <td><a href="https://neuresthetics.github.io/anova/"><img src="img/wide-anova.jpg" width="100%" alt="ANOVA Language"></a></td>
+    <td><a href="https://neuresthetics.github.io/anova/"><img src="img/wide-anova-hands.jpg" width="100%" alt="A child's hands holding a tablet running the ANOVA Language word board, with I want water in the message bar"></a></td>
   </tr>
   <tr>
     <td>
