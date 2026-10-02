@@ -67,7 +67,7 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
   <tr><td><a href="https://github.com/neuresthetics/neuresthetics_genius_study"><code>neuresthetics_genius_study</code></a></td><td>The Neuresthetics Genius Study: one home for every version, now working on v8.</td></tr>
   <tr><td><a href="https://github.com/neuresthetics/neuresthetics_v7"><code>neuresthetics_v7</code></a></td><td>Study versions 7 and 7.1, kept as history.</td></tr>
   <tr><td><a href="https://github.com/neuresthetics/NEUR-V6-DATA"><code>NEUR-V6-DATA</code></a></td><td>Version 6 of the study's data analysis, kept as history.</td></tr>
-  <tr><td><a href="https://github.com/neuresthetics/grokipedia-truth-audit"><code>grokipedia-truth-audit</code></a></td><td>A public audit of omissions and bias in one Grokipedia article.</td></tr>
+  <tr><td><a href="https://github.com/neuresthetics/grokipedia-truth-audit"><code>grokipedia-truth-audit</code></a></td><td>A public audit of bias and omissions in Grokipedia: 58 circumcision-related articles and the Spinoza article.</td></tr>
   <tr><td colspan="2"><b>🧩 Thoughtware</b></td></tr>
   <tr><td><a href="https://github.com/neuresthetics/substance_lens"><code>substance_lens</code></a></td><td>Loads into an AI chat. Every claim is unproven until it passes logic-gate checks.</td></tr>
   <tr><td><a href="https://github.com/neuresthetics/steel_man_s.e"><code>steel_man_s.e</code></a></td><td>Steel Man OS: rebuilds an argument into its strongest form, in stages.</td></tr>
@@ -78,22 +78,17 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
   <tr><td><a href="https://github.com/neuresthetics/seed"><code>seed</code></a></td><td>A small JSON kernel that grows a reasoning framework for any topic.</td></tr>
   <tr><td><a href="https://github.com/neuresthetics/sprouts"><code>sprouts</code></a></td><td>Seeds planted in different topics.</td></tr>
   <tr><td><a href="https://github.com/neuresthetics/skeleton_keys"><code>skeleton_keys</code></a></td><td>A compact coherence engine. When a gate closes, it prints a key.</td></tr>
-  <tr><td><a href="https://github.com/neuresthetics/G-del-machine"><code>G-del-machine</code></a></td><td>Notes on a self-improving program that solves problems optimally.</td></tr>
   <tr><td colspan="2"><b>🧮 Math and science experiments</b></td></tr>
   <tr><td><a href="https://github.com/neuresthetics/isomorphic_data_demonstration"><code>isomorphic_data_demonstration</code></a></td><td>A demo of mapping one dataset's structure onto another.</td></tr>
-  <tr><td><a href="https://github.com/neuresthetics/MiniIsoFrameworkReview"><code>MiniIsoFrameworkReview</code></a></td><td>A review of the isomorphic data demo.</td></tr>
   <tr><td><a href="https://github.com/neuresthetics/TOESF_theory_of_everything_so_far"><code>TOESF_theory_of_everything_so_far</code></a></td><td>Collisions of matching math structures across physics.</td></tr>
   <tr><td><a href="https://github.com/neuresthetics/riemann_hypothesis"><code>riemann_hypothesis</code></a></td><td>The Riemann hypothesis run through the framework's constraints.</td></tr>
   <tr><td><a href="https://github.com/neuresthetics/Rapid-Protein-Folding-Pathways"><code>Rapid-Protein-Folding-Pathways</code></a></td><td>A first-principles look at how proteins fold so fast.</td></tr>
   <tr><td><a href="https://github.com/neuresthetics/AmyloidAggregationInsights"><code>AmyloidAggregationInsights</code></a></td><td>Notes on amyloid aggregation kinetics.</td></tr>
-  <tr><td><a href="https://github.com/neuresthetics/multidimensional_dna_data"><code>multidimensional_dna_data</code></a></td><td>Combining insights across layers of DNA data.</td></tr>
   <tr><td><a href="https://github.com/neuresthetics/multidimensional_DNA_analysis"><code>multidimensional_DNA_analysis</code></a></td><td>Alzheimer's risk prediction from multidimensional DNA analysis.</td></tr>
   <tr><td colspan="2"><b>💾 Early code</b></td></tr>
   <tr><td><a href="https://github.com/neuresthetics/graphtacular"><code>graphtacular</code></a></td><td>A C# graph engine where each vertex runs its own instructions. Built before AI.</td></tr>
   <tr><td><a href="https://github.com/neuresthetics/lampy"><code>lampy</code></a></td><td>Rotates UTF-8 text into rivers.</td></tr>
   <tr><td><a href="https://github.com/neuresthetics/grid-template"><code>grid-template</code></a></td><td>A dynamic page grid built without CSS grid.</td></tr>
-  <tr><td><a href="https://github.com/neuresthetics/swiftPractice"><code>swiftPractice</code></a></td><td>Swift practice.</td></tr>
-  <tr><td><a href="https://github.com/neuresthetics/vercel_test"><code>vercel_test</code></a></td><td>A Vercel deploy test.</td></tr>
 </table>
 
 <p align="center">
