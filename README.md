@@ -49,6 +49,15 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
       🌐 <a href="https://neuresthetics.github.io/tech-philosophy/">page</a> · 📂 <a href="https://github.com/neuresthetics/neuresthetics_genius_study">repo</a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://github.com/neuresthetics/grokipedia-truth-audit"><img src="img/card-grokipedia.jpg" width="50%" alt="Grokipedia Truth Audit"></a>
+      <h3>🔎 <a href="https://github.com/neuresthetics/grokipedia-truth-audit">Grokipedia Truth Audit</a></h3>
+      <img src="https://img.shields.io/badge/audit-fallacy_·_citation_checks-c9a227?style=flat-square" alt="audit-fallacy · citation checks"><br><br>
+      Reproducible audits of Grokipedia articles, done on saved snapshots with the data and scripts to check them. So far: 58 circumcision-related articles and the Spinoza article.<br><br>
+      📂 <a href="https://github.com/neuresthetics/grokipedia-truth-audit">repo</a>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
