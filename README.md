@@ -20,30 +20,40 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
 
 <table>
   <tr>
+    <td><a href="https://neuresthetics.github.io/restokit/"><img src="img/wide-restokit.jpg" width="100%" alt="RestoKit"></a></td>
+  </tr>
+  <tr>
     <td>
-      <a href="https://neuresthetics.github.io/restokit/"><img src="img/wide-restokit.jpg" width="100%" alt="RestoKit"></a>
       <h3>💧 <a href="https://neuresthetics.github.io/restokit/">RestoKit</a></h3>
       A restoration kit for water, mold, and crawlspace jobs, built for any level from tech to PM and estimator. Grounded in IICRC S500 and S520, it walks a job in order and holds the rare edge cases.<br><br>
-      🌐 <a href="https://neuresthetics.github.io/restokit/">page</a>
+      🌐 <a href="https://neuresthetics.github.io/restokit/">page</a> · 📂 <a href="https://github.com/neuresthetics/resto_kit_public">repo</a>
     </td>
   </tr>
 </table>
 
+<br>
+
 <table>
   <tr>
+    <td><a href="https://neuresthetics.github.io/anova/"><img src="img/wide-anova.jpg" width="100%" alt="ANOVA Language"></a></td>
+  </tr>
+  <tr>
     <td>
-      <a href="https://neuresthetics.github.io/anova/"><img src="img/wide-anova.jpg" width="100%" alt="ANOVA Language"></a>
       <h3>🗣️ <a href="https://neuresthetics.github.io/anova/">ANOVA Language</a></h3>
       A free, offline AAC word board for iPad and other tablets. Buttons stay put as word levels grow. MIT licensed.<br><br>
-      🌐 <a href="https://neuresthetics.github.io/anova/">page</a>
+      🌐 <a href="https://neuresthetics.github.io/anova/">page</a> · 📂 <a href="https://github.com/neuresthetics/anova_language_dev_public">repo</a>
     </td>
   </tr>
 </table>
 
+<br>
+
 <table>
   <tr>
+    <td><a href="https://neuresthetics.github.io/grokipedia/"><img src="img/wide-grokipedia.jpg" width="100%" alt="Grokipedia Truth Audit"></a></td>
+  </tr>
+  <tr>
     <td>
-      <a href="https://neuresthetics.github.io/grokipedia/"><img src="img/wide-grokipedia.jpg" width="100%" alt="Grokipedia Truth Audit"></a>
       <h3>🔎 <a href="https://neuresthetics.github.io/grokipedia/">Grokipedia Truth Audit</a></h3>
       Reproducible audits of Grokipedia articles on saved snapshots: fallacy scans and citation checks, with the data and scripts to check them. So far: 58 circumcision-related articles and the Spinoza article.<br><br>
       🌐 <a href="https://neuresthetics.github.io/grokipedia/">page</a> · 📂 <a href="https://github.com/neuresthetics/grokipedia-truth-audit">repo</a>
@@ -51,56 +61,64 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
   </tr>
 </table>
 
+<br>
+
 ## 🧪 Side projects
 
-<sub>Personal projects, for curiosity.</sub>
+<sub>Personal side projects, for curiosity.</sub>
+
+These four are parts of one larger project. The Genius Study collects sourced records of remembered geniuses and states a labeled belief model about how early lawful form might pay off; the book builds, axiom by axiom, the one order (God or Nature) to which the brain and its society belong. split_load_sim connects them: it keeps Graphtacular's 2019 strand idea, grows graphs as models of how a mind's maps could be structured, and asks whether the study's Lane B assumptions produce the effect they claim inside the model. Its results are model outputs, not findings, and the study has no results yet.
+
+```mermaid
+flowchart TD
+  G["🕸️ Graphtacular<br/>C# graph engine, 2019"]
+  S["🧬 split_load_sim<br/>graph-growth models"]
+  ST["🔬 Genius Study<br/>v8, no results yet"]
+  B["📖 Freedom of Necessity<br/>the book"]
+  G -->|"strand idea: seed vertex + shared strand"| S
+  S -->|"tests Lane B's assumptions inside a model"| ST
+  S -->|"draws on axioms A2 and A3"| B
+```
 
 <table>
   <tr>
-    <td>
-      <a href="https://neuresthetics.github.io/study/"><img src="img/wide-study.jpg" width="100%" alt="Neuresthetics Genius Study"></a>
-      <h3>🔬 <a href="https://neuresthetics.github.io/study/">Neuresthetics Genius Study</a></h3>
-      A study of where remembered genius sits on a scale of lawful, non-intervening order, with a labeled belief model of how learning that order early might pay off. v8 is in progress; no results yet.<br><br>
-      🌐 <a href="https://neuresthetics.github.io/study/">page</a> · 📂 <a href="https://github.com/neuresthetics/neuresthetics_genius_study">repo</a>
-    </td>
+    <td><a href="https://neuresthetics.github.io/study/"><img src="img/short-study.jpg" width="100%" alt="A desk with an open notebook and a scatter plot"></a></td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td>
-      <a href="https://neuresthetics.github.io/book/"><img src="img/wide-book.jpg" width="100%" alt="Freedom of Necessity"></a>
-      <h3>📖 <a href="https://neuresthetics.github.io/book/">Freedom of Necessity</a></h3>
-      A book in Spinoza's geometric manner: definitions, axioms and propositions, each standing on the ones before it. Its subject is one order of things, called God or Nature, to which the brain and its society belong.<br><br>
-      🌐 <a href="https://neuresthetics.github.io/book/">page</a> · 📂 <a href="https://github.com/neuresthetics/freedom_of_necessity">repo</a>
+      <b>🔬 <a href="https://neuresthetics.github.io/study/">Neuresthetics Genius Study</a></b><br>
+      <b>The study.</b> Where remembered genius sits on a scale of lawful, non-intervening order, with a labeled belief model. v8 is in progress; no results yet.<br>
+      <sub>🌐 <a href="https://neuresthetics.github.io/study/">page</a> · 📂 <a href="https://github.com/neuresthetics/neuresthetics_genius_study">repo</a></sub>
     </td>
   </tr>
-</table>
-
-<table>
+  <tr>
+    <td><a href="https://neuresthetics.github.io/book/"><img src="img/short-book.jpg" width="100%" alt="Monitors on a dark desk"></a></td>
+  </tr>
   <tr>
     <td>
-      <a href="https://github.com/neuresthetics/split_load_sim"><img src="img/wide-split-load-sim.jpg" width="100%" alt="split_load_sim render: an exception_prior run from the repo, a teal main map joined to an amber reserved map by one bottleneck edge"></a>
-      <h3>🧬 <a href="https://github.com/neuresthetics/split_load_sim">split_load_sim</a></h3>
-      Graph-growth models that bridge the Genius Study and the book. Descended from graphtacular: one seed vertex grows by a shared strand. Results are model outputs, not findings.<br><br>
-      📂 <a href="https://github.com/neuresthetics/split_load_sim">repo</a>
+      <b>📖 <a href="https://neuresthetics.github.io/book/">Freedom of Necessity</a></b><br>
+      <b>The book.</b> A Spinoza-style geometric book on one order, God or Nature, to which the brain and its society belong.<br>
+      <sub>🌐 <a href="https://neuresthetics.github.io/book/">page</a> · 📂 <a href="https://github.com/neuresthetics/freedom_of_necessity">repo</a></sub>
     </td>
   </tr>
-</table>
-
-<table>
+  <tr>
+    <td><a href="https://github.com/neuresthetics/split_load_sim"><img src="img/short-split-load-sim.jpg" width="100%" alt="An exception_prior run from split_load_sim: a teal main map joined to an amber reserved map by one bottleneck edge"></a></td>
+  </tr>
   <tr>
     <td>
-      <a href="https://neuresthetics.github.io/graphtacular/"><img src="img/wide-graphtacular.jpg" width="100%" alt="Graphtacular"></a>
-      <h3>🕸️ <a href="https://neuresthetics.github.io/graphtacular/">Graphtacular</a></h3>
-      A C# graph engine from 2019 where each vertex grows the graph from a shared instruction list, like a genome. Rendered in Gephi. Built before AI.<br><br>
-      🌐 <a href="https://neuresthetics.github.io/graphtacular/">page</a> · 📂 <a href="https://github.com/neuresthetics/graphtacular">repo</a>
+      <b>🧬 <a href="https://github.com/neuresthetics/split_load_sim">split_load_sim</a></b><br>
+      <b>The bridge.</b> Graph-growth models that connect the study and the book, descended from graphtacular. Model outputs, not findings.<br>
+      <sub>📂 <a href="https://github.com/neuresthetics/split_load_sim">repo</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://neuresthetics.github.io/graphtacular/"><img src="img/short-graphtacular.jpg" width="100%" alt="A Graphtacular graph rendered in Gephi"></a></td>
+  </tr>
+  <tr>
+    <td>
+      <b>🕸️ <a href="https://neuresthetics.github.io/graphtacular/">Graphtacular</a></b><br>
+      <b>The ancestor (2019).</b> A C# graph engine where each vertex grows the graph from a shared instruction list (a strand), like a genome. Built before AI.<br>
+      <sub>🌐 <a href="https://neuresthetics.github.io/graphtacular/">page</a> · 📂 <a href="https://github.com/neuresthetics/graphtacular">repo</a></sub>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://neuresthetic.net"><img src="img/banner.jpg" width="100%" alt="Neuresthetics banner: a brain with light streaming out of it"></a>
-</p>
-
-<p align="center"><sub><i>Neuresthetics isn't brain art. We just use brain art anyway, because it looks cool.</i></sub></p>
