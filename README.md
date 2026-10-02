@@ -20,16 +20,6 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
 
 **Grok.** Grok Bot (an xAI assistant) runs a set of project bots for coding, audits, writing support, and fetching the word-for-word sources those cite checks use.
 
-| Project | Runs on | For what |
-|---|---|---|
-| RestoKit | Commercial cloud models | The kit is a JSON file loaded into the Grok app or a Grok Bot. |
-| ANOVA Language | No model | Plain HTML, CSS and JavaScript, offline, no network calls. |
-| Grokipedia Truth Audit | Grok | A model reads each sentence of saved snapshots against a fallacy catalogue; scripts verify quotes and check citations. Every flag is a model's judgment. |
-| Genius Study | Grok | Grok Bot agents draft person records from web search and direct reads of the cited pages. Drafts are unreviewed; no results yet. |
-| Freedom of Necessity | Local | Qwen 27B checks each entry against what it cites; the argument harness is being built for it. |
-| split_load_sim | No model | Seeded Python graph models. Model outputs, not findings. |
-| Graphtacular | No model | C#, 2019, before AI. |
-
 ## 🛠️ Tools
 
 <sub>Made to be useful to other people.</sub>
@@ -42,6 +32,7 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
     <td>
       <h3>💧 <a href="https://neuresthetics.github.io/restokit/">RestoKit</a></h3>
       A restoration kit for water, mold, and crawlspace jobs, built for any level from tech to PM and estimator. Grounded in IICRC S500 and S520, it walks a job in order and holds the rare edge cases.<br><br>
+      <sub>⚙️ <b>Runs on:</b> Commercial cloud models · loaded into the Grok app or a Grok Bot</sub><br>
       🌐 <a href="https://neuresthetics.github.io/restokit/">page</a> · 📂 <a href="https://github.com/neuresthetics/resto_kit_public">repo</a>
     </td>
   </tr>
@@ -57,6 +48,7 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
     <td>
       <h3>🗣️ <a href="https://neuresthetics.github.io/anova/">ANOVA Language</a></h3>
       A free, offline AAC word board for iPad and other tablets. Buttons stay put as word levels grow. MIT licensed.<br><br>
+      <sub>⚙️ <b>Runs on:</b> No model · plain HTML, CSS and JavaScript, offline, no network calls</sub><br>
       🌐 <a href="https://neuresthetics.github.io/anova/">page</a> · 📂 <a href="https://github.com/neuresthetics/anova_language_dev_public">repo</a>
     </td>
   </tr>
@@ -72,6 +64,7 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
     <td>
       <h3>🔎 <a href="https://neuresthetics.github.io/grokipedia/">Grokipedia Truth Audit</a></h3>
       Reproducible audits of Grokipedia articles on saved snapshots: fallacy scans and citation checks, with the data and scripts to check them. So far: 58 circumcision-related articles and the Spinoza article.<br><br>
+      <sub>⚙️ <b>Runs on:</b> Grok · a model reads saved snapshots against a fallacy catalogue; scripts verify quotes and citations</sub><br>
       🌐 <a href="https://neuresthetics.github.io/grokipedia/">page</a> · 📂 <a href="https://github.com/neuresthetics/grokipedia-truth-audit">repo</a>
     </td>
   </tr>
@@ -107,6 +100,7 @@ flowchart TB
     <td>
       <b>🔬 <a href="https://neuresthetics.github.io/study/">Neuresthetics Genius Study</a></b><br>
       <b>The study.</b> Where remembered genius sits on a scale of lawful, non-intervening order, with a labeled belief model. v8 is in progress; no results yet.<br>
+      <sub>⚙️ <b>Runs on:</b> Grok · Grok Bot agents draft person records from web search and the cited pages (unreviewed)</sub><br>
       <sub>🌐 <a href="https://neuresthetics.github.io/study/">page</a> · 📂 <a href="https://github.com/neuresthetics/neuresthetics_genius_study">repo</a></sub>
     </td>
   </tr>
@@ -117,6 +111,7 @@ flowchart TB
     <td>
       <b>📖 <a href="https://neuresthetics.github.io/book/">Freedom of Necessity</a></b><br>
       <b>The book.</b> A Spinoza-style geometric book on one order, God or Nature, to which the brain and its society belong.<br>
+      <sub>⚙️ <b>Runs on:</b> Local Qwen 27B · checks each entry against what it cites; argument harness in progress</sub><br>
       <sub>🌐 <a href="https://neuresthetics.github.io/book/">page</a> · 📂 <a href="https://github.com/neuresthetics/freedom_of_necessity">repo</a></sub>
     </td>
   </tr>
@@ -127,6 +122,7 @@ flowchart TB
     <td>
       <b>🧬 <a href="https://github.com/neuresthetics/split_load_sim">split_load_sim</a></b><br>
       <b>The bridge.</b> Graph-growth models that connect the study and the book, descended from graphtacular. Model outputs, not findings.<br>
+      <sub>⚙️ <b>Runs on:</b> No model · seeded Python graph models</sub><br>
       <sub>📂 <a href="https://github.com/neuresthetics/split_load_sim">repo</a></sub>
     </td>
   </tr>
@@ -137,6 +133,7 @@ flowchart TB
     <td>
       <b>🕸️ <a href="https://neuresthetics.github.io/graphtacular/">Graphtacular</a></b><br>
       <b>The ancestor (2019).</b> A C# graph engine where each vertex grows the graph from a shared instruction list (a strand), like a genome. Built before AI.<br>
+      <sub>⚙️ <b>Runs on:</b> No model · C#, 2019, before AI</sub><br>
       <sub>🌐 <a href="https://neuresthetics.github.io/graphtacular/">page</a> · 📂 <a href="https://github.com/neuresthetics/graphtacular">repo</a></sub>
     </td>
   </tr>
