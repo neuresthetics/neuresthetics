@@ -67,16 +67,19 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
 
 <sub>Personal side projects, for curiosity.</sub>
 
-The study, the book and split_load_sim sit side by side as parts of one larger project. The Genius Study (v8) collects sourced records of remembered geniuses and states a labeled belief model about how early lawful form might pay off; the book builds, axiom by axiom, the one order (God or Nature) to which the brain and its society belong. split_load_sim is how we go between them: it grows graphs as models of how a mind's maps could be structured, drawing on the book's axioms and testing whether the study's Lane B assumptions produce the effect they claim inside the model. Its results are model outputs, not findings, and the study has no results yet. Graphtacular is the 2019 relic where split_load_sim's strand idea started.
+The study, the book and split_load_sim sit side by side as parts of one larger project. The Genius Study (v8) collects sourced records of remembered geniuses and states a labeled belief model about how early lawful form might pay off; the book builds, axiom by axiom, the one order (God or Nature) to which the brain and its society belong. split_load_sim is how we go between them, and the three form a loop: it grows graphs as models of how a mind's maps could be structured, drawing on the book's axioms and testing whether the study's Lane B assumptions produce the effect they claim inside the model. Its results are model outputs, not findings, and the study has no results yet. The book in turn tries to key in on what makes v8 go around, which sends the loop back to the study. Graphtacular is the 2019 relic where split_load_sim's strand idea started.
 
 ```mermaid
 flowchart LR
   ST["🔬 Neuresthetics Genius Study<br/>v8, no results yet"]
   S["🧬 split_load_sim<br/>graph-growth models<br/>model outputs, not findings"]
   B["📖 Freedom of Necessity<br/>the book"]
-  r2(["tests v8's Lane B<br/>assumptions in a model"])
-  r3(["draws on the book's<br/>axioms A2 and A3"])
-  ST --- r2 --- S --- r3 --- B
+  r1(["tests v8's Lane B<br/>assumptions in a model"])
+  r2(["draws on the book's<br/>axioms A2 and A3"])
+  r3(["keys in on what<br/>makes v8 go around"])
+  ST --> r1 --> S
+  S --> r2 --> B
+  B --> r3 --> ST
 ```
 
 <table>
