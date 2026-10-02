@@ -20,7 +20,7 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
 
 **Grok.** Grok Bot (an xAI assistant) runs a set of project bots for coding, audits, writing support, and fetching the word-for-word sources those cite checks use.
 
-## 🛠️ TOOLS
+## 🛠️ "REAL WORLD" PRODUCTS
 
 <sub>Made to be useful to other people.</sub>
 
@@ -72,7 +72,7 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
 
 <br>
 
-## 🧠 SIDE PROJECTS
+## 🧠 BRAND PROJECT
 
 <sub>Personal side projects, for curiosity.</sub>
 
