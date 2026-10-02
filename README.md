@@ -14,53 +14,85 @@
 
 I build tools for people who work with their hands and their heads: 🛠️ field kits for restoration techs, 🗣️ a word board for kids learning to talk, and 📜 long-running research on how minds put order on the world. Neuresthetics started before AI. AI is one of the tools now, not the point.
 
-## 🚧 Featured
+## 🛠️ Tools
+
+<sub>Made to be useful to other people.</sub>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://neuresthetics.github.io/restokit/"><img src="img/card-restokit.jpg" width="100%" alt="RestoKit"></a>
+    <td>
+      <a href="https://neuresthetics.github.io/restokit/"><img src="img/wide-restokit.jpg" width="100%" alt="RestoKit"></a>
       <h3>💧 <a href="https://neuresthetics.github.io/restokit/">RestoKit</a></h3>
-      <img src="https://img.shields.io/badge/field_tool-water_·_mold_·_crawlspace-ff8a2a?style=flat-square" alt="field tool-water · mold · crawlspace"><br><br>
-      A restoration kit for any level, from tech to PM and estimator, grounded in IICRC S500 and S520. It holds the job flow and the rare edge cases.<br><br>
-      🌐 <a href="https://neuresthetics.github.io/restokit/">page</a> · 📂 <a href="https://github.com/neuresthetics/resto_kit_public">public repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://neuresthetics.github.io/anova/"><img src="img/card-anova.jpg" width="100%" alt="ANOVA Language"></a>
-      <h3>🗣️ <a href="https://neuresthetics.github.io/anova/">ANOVA Language</a></h3>
-      <img src="https://img.shields.io/badge/app-AAC_word_board-00bb55?style=flat-square" alt="app-AAC word board"><br><br>
-      A free, offline AAC word board for iPad and tablets. Buttons stay put while word levels grow. MIT licensed.<br><br>
-      ▶️ <a href="https://neuresthetics.github.io/anova_language_dev_public/">try the app</a> · 📂 <a href="https://github.com/neuresthetics/anova_language_dev_public">repo</a>
+      A restoration kit for water, mold, and crawlspace jobs, built for any level from tech to PM and estimator. Grounded in IICRC S500 and S520, it walks a job in order and holds the rare edge cases.<br><br>
+      🌐 <a href="https://neuresthetics.github.io/restokit/">page</a>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://neuresthetics.github.io/book/"><img src="img/card-book.jpg" width="100%" alt="Freedom of Necessity"></a>
-      <h3>📖 <a href="https://neuresthetics.github.io/book/">Freedom of Necessity</a></h3>
-      <img src="https://img.shields.io/badge/book-axiom_by_axiom-d94fa3?style=flat-square" alt="book-axiom by axiom"><br><br>
-      A book written axiom by axiom in the geometric style of Spinoza's Ethics. A local model checks each entry against what it cites.<br><br>
-      🌐 <a href="https://neuresthetics.github.io/book/">page</a> · 📂 <a href="https://github.com/neuresthetics/freedom_of_necessity">repo</a>
+    <td>
+      <a href="https://neuresthetics.github.io/anova/"><img src="img/wide-anova.jpg" width="100%" alt="ANOVA Language"></a>
+      <h3>🗣️ <a href="https://neuresthetics.github.io/anova/">ANOVA Language</a></h3>
+      A free, offline AAC word board for iPad and other tablets. Buttons stay put as word levels grow. MIT licensed.<br><br>
+      🌐 <a href="https://neuresthetics.github.io/anova/">page</a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://neuresthetics.github.io/study/"><img src="img/card-v7.jpg" width="100%" alt="Neuresthetics Genius Study"></a>
-      <h3>🔬 <a href="https://neuresthetics.github.io/study/">Genius Study</a></h3>
-      <img src="https://img.shields.io/badge/study-v8_in_progress-3aa0ff?style=flat-square" alt="study-v8 in progress"><br><br>
-      The Neuresthetics study of lawful order and remembered genius, with one home for every version. Lane A describes the public record. Lane B states a belief so it can fail.<br><br>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://neuresthetics.github.io/grokipedia/"><img src="img/wide-grokipedia.jpg" width="100%" alt="Grokipedia Truth Audit"></a>
+      <h3>🔎 <a href="https://neuresthetics.github.io/grokipedia/">Grokipedia Truth Audit</a></h3>
+      Reproducible audits of Grokipedia articles on saved snapshots: fallacy scans and citation checks, with the data and scripts to check them. So far: 58 circumcision-related articles and the Spinoza article.<br><br>
+      🌐 <a href="https://neuresthetics.github.io/grokipedia/">page</a> · 📂 <a href="https://github.com/neuresthetics/grokipedia-truth-audit">repo</a>
+    </td>
+  </tr>
+</table>
+
+## 🧪 Side projects
+
+<sub>Personal projects, for curiosity.</sub>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://neuresthetics.github.io/study/"><img src="img/wide-study.jpg" width="100%" alt="Neuresthetics Genius Study"></a>
+      <h3>🔬 <a href="https://neuresthetics.github.io/study/">Neuresthetics Genius Study</a></h3>
+      A study of where remembered genius sits on a scale of lawful, non-intervening order, with a labeled belief model of how learning that order early might pay off. v8 is in progress; no results yet.<br><br>
       🌐 <a href="https://neuresthetics.github.io/study/">page</a> · 📂 <a href="https://github.com/neuresthetics/neuresthetics_genius_study">repo</a>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://neuresthetics.github.io/grokipedia/"><img src="img/card-grokipedia.jpg" width="100%" alt="Grokipedia Truth Audit"></a>
-      <h3>🔎 <a href="https://neuresthetics.github.io/grokipedia/">Grokipedia Truth Audit</a></h3>
-      <img src="https://img.shields.io/badge/audit-fallacy_·_citation_checks-c9a227?style=flat-square" alt="audit-fallacy · citation checks"><br><br>
-      Reproducible audits of Grokipedia articles, done on saved snapshots with the data and scripts to check them. So far: 58 circumcision-related articles and the Spinoza article.<br><br>
-      🌐 <a href="https://neuresthetics.github.io/grokipedia/">page</a> · 📂 <a href="https://github.com/neuresthetics/grokipedia-truth-audit">repo</a>
+    <td>
+      <a href="https://neuresthetics.github.io/book/"><img src="img/wide-book.jpg" width="100%" alt="Freedom of Necessity"></a>
+      <h3>📖 <a href="https://neuresthetics.github.io/book/">Freedom of Necessity</a></h3>
+      A book in Spinoza's geometric manner: definitions, axioms and propositions, each standing on the ones before it. Its subject is one order of things, called God or Nature, to which the brain and its society belong.<br><br>
+      🌐 <a href="https://neuresthetics.github.io/book/">page</a> · 📂 <a href="https://github.com/neuresthetics/freedom_of_necessity">repo</a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://neuresthetics.github.io/graphtacular/"><img src="img/card-graphtacular.jpg" width="100%" alt="Graphtacular"></a>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/neuresthetics/split_load_sim"><img src="img/wide-split-load-sim.jpg" width="100%" alt="split_load_sim render: an exception_prior run from the repo, a teal main map joined to an amber reserved map by one bottleneck edge"></a>
+      <h3>🧬 <a href="https://github.com/neuresthetics/split_load_sim">split_load_sim</a></h3>
+      Graph-growth models that bridge the Genius Study and the book. Descended from graphtacular: one seed vertex grows by a shared strand. Results are model outputs, not findings.<br><br>
+      📂 <a href="https://github.com/neuresthetics/split_load_sim">repo</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://neuresthetics.github.io/graphtacular/"><img src="img/wide-graphtacular.jpg" width="100%" alt="Graphtacular"></a>
       <h3>🕸️ <a href="https://neuresthetics.github.io/graphtacular/">Graphtacular</a></h3>
-      <img src="https://img.shields.io/badge/early_code-C%23_·_2019-9b59ff?style=flat-square" alt="early code-C# · 2019"><br><br>
       A C# graph engine from 2019 where each vertex grows the graph from a shared instruction list, like a genome. Rendered in Gephi. Built before AI.<br><br>
       🌐 <a href="https://neuresthetics.github.io/graphtacular/">page</a> · 📂 <a href="https://github.com/neuresthetics/graphtacular">repo</a>
     </td>
