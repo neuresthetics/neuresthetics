@@ -46,11 +46,11 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
       🌐 <a href="https://neuresthetics.github.io/tech-philosophy/">page</a> · 📂 <a href="https://github.com/neuresthetics/freedom_of_necessity">repo</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/neuresthetics/neuresthetics_v7"><img src="img/card-v7.jpg" width="100%" alt="V7 study"></a>
-      <h3>🔬 <a href="https://github.com/neuresthetics/neuresthetics_v7">V7 study</a></h3>
-      <img src="https://img.shields.io/badge/study-version_7-3aa0ff?style=flat-square" alt="study-version 7"><br><br>
-      The seventh version of the Neuresthetics study. Lane A describes the public record. Lane B states a belief so it can fail.<br><br>
-      🌐 <a href="https://neuresthetics.github.io/tech-philosophy/">page</a> · 📂 <a href="https://github.com/neuresthetics/neuresthetics_v7">repo</a>
+      <a href="https://github.com/neuresthetics/neuresthetics_genius_study"><img src="img/card-v7.jpg" width="100%" alt="Neuresthetics Genius Study"></a>
+      <h3>🔬 <a href="https://github.com/neuresthetics/neuresthetics_genius_study">Genius Study</a></h3>
+      <img src="https://img.shields.io/badge/study-v8_in_progress-3aa0ff?style=flat-square" alt="study-v8 in progress"><br><br>
+      The Neuresthetics study of lawful order and remembered genius, with one home for every version. Lane A describes the public record. Lane B states a belief so it can fail.<br><br>
+      🌐 <a href="https://neuresthetics.github.io/tech-philosophy/">page</a> · 📂 <a href="https://github.com/neuresthetics/neuresthetics_genius_study">repo</a>
     </td>
   </tr>
 </table>
@@ -64,8 +64,9 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
   <tr><td><a href="https://github.com/neuresthetics/neuresthetics.github.io"><code>neuresthetics.github.io</code></a></td><td>This site: the RestoKit, ANOVA, and Tech & Philosophy pages.</td></tr>
   <tr><td colspan="2"><b>📜 Research and writing</b></td></tr>
   <tr><td><a href="https://github.com/neuresthetics/freedom_of_necessity"><code>freedom_of_necessity</code></a></td><td>The book, built axiom by axiom with a checking harness.</td></tr>
-  <tr><td><a href="https://github.com/neuresthetics/neuresthetics_v7"><code>neuresthetics_v7</code></a></td><td>Neuresthetics study, version 7: the two-lane paper and data book.</td></tr>
-  <tr><td><a href="https://github.com/neuresthetics/NEUR-V6-DATA"><code>NEUR-V6-DATA</code></a></td><td>Version 6 of the study's data analysis.</td></tr>
+  <tr><td><a href="https://github.com/neuresthetics/neuresthetics_genius_study"><code>neuresthetics_genius_study</code></a></td><td>The Neuresthetics Genius Study: one home for every version, now working on v8.</td></tr>
+  <tr><td><a href="https://github.com/neuresthetics/neuresthetics_v7"><code>neuresthetics_v7</code></a></td><td>Study versions 7 and 7.1, kept as history.</td></tr>
+  <tr><td><a href="https://github.com/neuresthetics/NEUR-V6-DATA"><code>NEUR-V6-DATA</code></a></td><td>Version 6 of the study's data analysis, kept as history.</td></tr>
   <tr><td><a href="https://github.com/neuresthetics/grokipedia-truth-audit"><code>grokipedia-truth-audit</code></a></td><td>A public audit of omissions and bias in one Grokipedia article.</td></tr>
   <tr><td colspan="2"><b>🧩 Thoughtware</b></td></tr>
   <tr><td><a href="https://github.com/neuresthetics/substance_lens"><code>substance_lens</code></a></td><td>Loads into an AI chat. Every claim is unproven until it passes logic-gate checks.</td></tr>
