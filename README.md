@@ -14,13 +14,13 @@
 
 I build tools for people who work with their hands and their heads: 🛠️ field kits for restoration techs, 🗣️ a word board for kids learning to talk, and 📜 long-running research on how minds put order on the world. Neuresthetics started before AI. AI is one of the tools now, not the point.
 
-## ⚙️ How it's built
+## ⚙️ HOW IT'S BUILT
 
 **Local models.** A Linux tower with a 20 GB GPU and 64 GB RAM runs Ollama with Qwen 27B, in a standard and an uncensored build, at 16K context. A stock 14B is being added for model-swap runs. The tower works through unattended job queues, for days if needed, for an adversarial argument harness: the models draft the strongest case for each side, code checks every cite against word-for-word source excerpts, and runs are rescored and repeated across seeds and model swaps to see how much of a result comes from the model.
 
 **Grok.** Grok Bot (an xAI assistant) runs a set of project bots for coding, audits, writing support, and fetching the word-for-word sources those cite checks use.
 
-## 🛠️ Tools
+## 🛠️ TOOLS
 
 <sub>Made to be useful to other people.</sub>
 
@@ -72,7 +72,7 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
 
 <br>
 
-## 🧪 Side projects
+## 🧠 SIDE PROJECTS
 
 <sub>Personal side projects, for curiosity.</sub>
 
@@ -94,14 +94,14 @@ flowchart TB
 
 <table>
   <tr>
-    <td><a href="https://neuresthetics.github.io/study/"><img src="img/short-study.jpg" width="100%" alt="A desk with an open notebook and a scatter plot"></a></td>
+    <td><a href="https://neuresthetics.github.io/study/"><img src="img/short-study-faces.jpg" width="100%" alt="Portraits of people from the study's roster fading into a crowd of about 1,380"></a></td>
   </tr>
   <tr>
     <td>
       <b>🔬 <a href="https://neuresthetics.github.io/study/">Neuresthetics Genius Study</a></b><br>
       <b>The study.</b> Where remembered genius sits on a scale of lawful, non-intervening order, with a labeled belief model. v8 is in progress; no results yet.<br>
       <sub>⚙️ <b>Runs on:</b> Grok · Grok Bot agents draft person records from web search and the cited pages (unreviewed)</sub><br>
-      <sub>🌐 <a href="https://neuresthetics.github.io/study/">page</a> · 📂 <a href="https://github.com/neuresthetics/neuresthetics_genius_study">repo</a></sub>
+      <sub>🌐 <a href="https://neuresthetics.github.io/study/">page</a> · 📂 <a href="https://github.com/neuresthetics/neuresthetics_genius_study">repo</a> · 🖼️ <a href="img/study-faces-credits.md">portrait credits</a></sub>
     </td>
   </tr>
   <tr>
