@@ -26,7 +26,7 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
 
 <table>
   <tr>
-    <td><a href="https://neuresthetics.github.io/restokit/"><img src="img/wide-restokit-brand.jpg" width="100%" alt="The RestoKit logo, a sand house with a copper drying curve, on deep teal over a faint drying log"></a></td>
+    <td><a href="https://neuresthetics.github.io/restokit/"><img src="img/wide-restokit-signal.jpg" width="100%" alt="The RestoKit Meter Face logo, a blue moisture-meter bot with two probe pins, droplet eyes and an amber reading bar, beside the RestoKit wordmark on ink navy over faint meter-reading bars"></a></td>
   </tr>
   <tr>
     <td>
