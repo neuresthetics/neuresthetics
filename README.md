@@ -53,7 +53,7 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
   </tr>
 </table>
 
-## 🧰 Smaller tools
+## 🧪 From the workshop
 
 <table>
   <tr>
