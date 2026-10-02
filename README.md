@@ -78,19 +78,9 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
 
 The study, the book and split_load_sim sit side by side as parts of one larger project. The Genius Study (v8) collects sourced records of remembered geniuses and states a labeled belief model about how early lawful form might pay off; the book builds, axiom by axiom, the one order (God or Nature) to which the brain and its society belong. split_load_sim is how we go between them. None of the three comes first; each draws on the other two, circling one goal: it grows graphs as models of how a mind's maps could be structured, drawing on the book's axioms and testing whether the study's Lane B assumptions produce the effect they claim inside the model. Its results are model outputs, not findings, and the study has no results yet. The book in turn tries to key in on what makes v8 go around, and findings in any one can send the others back to work. Graphtacular is the 2019 relic where split_load_sim's strand idea started.
 
-```mermaid
-flowchart TB
-  ST["🔬 Neuresthetics Genius Study<br/>v8, no results yet"]
-  G(("one goal:<br/>the order<br/>of the mind"))
-  S["🧬 split_load_sim<br/>graph-growth models<br/>model outputs, not findings"]
-  B["📖 Freedom of Necessity<br/>the book"]
-  ST --- G
-  S --- G
-  B --- G
-  ST --- S
-  S --- B
-  B --- ST
-```
+<p align="center">
+  <img src="img/side-projects-map.png" width="720" alt="Map of the side projects: an equilateral triangle with the Neuresthetics Genius Study (v8, no results yet), split_load_sim (graph-growth models, model outputs, not findings) and Freedom of Necessity (the book) at the corners, each joined to the other two and to a circle at the centre that reads 'one goal: the order of the mind'">
+</p>
 
 <table>
   <tr>
