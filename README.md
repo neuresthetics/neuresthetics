@@ -64,8 +64,24 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
     <td>
       <h3>🔎 <a href="https://neuresthetics.github.io/grokipedia/">Grokipedia Truth Audit</a></h3>
       Reproducible audits of Grokipedia articles on saved snapshots: fallacy scans and citation checks, with the data and scripts to check them. So far: 58 circumcision-related articles and the Spinoza article.<br><br>
-      <sub>⚙️ <b>Runs on:</b> Grok · a model reads saved snapshots against a fallacy catalogue; scripts verify quotes and citations</sub><br>
+      <sub>⚙️ <b>Runs on:</b> Grok · a model reads saved snapshots against the substance_lens fallacy catalogue; scripts verify quotes and citations</sub><br>
       🌐 <a href="https://neuresthetics.github.io/grokipedia/">page</a> · 📂 <a href="https://github.com/neuresthetics/grokipedia-truth-audit">repo</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/neuresthetics/substance_lens"><img src="img/wide-substance-lens.jpg" width="100%" alt="A lens over an argument graph: surviving steps glow gold, cut steps are struck out with fallacy codes"></a></td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🔍 <a href="https://github.com/neuresthetics/substance_lens">substance_lens</a></h3>
+      A JSON prompt spec: paste it into a chat model, give it a claim, and it checks the argument step by step and scans both the claim and its strongest counter-case for 67 fallacies. Flags are judgments to verify, not proofs.<br><br>
+      <sub>⚙️ <b>Runs on:</b> Any capable chat model · a prompt spec, built with Grok in mind; no code ships</sub><br>
+      📂 <a href="https://github.com/neuresthetics/substance_lens">repo</a>
     </td>
   </tr>
 </table>
