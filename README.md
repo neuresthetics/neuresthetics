@@ -105,14 +105,14 @@ flowchart TB
     </td>
   </tr>
   <tr>
-    <td><a href="https://neuresthetics.github.io/book/"><img src="img/short-book.jpg" width="100%" alt="Monitors on a dark desk"></a></td>
+    <td><a href="https://neuresthetics.github.io/book/"><img src="img/short-book-graph.jpg" width="100%" alt="The book's dependency graph (12 items, 33 links) drawn over a page of Spinoza's 1677 Ethics"></a></td>
   </tr>
   <tr>
     <td>
       <b>📖 <a href="https://neuresthetics.github.io/book/">Freedom of Necessity</a></b><br>
       <b>The book.</b> A Spinoza-style geometric book on one order, God or Nature, to which the brain and its society belong.<br>
       <sub>⚙️ <b>Runs on:</b> Local Qwen 27B · checks each entry against what it cites; argument harness in progress</sub><br>
-      <sub>🌐 <a href="https://neuresthetics.github.io/book/">page</a> · 📂 <a href="https://github.com/neuresthetics/freedom_of_necessity">repo</a></sub>
+      <sub>🌐 <a href="https://neuresthetics.github.io/book/">page</a> · 📂 <a href="https://github.com/neuresthetics/freedom_of_necessity">repo</a> · 🖼️ <a href="img/book-credits.md">image credit</a></sub>
     </td>
   </tr>
   <tr>
