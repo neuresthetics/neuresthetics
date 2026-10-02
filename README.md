@@ -26,7 +26,7 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
       <a href="https://neuresthetics.github.io/restokit/"><img src="img/card-restokit.jpg" width="100%" alt="RestoKit"></a>
       <h3>💧 <a href="https://neuresthetics.github.io/restokit/">RestoKit</a></h3>
       <img src="https://img.shields.io/badge/field_tool-water_·_mold_·_crawlspace-ff8a2a?style=flat-square" alt="field tool-water · mold · crawlspace"><br><br>
-      A voice-ready field kit for restoration techs, grounded in IICRC S500 and S520. It holds the job flow and the rare edge cases.<br><br>
+      A restoration kit for any level, from tech to PM and estimator, grounded in IICRC S500 and S520. It holds the job flow and the rare edge cases.<br><br>
       🌐 <a href="https://neuresthetics.github.io/restokit/">page</a> · 📂 <a href="https://github.com/neuresthetics/resto_kit_public">public repo</a>
     </td>
     <td width="50%" valign="top">
