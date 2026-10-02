@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://neuresthetic.net"><img src="img/banner.jpg" width="100%" alt="Neuresthetics banner: a brain with light streaming out of it"></a>
-</p>
-
 <h1 align="center">🧠 Neuresthetics</h1>
 
 <p align="center">
@@ -54,6 +50,10 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://neuresthetic.net"><img src="img/banner.jpg" width="100%" alt="Neuresthetics banner: a brain with light streaming out of it"></a>
+</p>
 
 ## 🧪 From the workshop
 
