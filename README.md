@@ -63,7 +63,7 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
   <tr>
     <td>
       <h3>🔎 <a href="https://neuresthetics.github.io/grokipedia/">Grokipedia Truth Audit</a></h3>
-      Reproducible audits of Grokipedia articles on saved snapshots: fallacy scans and citation checks, with the data and scripts to check them. So far: 58 circumcision-related articles and the Spinoza article.<br><br>
+      Audits of Grokipedia articles on saved snapshots, with the data and scripts to check them. Fallacy scans and citation checks so far cover 58 circumcision-related articles and the Spinoza article.<br><br>
       <sub>⚙️ <b>Runs on:</b> Grok · a model reads saved snapshots against the substance_lens fallacy catalogue; scripts verify quotes and citations</sub><br>
       🌐 <a href="https://neuresthetics.github.io/grokipedia/">page</a> · 📂 <a href="https://github.com/neuresthetics/grokipedia-truth-audit">repo</a>
     </td>
