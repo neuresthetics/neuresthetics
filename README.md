@@ -90,13 +90,9 @@ I build tools for people who work with their hands and their heads: 🛠️ fiel
 
 ## 🧠 BRAND PROJECT
 
-<sub>The Neuresthetics project itself: one inquiry, in three parts.</sub>
+<sub>The Neuresthetics project itself: the study and the book.</sub>
 
-The study, the book and split_load_sim are the three sides of the Neuresthetics project. The Genius Study (v8) collects sourced records of remembered geniuses and states a labeled belief model about how early lawful form might pay off; the book builds, axiom by axiom, the one order (God or Nature) to which the brain and its society belong. split_load_sim is how we go between them. None of the three comes first; each draws on the other two, circling one goal. split_load_sim grows graphs as models of how a mind's maps could be structured, drawing on the book's axioms and testing whether the study's Lane B assumptions produce the effect they claim inside the model. Its results are model outputs, not findings, and the study has no results yet. The book in turn tries to key in on what makes v8 go around, and findings in any one can send the others back to work.
-
-<p align="center">
-  <img src="img/side-projects-map.png" width="720" alt="Project map: three linked nodes around a central hub that reads 'one goal: the order of the mind'. split_load_sim (graph-growth models · model outputs, not findings), Genius Study (v8) (sourced records of remembered geniuses · no results yet) and Freedom of Necessity (the book · the one order, axiom by axiom) are each linked to the other two and to the hub. The links are non-directional.">
-</p>
+The Genius Study (v8) collects sourced records of remembered geniuses and states a labeled belief model about how early lawful form might pay off. The book builds, axiom by axiom, the one order (God or Nature) to which the brain and its society belong. The study has no results yet. The book tries to key in on what makes v8 go around, and findings in either can send the other back to work.
 
 <table>
   <tr>
@@ -119,17 +115,6 @@ The study, the book and split_load_sim are the three sides of the Neuresthetics 
       <b>The book.</b> A Spinoza-style geometric book on one order, God or Nature, to which the brain and its society belong.<br>
       <sub>⚙️ <b>Runs on:</b> Local Qwen 27B · checks each entry against what it cites; argument harness in progress</sub><br>
       <sub>🌐 <a href="https://neuresthetics.github.io/book/">page</a> · 📂 <a href="https://github.com/neuresthetics/freedom_of_necessity">repo</a> · 🖼️ <a href="img/book-credits.md">image credit</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://neuresthetics.github.io/split-load-sim/"><img src="img/short-split-load-sim.jpg" width="100%" alt="An exception_prior run from split_load_sim: a teal main map joined to an amber reserved map by one bottleneck edge"></a></td>
-  </tr>
-  <tr>
-    <td>
-      <b>🧬 <a href="https://neuresthetics.github.io/split-load-sim/">split_load_sim</a></b><br>
-      <b>The bridge.</b> Graph-growth models that connect the study and the book, descended from <a href="https://github.com/neuresthetics/graphtacular">graphtacular</a> (2019). Model outputs, not findings.<br>
-      <sub>⚙️ <b>Runs on:</b> No model · seeded Python graph models</sub><br>
-      <sub>🌐 <a href="https://neuresthetics.github.io/split-load-sim/">page</a> · 📂 <a href="https://github.com/neuresthetics/split_load_sim">repo</a></sub>
     </td>
   </tr>
 </table>
