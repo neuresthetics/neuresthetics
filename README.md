@@ -1,7 +1,7 @@
 <h1 align="center">🧠 Neuresthetics</h1>
 
 <p align="center">
-  <b>Jason Burns</b> · 📍 Portland, OR · 🌐 <a href="https://neuresthetic.net">neuresthetic.net</a>
+  <b>Jason Burns</b> · 🌐 <a href="https://neuresthetic.net">neuresthetic.net</a>
 </p>
 
 <p align="center">
@@ -14,11 +14,15 @@
 
 I build tools for people who work with their hands and their heads: 🛠️ field kits for restoration techs, 🗣️ a word board for kids learning to talk, and 📜 long-running research on how minds put order on the world. Neuresthetics started before AI. AI is one of the tools now, not the point.
 
-## ⚙️ HOW IT'S BUILT
+## ABOUT ME
 
-**Local models.** A Linux tower with a 20 GB GPU and 64 GB RAM runs Ollama with Qwen 27B, in a standard and an uncensored build, at 16K context. A stock 14B is being added for model-swap runs. The tower works through unattended job queues, for days if needed, for an adversarial argument harness: the models draft the strongest case for each side, code checks every cite against word-for-word source excerpts, and runs are rescored and repeated across seeds and model swaps to see how much of a result comes from the model.
+Restoration tech. Water, mold, and crawlspace, across a few companies. RestoKit is the kit I wanted on those jobs.
 
-**Grok.** Grok Bot (an xAI assistant) runs a set of project bots for coding, audits, writing support, and fetching the word-for-word sources those cite checks use.
+I am building a speech pad for my daughter. ANOVA Language. The buttons stay put as her word levels grow. It runs offline, on a tablet.
+
+The long work is the study and the book. Sourced records, a labeled belief model, and a geometric construction of one order, God or Nature. No results to announce.
+
+The name on the work is Neuresthetics, since 2017.
 
 ## 🛠️ "REAL WORLD" PRODUCTS
 
