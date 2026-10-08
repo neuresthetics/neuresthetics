@@ -22,7 +22,7 @@ I am building a speech pad for my daughter. ANOVA Language. The buttons stay put
 
 The long work is the study and the book. Sourced records, a labeled belief model, and a geometric construction of one order, God or Nature. No results to announce.
 
-The name on the work is Neuresthetics, since 2017.
+I have called it Neuresthetics since 2017. The name came first.
 
 ## 🛠️ "REAL WORLD" PRODUCTS
 
