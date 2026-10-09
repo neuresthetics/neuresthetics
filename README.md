@@ -60,14 +60,14 @@ The long work is the study and the book. Sourced records, a labeled belief model
 
 <table>
   <tr>
-    <td><img src="img/wide-grokipedia.jpg" width="100%" alt="Grokipedia Audit"></td>
+    <td><a href="https://neuresthetics.github.io/grokipedia/"><img src="img/wide-grokipedia.jpg" width="100%" alt="Grokipedia Audit"></a></td>
   </tr>
   <tr>
     <td>
-      <h3>🔎 Grokipedia Audit</h3>
+      <h3>🔎 <a href="https://neuresthetics.github.io/grokipedia/">Grokipedia Audit</a></h3>
       Checks Grokipedia articles against the sources they cite, one claim at a time, quoting both so anyone can check the work. Being rebuilt on a plain method; no current results yet.<br><br>
       <sub>⚙️ <b>Runs on:</b> A general-purpose AI agent · plain written steps and fallacy_catalog; each finding records the model and date</sub><br>
-      🌐 page · 📂 repo
+      🌐 <a href="https://neuresthetics.github.io/grokipedia/">page</a> · 📂 <a href="https://github.com/neuresthetics/grokipedia_audit">repo</a>
     </td>
   </tr>
 </table>
@@ -87,8 +87,8 @@ The Genius Study (v8) collects sourced records of remembered geniuses and states
   <tr>
     <td>
       <b>🔬 <a href="https://neuresthetics.github.io/study/">Neuresthetics Genius Study</a></b><br>
-      <b>The study.</b> Where remembered genius sits on a scale of lawful, non-intervening order, with a labeled belief model. v8 is in progress; no results yet.<br>
-      <sub>⚙️ <b>Runs on:</b> Grok · Grok Bot agents draft person records from web search and the cited pages (unreviewed)</sub><br>
+      <b>The study.</b> Where remembered genius sits on a scale of lawful, non-intervening order, with a labeled belief model. v8 is paused; no results yet.<br>
+      <sub>⚙️ <b>Runs on:</b> Grok · one Grok Bot drafts person records from web search and the cited pages; blind audit runs check them (unreviewed drafts) · paused</sub><br>
       <sub>🌐 <a href="https://neuresthetics.github.io/study/">page</a> · 📂 <a href="https://github.com/neuresthetics/neuresthetics_genius_study">repo</a> · 🖼️ <a href="img/study-faces-credits.md">portrait credits</a></sub>
     </td>
   </tr>
@@ -98,9 +98,9 @@ The Genius Study (v8) collects sourced records of remembered geniuses and states
   <tr>
     <td>
       <b>📖 <a href="https://neuresthetics.github.io/book/">Freedom of Necessity</a></b><br>
-      <b>The book.</b> A Spinoza-style geometric book on one order, God or Nature, to which the brain and its society belong.<br>
-      <sub>⚙️ <b>Runs on:</b> Local Qwen 27B · checks each entry against what it cites; argument harness in progress</sub><br>
-      <sub>🌐 <a href="https://neuresthetics.github.io/book/">page</a> · 📂 <a href="https://github.com/neuresthetics/freedom_of_necessity">repo</a> · 🖼️ <a href="img/book-credits.md">image credit</a></sub>
+      <b>The book.</b> A Spinoza-style geometric book on one order, God or Nature, to which the brain and its society belong. There is no original <i>Ethics</i>; this book rebuilds the order in the open, and goes further than Spinoza on freedom.<br>
+      <sub>⚙️ <b>Runs on:</b> Local Qwen 27B, uncensored and stock · adversarial argument harness; no harness scores yet</sub><br>
+      <sub>🌐 <a href="https://neuresthetics.github.io/book/">page</a> · 📂 <a href="https://github.com/neuresthetics/freedom_of_necessity">repo</a> · 📜 <a href="https://github.com/neuresthetics/freedom_of_necessity/blob/main/PREFACE.md">preface</a> · 🖼️ <a href="img/book-credits.md">image credit</a></sub>
     </td>
   </tr>
 </table>
