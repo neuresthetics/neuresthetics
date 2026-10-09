@@ -60,13 +60,13 @@ The long work is the study and the book. Sourced records, a labeled belief model
 
 <table>
   <tr>
-    <td><img src="img/wide-grokipedia.jpg" width="100%" alt="Grokipedia Truth Audit"></td>
+    <td><img src="img/wide-grokipedia.jpg" width="100%" alt="Grokipedia Audit"></td>
   </tr>
   <tr>
     <td>
-      <h3>🔎 Grokipedia Truth Audit</h3>
-      Audits of Grokipedia articles on saved snapshots, with the data and scripts to check them. Fallacy scans and citation checks so far cover 58 circumcision-related articles and the Spinoza article.<br><br>
-      <sub>⚙️ <b>Runs on:</b> Grok · a model reads saved snapshots against a fallacy catalogue; scripts verify quotes and citations</sub><br>
+      <h3>🔎 Grokipedia Audit</h3>
+      Checks Grokipedia articles against the sources they cite, one claim at a time, quoting both so anyone can check the work. Being rebuilt on a plain method; no current results yet.<br><br>
+      <sub>⚙️ <b>Runs on:</b> A general-purpose AI agent · plain written steps and fallacy_catalog; each finding records the model and date</sub><br>
       🌐 page · 📂 repo
     </td>
   </tr>
