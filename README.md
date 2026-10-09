@@ -87,8 +87,8 @@ The Genius Study (v8) collects sourced records of remembered geniuses and states
   <tr>
     <td>
       <b>🔬 <a href="https://neuresthetics.github.io/study/">Neuresthetics Genius Study</a></b><br>
-      <b>The study.</b> Where remembered genius sits on a scale of lawful, non-intervening order, with a labeled belief model. v8 is paused; no results yet.<br>
-      <sub>⚙️ <b>Runs on:</b> Grok · one Grok Bot drafts person records from web search and the cited pages; blind audit runs check them (unreviewed drafts) · paused</sub><br>
+      <b>The study.</b> Where remembered genius sits on a scale of lawful, non-intervening order, with a labeled belief model. v8 is in progress; no results yet.<br>
+      <sub>⚙️ <b>Runs on:</b> Grok · one Grok Bot drafts person records from web search and the cited pages; blind audit runs check them (unreviewed drafts)</sub><br>
       <sub>🌐 <a href="https://neuresthetics.github.io/study/">page</a> · 📂 <a href="https://github.com/neuresthetics/neuresthetics_genius_study">repo</a> · 🖼️ <a href="img/study-faces-credits.md">portrait credits</a></sub>
     </td>
   </tr>
