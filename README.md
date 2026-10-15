@@ -99,7 +99,7 @@ The Genius Study (v8) collects sourced records of remembered geniuses and states
     <td>
       <b>📖 <a href="https://neuresthetics.github.io/book/">Freedom of Necessity</a></b><br>
       <b>The book.</b> A Spinoza-style geometric book on one order, God or Nature, to which the brain and its society belong. There is no original <i>Ethics</i>; this book rebuilds the order in the open, and goes further than Spinoza on freedom.<br>
-      <sub>⚙️ <b>Runs on:</b> Local Qwen 27B, uncensored and stock · adversarial argument harness; no harness scores yet</sub><br>
+      <sub>⚙️ <b>Runs on:</b> Grok · written and checked with Grok; core v2 in force, v12 verse draft; no harness scores yet</sub><br>
       <sub>🌐 <a href="https://neuresthetics.github.io/book/">page</a> · 📂 <a href="https://github.com/neuresthetics/freedom_of_necessity">repo</a> · 📜 <a href="https://github.com/neuresthetics/freedom_of_necessity/blob/main/PREFACE.md">preface</a> · 🖼️ <a href="img/book-credits.md">image credit</a></sub>
     </td>
   </tr>
