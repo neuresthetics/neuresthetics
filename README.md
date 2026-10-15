@@ -44,7 +44,7 @@ The long work is the study and the book. Sourced records, a labeled belief model
 
 <table>
   <tr>
-    <td><a href="https://neuresthetics.github.io/anova/"><img src="img/wide-anova-hands.jpg" width="100%" alt="A child's hands holding a tablet running the ANOVA Language word board, with I want water in the message bar"></a></td>
+    <td><a href="https://neuresthetics.github.io/anova/"><img src="img/wide-anova-board.jpg" width="100%" alt="A child's hands holding a tablet, tipped back slightly, showing the ANOVA Language 1.3.2 home screen"></a></td>
   </tr>
   <tr>
     <td>
