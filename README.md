@@ -60,7 +60,7 @@ The long work is the study and the book. Sourced records, a labeled belief model
 
 <table>
   <tr>
-    <td><a href="https://neuresthetics.github.io/grokipedia/"><img src="img/wide-grokipedia.jpg" width="100%" alt="The Grok logo under a magnifying glass, with footnote markers [89] to [92] each marked supported, failed or unclear, over a grid of colored verdict dots"></a></td>
+    <td><a href="https://neuresthetics.github.io/grokipedia/"><img src="img/wide-grokipedia-v2.jpg" width="100%" alt="The Grok logo under a magnifying glass, with footnote markers [89] to [92] each marked supported, failed or unclear, over a grid of colored verdict dots"></a></td>
   </tr>
   <tr>
     <td>
