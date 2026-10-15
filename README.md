@@ -93,7 +93,7 @@ The Genius Study (v8) collects sourced records of remembered geniuses and states
     </td>
   </tr>
   <tr>
-    <td><a href="https://neuresthetics.github.io/book/"><img src="img/short-book-graph.jpg" width="100%" alt="The book's dependency graph (12 items, 33 links) drawn over a page of Spinoza's 1677 Ethics"></a></td>
+    <td><a href="https://neuresthetics.github.io/book/"><img src="img/short-book-lattice.jpg" width="100%" alt="Inside a lattice of hairline edges and nodes, converging on one bright root node"></a></td>
   </tr>
   <tr>
     <td>
