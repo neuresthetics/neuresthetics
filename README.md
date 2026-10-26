@@ -28,12 +28,12 @@ The long work is the study and the book. Sourced records, a labeled belief model
 
 <table>
   <tr>
-    <td><a href="https://neuresthetics.github.io/restokit/"><img src="img/wide-restokit-signal.jpg" width="100%" alt="The RestoKit Meter Face logo, a blue moisture-meter bot with two probe pins, droplet eyes and an amber reading bar, beside the RestoKit wordmark on ink navy over faint meter-reading bars"></a></td>
+    <td><a href="https://neuresthetics.github.io/restokit/"><img src="img/wide-restokit-signal.jpg" width="100%" alt="RestoKit, a restoration kit for water, mold, and crawlspace work"></a></td>
   </tr>
   <tr>
     <td>
       <h3>💧 <a href="https://neuresthetics.github.io/restokit/">RestoKit</a></h3>
-      A restoration kit for water, mold, and crawlspace jobs, built for any level from tech to PM and estimator. Grounded in IICRC S500 and S520, it walks a job in order and holds the rare edge cases.<br><br>
+      RestoKit is a structured restoration kit for water, mold, and crawlspace work — from tech through lead, PM, and estimator. Grounded in IICRC S500 and S520 principles; runs on commercial models in the Grok app or a Grok Bot. Kit 0.9.15: file review before the day-forward plan, role-sorted to-dos (PM → Lead → Techs), and morning into-file notes that stay delta-only (decisions, today’s work, who’s assigned).<br><br>
       <sub>⚙️ <b>Runs on:</b> Commercial cloud models · loaded into the Grok app or a Grok Bot</sub><br>
       🌐 <a href="https://neuresthetics.github.io/restokit/">page</a> · 📂 <a href="https://github.com/neuresthetics/resto_kit_public">repo</a>
     </td>
@@ -44,12 +44,12 @@ The long work is the study and the book. Sourced records, a labeled belief model
 
 <table>
   <tr>
-    <td><a href="https://neuresthetics.github.io/anova/"><img src="img/wide-anova-board.jpg" width="100%" alt="A child's hands holding a tablet, tipped back slightly, showing the ANOVA Language 1.3.2 home screen"></a></td>
+    <td><a href="https://neuresthetics.github.io/anova/"><img src="img/wide-anova-board.jpg" width="100%" alt="ANOVA Language Word Board 1.5.2 Paths menu, with pattern buttons for phrases such as I want, help me, I see, go to, and I like"></a></td>
   </tr>
   <tr>
     <td>
       <h3>🗣️ <a href="https://neuresthetics.github.io/anova/">ANOVA Language</a></h3>
-      A free, offline AAC word board for iPad and other tablets. Buttons stay put as word levels grow. MIT licensed.<br><br>
+      A free, offline AAC word board for iPad and other tablets. Word Board 1.5.2 with Paths. No shared live demo: fork the repo and follow <a href="https://github.com/neuresthetics/anova_language_dev_public/blob/main/docs/SETUP.md">SETUP</a>. MIT licensed.<br><br>
       <sub>⚙️ <b>Runs on:</b> No model · plain HTML, CSS and JavaScript, offline, no network calls</sub><br>
       🌐 <a href="https://neuresthetics.github.io/anova/">page</a> · 📂 <a href="https://github.com/neuresthetics/anova_language_dev_public">repo</a>
     </td>
@@ -60,12 +60,12 @@ The long work is the study and the book. Sourced records, a labeled belief model
 
 <table>
   <tr>
-    <td><a href="https://neuresthetics.github.io/grokipedia/"><img src="img/wide-grokipedia-v2.jpg" width="100%" alt="The Grok logo under a magnifying glass, with footnote markers [89] to [92] each marked supported, failed or unclear, over a grid of colored verdict dots"></a></td>
+    <td><a href="https://neuresthetics.github.io/grokipedia/"><img src="img/wide-grokipedia-v2.jpg" width="100%" alt="Grok logo under a magnifying glass over a grid of colored dots, one per sentence of the Spinoza audit"></a></td>
   </tr>
   <tr>
     <td>
       <h3>🔎 <a href="https://neuresthetics.github.io/grokipedia/">Grokipedia Audit</a></h3>
-      Checks Grokipedia articles against the sources they cite, one claim at a time, quoting both so anyone can check the work. Current results: a circumcision fallacy_catalog benchmark and a Spinoza citation audit.<br><br>
+      Checks Grokipedia articles against the sources they cite, one claim at a time, quoting both so anyone can check the work. Current published results: a circumcision fallacy_catalog benchmark (58 articles) and a Spinoza citation audit (401 sentences). Consciousness pages are snapshotted only; no checks on that set yet.<br><br>
       <sub>⚙️ <b>Runs on:</b> A general-purpose AI agent · plain written steps and fallacy_catalog; each finding records the model and date</sub><br>
       🌐 <a href="https://neuresthetics.github.io/grokipedia/">page</a> · 📂 <a href="https://github.com/neuresthetics/grokipedia_audit">repo</a>
     </td>
@@ -78,7 +78,7 @@ The long work is the study and the book. Sourced records, a labeled belief model
 
 <sub>The Neuresthetics project itself: the study and the book.</sub>
 
-The Genius Study (v8) collects sourced records of remembered geniuses and states a labeled belief model about how early lawful form might pay off. The book builds, axiom by axiom, the one order (God or Nature) to which the brain and its society belong. The study has no results yet. The book tries to key in on what makes v8 go around, and findings in either can send the other back to work.
+The Genius Study (v8) collects sourced person and belief-system records of remembered genius and keeps a labeled belief model separate. It asks where that genius sits on a scale of lawful, non-intervening order. v8 is in progress; the study has no results yet. Freedom of Necessity, the book, is a live core v3 draft with dual verse tracks, poetic and technical, sharing V001–V251 from the root axiom A1, “I exist.” The collision record is the book. Findings in either can send the other back to work.
 
 <table>
   <tr>
@@ -87,19 +87,19 @@ The Genius Study (v8) collects sourced records of remembered geniuses and states
   <tr>
     <td>
       <b>🔬 <a href="https://neuresthetics.github.io/study/">Neuresthetics Genius Study</a></b><br>
-      <b>The study.</b> Where remembered genius sits on a scale of lawful, non-intervening order, with a labeled belief model. v8 is in progress; no results yet.<br>
+      <b>The study.</b> Where remembered genius sits on a scale of lawful, non-intervening order — sourced person and belief-system records, with a labeled belief model kept separate. v8 is in progress; no results yet.<br>
       <sub>⚙️ <b>Runs on:</b> Grok · one Grok Bot drafts person records from web search and the cited pages; blind audit runs check them (unreviewed drafts)</sub><br>
       <sub>🌐 <a href="https://neuresthetics.github.io/study/">page</a> · 📂 <a href="https://github.com/neuresthetics/neuresthetics_genius_study">repo</a> · 🖼️ <a href="img/study-faces-credits.md">portrait credits</a></sub>
     </td>
   </tr>
   <tr>
-    <td><a href="https://neuresthetics.github.io/book/"><img src="img/short-book-lattice.jpg" width="100%" alt="Inside a lattice of hairline edges and nodes, converging on one bright root node"></a></td>
+    <td><a href="https://neuresthetics.github.io/book/"><img src="img/short-book-lattice.jpg" width="100%" alt="Freedom of Necessity — dual render, core v3, starting from I exist"></a></td>
   </tr>
   <tr>
     <td>
       <b>📖 <a href="https://neuresthetics.github.io/book/">Freedom of Necessity</a></b><br>
-      <b>The book.</b> A Spinoza-style geometric book on one order, God or Nature, to which the brain and its society belong. There is no original <i>Ethics</i>; this book rebuilds the order in the open, and goes further than Spinoza on freedom.<br>
-      <sub>⚙️ <b>Runs on:</b> Grok · written and checked with Grok; core v2 in force, v12 verse draft; no harness scores yet</sub><br>
+      <b>The book.</b> Freedom of Necessity is a Spinoza-style geometric work — definitions, axioms, and propositions in one chain from the root axiom A1, “I exist.” Live draft is core v3 (BASE 20 + expansion 231 = 251) with dual verse tracks, poetic and technical, sharing the same V001–V251 numbers and entry labels. Freedom under necessity, body and society as wholes by degree, and digital intelligence kept inside evidence; the collision record is the book.<br>
+      <sub>⚙️ <b>Runs on:</b> Grok · core v3 dual-track draft; no harness scores; no results to announce</sub><br>
       <sub>🌐 <a href="https://neuresthetics.github.io/book/">page</a> · 📂 <a href="https://github.com/neuresthetics/freedom_of_necessity">repo</a> · 📜 <a href="https://github.com/neuresthetics/freedom_of_necessity/blob/main/PREFACE.md">preface</a> · 🖼️ <a href="img/book-credits.md">image credit</a></sub>
     </td>
   </tr>
