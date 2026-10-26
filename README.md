@@ -93,6 +93,12 @@ The Genius Study (v8) collects sourced person and belief-system records of remem
     </td>
   </tr>
   <tr>
+    <td>
+      <a href="https://neuresthetics.github.io/study/"><img src="img/people-systems-overlay.png" width="100%" alt="Draft people and belief-system scores on the same grid"></a><br>
+      <sub>The same chart with the hand-picked people added (circles). These are drafts, not a sample and not a result. 🌐 <a href="https://neuresthetics.github.io/study/">page</a> · 📂 <a href="https://github.com/neuresthetics/neuresthetics_genius_study">repo</a></sub>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://neuresthetics.github.io/book/"><img src="img/short-book-lattice.jpg" width="100%" alt="Freedom of Necessity — dual render, core v3, starting from I exist"></a></td>
   </tr>
   <tr>
