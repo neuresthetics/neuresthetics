@@ -65,7 +65,7 @@ The long work is the study and the book. Sourced records, a labeled belief model
   <tr>
     <td>
       <h3>🔎 <a href="https://neuresthetics.github.io/grokipedia/">Grokipedia Audit</a></h3>
-      Checks Grokipedia articles against the sources they cite, one claim at a time, with the evidence kept next to every finding. Current published results: a circumcision and FGM benchmark (58 articles) and a Spinoza citation audit (401 sentences). In progress: automated idea_detection dry runs on 2,616 circumcision argument passages (leads, not verdicts). Consciousness pages are snapshotted only; no checks on that set yet.<br><br>
+      Checks Grokipedia articles against the sources they cite, one claim at a time, with the evidence kept next to every finding. Published results include a Spinoza citation audit (401 sentences) and further source-check benchmarks on the project page. In progress: automated idea_detection dry runs (leads, not verdicts). Consciousness pages are snapshotted only; no checks on that set yet.<br><br>
       <sub>⚙️ <b>Runs on:</b> A general-purpose AI agent · plain written steps; each finding records the model and date</sub><br>
       🌐 <a href="https://neuresthetics.github.io/grokipedia/">page</a> · 📂 <a href="https://github.com/neuresthetics/grokipedia_audit">repo</a>
     </td>
