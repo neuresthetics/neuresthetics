@@ -82,7 +82,7 @@ The Genius Study (v8) collects sourced person and belief-system records of remem
 
 <table>
   <tr>
-    <td><a href="https://neuresthetics.github.io/study/"><img src="img/short-study-faces.jpg" width="100%" alt="Portraits of people from the study's roster fading into a crowd of about 1,380"></a></td>
+    <td><a href="https://neuresthetics.github.io/study/"><img src="img/study-faces-by-chart.jpg" width="100%" alt="Faces ordered by position on the people chart (top-right first), as of 26 Oct 2026 / research commit 15afac2, not a ranking of genius"></a></td>
   </tr>
   <tr>
     <td>
