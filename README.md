@@ -1,11 +1,11 @@
-<h1 align="center">🧠 Neuresthetics</h1>
+<h1 align="center">Neuresthetics</h1>
 
 <p align="center">
-  <b>Jason Burns</b> · 🌐 <a href="https://neuresthetic.net">neuresthetic.net</a>
+  <b>Jason Burns</b> · 🌐 <a href="https://neuresthetics.github.io">neuresthetics.github.io</a>
 </p>
 
 <p align="center">
-  <a href="https://neuresthetic.net"><img src="https://img.shields.io/badge/neuresthetic.net-c9a227?style=for-the-badge&logo=googlechrome&logoColor=white" alt="neuresthetic.net"></a>
+  <a href="https://neuresthetics.github.io"><img src="https://img.shields.io/badge/neuresthetics.github.io-c9a227?style=for-the-badge&logo=googlechrome&logoColor=white" alt="neuresthetics.github.io"></a>
   <img src="https://img.shields.io/badge/builder-tools_%2B_research-2d2d2d?style=for-the-badge" alt="builder: tools and research">
   <img src="https://img.shields.io/badge/since-2017-3aa0ff?style=for-the-badge" alt="since 2017">
 </p>
@@ -74,11 +74,13 @@ The long work is the study and the book. Sourced records, a labeled belief model
 
 <br>
 
-## 🧠 BRAND PROJECT
+## BRAND PROJECT
+
+🌐 <a href="https://neuresthetic.net">neuresthetic.net</a>
 
 <sub>The Neuresthetics project itself: the study and the book.</sub>
 
-The Genius Study (v8) collects sourced person and belief-system records of remembered genius and keeps a labeled belief model separate. Drafts only; no results yet. Freedom of Necessity, the book, is a live core v3 draft with dual verse tracks, poetic and technical, sharing V001–V251 from the root axiom A1, “I exist.” Findings in either can send the other back to work.
+The Genius Study (v8) collects sourced person and belief-system records of remembered genius and keeps a labeled belief model separate. Drafts only; no results yet. Freedom of Necessity, the book, is a live core v3 draft with dual verse tracks, poetic and technical, sharing V001–V249 from the root axiom A1, “I exist.” Findings in either can send the other back to work.
 
 <table>
   <tr>
@@ -98,7 +100,7 @@ The Genius Study (v8) collects sourced person and belief-system records of remem
   <tr>
     <td>
       <b>📖 <a href="https://neuresthetics.github.io/book/">Freedom of Necessity</a></b><br>
-      <b>The book.</b> Freedom of Necessity is a Spinoza-style geometric work — definitions, axioms, and propositions in one chain from the root axiom A1, “I exist.” Live draft is core v3 (BASE 20 + expansion 231 = 251) with dual verse tracks, poetic and technical, sharing the same V001–V251 numbers. The collision record is the book.<br>
+      <b>The book.</b> Freedom of Necessity is a Spinoza-style geometric work — definitions, axioms, and propositions in one chain from the root axiom A1, “I exist.” Live draft is core v3 with dual verse tracks, poetic and technical, sharing the same V001–V249 numbers. The collision record is the book.<br>
       <sub>⚙️ <b>Runs on:</b> Grok · core v3 dual-track draft; harness scores dropped from the process (2026-11-09); no results to announce</sub><br>
       <sub>🌐 <a href="https://neuresthetics.github.io/book/">page</a> · 📂 <a href="https://github.com/neuresthetics/freedom_of_necessity">repo</a> · 📜 <a href="https://github.com/neuresthetics/freedom_of_necessity/blob/main/PREFACE.md">preface</a> · 🖼️ <a href="img/book-credits.md">image credit</a></sub>
     </td>
