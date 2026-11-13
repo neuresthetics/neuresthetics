@@ -1,11 +1,11 @@
-<h1 align="center">🧠 Neuresthetics</h1>
+<h1 align="center">Neuresthetics</h1>
 
 <p align="center">
-  <b>Jason Burns</b> · 🌐 <a href="https://neuresthetic.net">neuresthetic.net</a>
+  <b>Jason Burns</b> · 🌐 <a href="https://neuresthetics.github.io">neuresthetics.github.io</a>
 </p>
 
 <p align="center">
-  <a href="https://neuresthetic.net"><img src="https://img.shields.io/badge/neuresthetic.net-c9a227?style=for-the-badge&logo=googlechrome&logoColor=white" alt="neuresthetic.net"></a>
+  <a href="https://neuresthetics.github.io"><img src="https://img.shields.io/badge/neuresthetics.github.io-c9a227?style=for-the-badge&logo=googlechrome&logoColor=white" alt="neuresthetics.github.io"></a>
   <img src="https://img.shields.io/badge/builder-tools_%2B_research-2d2d2d?style=for-the-badge" alt="builder: tools and research">
   <img src="https://img.shields.io/badge/since-2017-3aa0ff?style=for-the-badge" alt="since 2017">
 </p>
@@ -74,7 +74,9 @@ The long work is the study and the book. Sourced records, a labeled belief model
 
 <br>
 
-## 🧠 BRAND PROJECT
+## BRAND PROJECT
+
+🌐 <a href="https://neuresthetic.net">neuresthetic.net</a>
 
 <sub>The Neuresthetics project itself: the study and the book.</sub>
 
